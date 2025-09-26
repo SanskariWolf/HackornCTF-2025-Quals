@@ -164,6 +164,6 @@ smb: \>
 
 went inside svc-flag directory
 
-```cd svc-flag``` or was is hacker one i don't remember
+```cd svc-flag``` or was is hacker one or file.txt has it, i don't remember
 
 and i guess there i found the flag. Currently the challenge is down therefore can't try get the exact steps but this was the final go-through, traversing across directories, and one can find the flag. 
