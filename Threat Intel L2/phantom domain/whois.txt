@@ -1,0 +1,6442 @@
+Domain Name: secpen.org
+Registrar: HOSTINGER operations, UAB
+Creation Date: 2024-04-15T18:18:07Z
+Registry Expiry Date: 2026-04-15T18:18:07Z
+Name Server: frida.ns.cloudflare.com
+Name Server: vern.ns.cloudflare.com
+Registrant Organization: Privacy Protect, LLC (PrivacyProtect.org)
+Registrant Country: US
+
+
+Domain Name: secure.io
+Registrar: GoDaddy.com, LLC
+Registrant Email: infra@tutanota.com
+Creation Date: 2020-08-10
+Expiration Date: 2027-11-01
+Name Server: ns1.fakecdn72.io
+Name Server: ns6.fakecdn92.io
+
+Domain Name: intel-api.com
+Registrar: GoDaddy.com, LLC
+Registrant Email: user6934@example.com
+Creation Date: 2021-11-09
+Expiration Date: 2028-05-21
+Name Server: ns3.fakecdn6.io
+Name Server: ns8.fakecdn69.io
+
+Domain Name: staging.co
+Registrar: NameCheap, Inc.
+Registrant Email: user4751@example.com
+Creation Date: 2020-08-11
+Expiration Date: 2025-07-26
+Name Server: ns4.fakecdn36.io
+Name Server: ns8.fakecdn82.io
+
+Domain Name: pay-vpn.io
+Registrar: NameCheap, Inc.
+Registrant Email: user7583@example.com
+Creation Date: 2021-08-21
+Expiration Date: 2025-04-25
+Name Server: ns2.fakecdn5.io
+Name Server: ns7.fakecdn52.io
+
+Domain Name: login-portal.info
+Registrar: GoDaddy.com, LLC
+Registrant Email: user4050@example.com
+Creation Date: 2024-07-22
+Expiration Date: 2027-05-28
+Name Server: ns4.fakecdn47.io
+Name Server: ns6.fakecdn18.io
+
+Domain Name: panel-login.net
+Registrar: GoDaddy.com, LLC
+Registrant Email: user1050@example.com
+Creation Date: 2018-02-17
+Expiration Date: 2028-10-25
+Name Server: ns1.fakecdn88.io
+Name Server: ns9.fakecdn97.io
+
+Domain Name: harsh-cloud.io
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user8211@example.com
+Creation Date: 2020-03-25
+Expiration Date: 2025-11-10
+Name Server: ns3.fakecdn98.io
+Name Server: ns6.fakecdn70.io
+
+Domain Name: api.tech
+Registrar: NameCheap, Inc.
+Registrant Email: user1413@example.com
+Creation Date: 2018-10-11
+Expiration Date: 2027-12-27
+Name Server: ns2.fakecdn17.io
+Name Server: ns8.fakecdn71.io
+
+Domain Name: data.co
+Registrar: GoDaddy.com, LLC
+Registrant Email: infra@tutanota.com
+Creation Date: 2018-09-20
+Expiration Date: 2026-11-24
+Name Server: ns1.fakecdn76.io
+Name Server: ns9.fakecdn30.io
+
+Domain Name: secure.com
+Registrar: GoDaddy.com, LLC
+Registrant Email: ops@secpenlabs.net
+Creation Date: 2024-05-27
+Expiration Date: 2028-03-26
+Name Server: ns4.fakecdn32.io
+Name Server: ns8.fakecdn53.io
+
+Domain Name: panel.co
+Registrar: HOSTINGER operations, UAB
+Registrant Email: infra@tutanota.com
+Creation Date: 2020-02-19
+Expiration Date: 2028-01-04
+Name Server: ns4.fakecdn18.io
+Name Server: ns8.fakecdn24.io
+
+Domain Name: cdn-ds.net
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user838@example.com
+Creation Date: 2020-05-25
+Expiration Date: 2027-04-02
+Name Server: ns1.fakecdn22.io
+Name Server: ns8.fakecdn1.io
+
+Domain Name: data-hackorn.tech
+Registrar: HOSTINGER operations, UAB
+Registrant Email: john.cyber@protonmail.com
+Creation Date: 2021-07-08
+Expiration Date: 2025-04-28
+Name Server: ns1.fakecdn75.io
+Name Server: ns8.fakecdn65.io
+
+Domain Name: login.net
+Registrar: GoDaddy.com, LLC
+Registrant Email: john.cyber@protonmail.com
+Creation Date: 2024-12-11
+Expiration Date: 2025-06-17
+Name Server: ns4.fakecdn85.io
+Name Server: ns9.fakecdn73.io
+
+Domain Name: portal-shop.info
+Registrar: GoDaddy.com, LLC
+Registrant Email: redteam_ops@protonmail.com
+Creation Date: 2018-10-28
+Expiration Date: 2028-01-07
+Name Server: ns2.fakecdn65.io
+Name Server: ns7.fakecdn17.io
+
+Domain Name: ds-ds.info
+Registrar: HOSTINGER operations, UAB
+Registrant Email: billing@secpen.org
+Creation Date: 2019-04-18
+Expiration Date: 2025-08-08
+Name Server: ns2.fakecdn35.io
+Name Server: ns7.fakecdn78.io
+
+Domain Name: inteln-test.xyz
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user732@example.com
+Creation Date: 2019-06-20
+Expiration Date: 2028-07-28
+Name Server: ns3.fakecdn21.io
+Name Server: ns8.fakecdn71.io
+
+Domain Name: go-panel.org
+Registrar: NameCheap, Inc.
+Registrant Email: user663@example.com
+Creation Date: 2022-01-05
+Expiration Date: 2026-03-07
+Name Server: ns2.fakecdn86.io
+Name Server: ns5.fakecdn46.io
+
+Domain Name: staging-harsh.xyz
+Registrar: GoDaddy.com, LLC
+Registrant Email: user6765@example.com
+Creation Date: 2018-06-08
+Expiration Date: 2027-08-22
+Name Server: ns2.fakecdn26.io
+Name Server: ns8.fakecdn45.io
+
+Domain Name: hackorn-ds.xyz
+Registrar: NameCheap, Inc.
+Registrant Email: user3174@example.com
+Creation Date: 2018-04-24
+Expiration Date: 2025-08-25
+Name Server: ns3.fakecdn23.io
+Name Server: ns9.fakecdn34.io
+
+Domain Name: panel.co
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user9456@example.com
+Creation Date: 2022-11-22
+Expiration Date: 2025-01-04
+Name Server: ns2.fakecdn47.io
+Name Server: ns8.fakecdn9.io
+
+Domain Name: auth-intranet.net
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user4854@example.com
+Creation Date: 2022-04-02
+Expiration Date: 2028-10-19
+Name Server: ns2.fakecdn79.io
+Name Server: ns9.fakecdn39.io
+
+Domain Name: go-secure.io
+Registrar: GoDaddy.com, LLC
+Registrant Email: user3511@example.com
+Creation Date: 2019-11-27
+Expiration Date: 2028-09-11
+Name Server: ns1.fakecdn37.io
+Name Server: ns9.fakecdn85.io
+
+Domain Name: panel-portal.xyz
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user6800@example.com
+Creation Date: 2025-01-23
+Expiration Date: 2028-03-24
+Name Server: ns2.fakecdn92.io
+Name Server: ns8.fakecdn64.io
+
+Domain Name: intel-intranet.com
+Registrar: NameCheap, Inc.
+Registrant Email: ops@secpenlabs.net
+Creation Date: 2023-03-19
+Expiration Date: 2028-09-29
+Name Server: ns3.fakecdn97.io
+Name Server: ns8.fakecdn79.io
+
+Domain Name: ctf-go.org
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user3929@example.com
+Creation Date: 2021-03-16
+Expiration Date: 2026-04-26
+Name Server: ns3.fakecdn43.io
+Name Server: ns7.fakecdn70.io
+
+Domain Name: pay.xyz
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: infra@tutanota.com
+Creation Date: 2022-09-17
+Expiration Date: 2027-03-09
+Name Server: ns1.fakecdn98.io
+Name Server: ns9.fakecdn49.io
+
+Domain Name: secure-vpn.co
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user8957@example.com
+Creation Date: 2021-10-08
+Expiration Date: 2028-10-01
+Name Server: ns4.fakecdn93.io
+Name Server: ns6.fakecdn60.io
+
+Domain Name: staging.com
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user9256@example.com
+Creation Date: 2021-09-02
+Expiration Date: 2026-03-10
+Name Server: ns4.fakecdn42.io
+Name Server: ns7.fakecdn98.io
+
+Domain Name: data-portal.co
+Registrar: HOSTINGER operations, UAB
+Registrant Email: infra@tutanota.com
+Creation Date: 2020-03-27
+Expiration Date: 2025-02-11
+Name Server: ns2.fakecdn31.io
+Name Server: ns6.fakecdn61.io
+
+Domain Name: go.xyz
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: john.cyber@protonmail.com
+Creation Date: 2021-07-01
+Expiration Date: 2028-03-25
+Name Server: ns4.fakecdn51.io
+Name Server: ns6.fakecdn10.io
+
+Domain Name: panel.io
+Registrar: NameCheap, Inc.
+Registrant Email: user5600@example.com
+Creation Date: 2022-09-17
+Expiration Date: 2027-10-01
+Name Server: ns1.fakecdn56.io
+Name Server: ns7.fakecdn82.io
+
+Domain Name: inteln-test-cdn.io
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user4579@example.com
+Creation Date: 2023-03-19
+Expiration Date: 2028-03-13
+Name Server: ns4.fakecdn44.io
+Name Server: ns5.fakecdn64.io
+
+Domain Name: shop-shop.io
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user4536@example.com
+Creation Date: 2024-03-24
+Expiration Date: 2026-05-08
+Name Server: ns4.fakecdn83.io
+Name Server: ns8.fakecdn58.io
+
+Domain Name: panel.xyz
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user3996@example.com
+Creation Date: 2021-12-12
+Expiration Date: 2028-12-10
+Name Server: ns4.fakecdn35.io
+Name Server: ns7.fakecdn33.io
+
+Domain Name: panel.xyz
+Registrar: HOSTINGER operations, UAB
+Registrant Email: billing@secpen.org
+Creation Date: 2019-02-16
+Expiration Date: 2026-02-02
+Name Server: ns3.fakecdn30.io
+Name Server: ns7.fakecdn23.io
+
+Domain Name: secure-go.io
+Registrar: NameCheap, Inc.
+Registrant Email: user4796@example.com
+Creation Date: 2022-12-10
+Expiration Date: 2026-11-29
+Name Server: ns2.fakecdn7.io
+Name Server: ns7.fakecdn62.io
+
+Domain Name: hackorn.co
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user2495@example.com
+Creation Date: 2022-09-01
+Expiration Date: 2028-05-26
+Name Server: ns2.fakecdn67.io
+Name Server: ns8.fakecdn58.io
+
+Domain Name: data-api.co
+Registrar: HOSTINGER operations, UAB
+Registrant Email: ops@secpenlabs.net
+Creation Date: 2024-03-10
+Expiration Date: 2025-06-03
+Name Server: ns2.fakecdn1.io
+Name Server: ns8.fakecdn58.io
+
+Domain Name: data-intel.io
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user2451@example.com
+Creation Date: 2020-12-24
+Expiration Date: 2025-10-19
+Name Server: ns1.fakecdn8.io
+Name Server: ns6.fakecdn40.io
+
+Domain Name: cdn-cdn.io
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user7182@example.com
+Creation Date: 2020-10-22
+Expiration Date: 2025-02-22
+Name Server: ns1.fakecdn30.io
+Name Server: ns9.fakecdn76.io
+
+Domain Name: staging.io
+Registrar: NameCheap, Inc.
+Registrant Email: user8512@example.com
+Creation Date: 2021-11-26
+Expiration Date: 2027-04-17
+Name Server: ns3.fakecdn42.io
+Name Server: ns5.fakecdn21.io
+
+Domain Name: admin-news.co
+Registrar: NameCheap, Inc.
+Registrant Email: user5163@example.com
+Creation Date: 2022-08-20
+Expiration Date: 2025-04-22
+Name Server: ns2.fakecdn67.io
+Name Server: ns7.fakecdn80.io
+
+Domain Name: auth-harsh.xyz
+Registrar: HOSTINGER operations, UAB
+Registrant Email: billing@secpen.org
+Creation Date: 2024-03-06
+Expiration Date: 2025-01-29
+Name Server: ns4.fakecdn12.io
+Name Server: ns6.fakecdn15.io
+
+Domain Name: portal-auth.org
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user8347@example.com
+Creation Date: 2020-02-20
+Expiration Date: 2028-05-12
+Name Server: ns2.fakecdn9.io
+Name Server: ns7.fakecdn99.io
+
+Domain Name: cloud-hackorn.io
+Registrar: NameCheap, Inc.
+Registrant Email: user4644@example.com
+Creation Date: 2024-03-10
+Expiration Date: 2028-01-18
+Name Server: ns4.fakecdn59.io
+Name Server: ns7.fakecdn25.io
+
+Domain Name: api.xyz
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user6335@example.com
+Creation Date: 2021-09-21
+Expiration Date: 2025-07-25
+Name Server: ns4.fakecdn13.io
+Name Server: ns9.fakecdn59.io
+
+Domain Name: inteln-test.co
+Registrar: GoDaddy.com, LLC
+Registrant Email: user1325@example.com
+Creation Date: 2023-06-22
+Expiration Date: 2028-01-14
+Name Server: ns1.fakecdn80.io
+Name Server: ns5.fakecdn31.io
+
+Domain Name: staging-harsh.co
+Registrar: NameCheap, Inc.
+Registrant Email: user1656@example.com
+Creation Date: 2022-10-31
+Expiration Date: 2025-10-26
+Name Server: ns2.fakecdn68.io
+Name Server: ns8.fakecdn73.io
+
+Domain Name: pay.net
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user163@example.com
+Creation Date: 2023-03-21
+Expiration Date: 2026-08-13
+Name Server: ns2.fakecdn10.io
+Name Server: ns8.fakecdn45.io
+
+Domain Name: auth-admin.io
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: billing@secpen.org
+Creation Date: 2025-11-04
+Expiration Date: 2026-08-28
+Name Server: ns1.fakecdn85.io
+Name Server: ns8.fakecdn36.io
+
+Domain Name: api.com
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: billing@secpen.org
+Creation Date: 2022-12-11
+Expiration Date: 2025-03-10
+Name Server: ns3.fakecdn94.io
+Name Server: ns6.fakecdn12.io
+
+Domain Name: cloud-admin.xyz
+Registrar: GoDaddy.com, LLC
+Registrant Email: user7904@example.com
+Creation Date: 2019-04-17
+Expiration Date: 2027-08-18
+Name Server: ns1.fakecdn19.io
+Name Server: ns6.fakecdn87.io
+
+Domain Name: staging-hackorn.info
+Registrar: NameCheap, Inc.
+Registrant Email: user9587@example.com
+Creation Date: 2025-02-28
+Expiration Date: 2027-01-31
+Name Server: ns1.fakecdn87.io
+Name Server: ns6.fakecdn61.io
+
+Domain Name: auth.info
+Registrar: GoDaddy.com, LLC
+Registrant Email: redteam_ops@protonmail.com
+Creation Date: 2019-02-03
+Expiration Date: 2026-04-26
+Name Server: ns2.fakecdn50.io
+Name Server: ns8.fakecdn48.io
+
+Domain Name: api-inteln-test.co
+Registrar: NameCheap, Inc.
+Registrant Email: redteam_ops@protonmail.com
+Creation Date: 2025-09-09
+Expiration Date: 2027-01-23
+Name Server: ns3.fakecdn8.io
+Name Server: ns8.fakecdn36.io
+
+Domain Name: staging.tech
+Registrar: NameCheap, Inc.
+Registrant Email: user3372@example.com
+Creation Date: 2024-03-20
+Expiration Date: 2026-03-01
+Name Server: ns2.fakecdn30.io
+Name Server: ns7.fakecdn19.io
+
+Domain Name: data.org
+Registrar: GoDaddy.com, LLC
+Registrant Email: user8860@example.com
+Creation Date: 2018-03-06
+Expiration Date: 2025-12-23
+Name Server: ns3.fakecdn7.io
+Name Server: ns6.fakecdn95.io
+
+Domain Name: go-harsh.tech
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user9736@example.com
+Creation Date: 2025-03-20
+Expiration Date: 2025-03-05
+Name Server: ns1.fakecdn62.io
+Name Server: ns8.fakecdn55.io
+
+Domain Name: news.tech
+Registrar: NameCheap, Inc.
+Registrant Email: user5287@example.com
+Creation Date: 2024-09-12
+Expiration Date: 2027-12-23
+Name Server: ns3.fakecdn59.io
+Name Server: ns9.fakecdn78.io
+
+Domain Name: panel-inteln-test.xyz
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user7408@example.com
+Creation Date: 2025-06-17
+Expiration Date: 2026-06-07
+Name Server: ns3.fakecdn20.io
+Name Server: ns8.fakecdn9.io
+
+Domain Name: ctf.net
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user6115@example.com
+Creation Date: 2021-12-19
+Expiration Date: 2028-09-24
+Name Server: ns4.fakecdn93.io
+Name Server: ns5.fakecdn37.io
+
+Domain Name: vpn-api.xyz
+Registrar: GoDaddy.com, LLC
+Registrant Email: user4574@example.com
+Creation Date: 2022-10-24
+Expiration Date: 2028-02-23
+Name Server: ns1.fakecdn78.io
+Name Server: ns7.fakecdn4.io
+
+Domain Name: data.io
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user1150@example.com
+Creation Date: 2023-12-13
+Expiration Date: 2026-03-17
+Name Server: ns4.fakecdn54.io
+Name Server: ns8.fakecdn44.io
+
+Domain Name: vpn.info
+Registrar: NameCheap, Inc.
+Registrant Email: user2589@example.com
+Creation Date: 2022-08-24
+Expiration Date: 2026-07-14
+Name Server: ns2.fakecdn97.io
+Name Server: ns9.fakecdn15.io
+
+Domain Name: admin-data.tech
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user4948@example.com
+Creation Date: 2020-11-12
+Expiration Date: 2026-08-16
+Name Server: ns3.fakecdn16.io
+Name Server: ns5.fakecdn64.io
+
+Domain Name: shop-vpn.xyz
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user317@example.com
+Creation Date: 2022-07-15
+Expiration Date: 2028-12-24
+Name Server: ns4.fakecdn38.io
+Name Server: ns5.fakecdn52.io
+
+Domain Name: staging.org
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user1453@example.com
+Creation Date: 2021-06-24
+Expiration Date: 2026-11-27
+Name Server: ns2.fakecdn43.io
+Name Server: ns6.fakecdn10.io
+
+Domain Name: go.xyz
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user2852@example.com
+Creation Date: 2025-05-08
+Expiration Date: 2025-06-04
+Name Server: ns2.fakecdn99.io
+Name Server: ns8.fakecdn60.io
+
+Domain Name: intranet-ds.info
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user7692@example.com
+Creation Date: 2018-10-31
+Expiration Date: 2026-09-28
+Name Server: ns4.fakecdn58.io
+Name Server: ns5.fakecdn8.io
+
+Domain Name: ctf-login.net
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user682@example.com
+Creation Date: 2019-09-10
+Expiration Date: 2025-05-07
+Name Server: ns4.fakecdn14.io
+Name Server: ns7.fakecdn92.io
+
+Domain Name: news.org
+Registrar: NameCheap, Inc.
+Registrant Email: user7182@example.com
+Creation Date: 2021-10-17
+Expiration Date: 2028-10-22
+Name Server: ns1.fakecdn81.io
+Name Server: ns7.fakecdn9.io
+
+Domain Name: panel-intranet.io
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user9557@example.com
+Creation Date: 2025-12-13
+Expiration Date: 2025-06-23
+Name Server: ns3.fakecdn72.io
+Name Server: ns8.fakecdn83.io
+
+Domain Name: hackorn-intranet.net
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: infra@tutanota.com
+Creation Date: 2019-07-18
+Expiration Date: 2025-11-14
+Name Server: ns1.fakecdn38.io
+Name Server: ns5.fakecdn65.io
+
+Domain Name: intranet.org
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user7180@example.com
+Creation Date: 2021-03-13
+Expiration Date: 2027-07-09
+Name Server: ns2.fakecdn69.io
+Name Server: ns6.fakecdn40.io
+
+Domain Name: ds-shop.tech
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: john.cyber@protonmail.com
+Creation Date: 2025-03-11
+Expiration Date: 2027-09-12
+Name Server: ns3.fakecdn71.io
+Name Server: ns5.fakecdn92.io
+
+Domain Name: data.org
+Registrar: HOSTINGER operations, UAB
+Registrant Email: john.cyber@protonmail.com
+Creation Date: 2022-06-12
+Expiration Date: 2027-10-26
+Name Server: ns3.fakecdn31.io
+Name Server: ns8.fakecdn11.io
+
+Domain Name: intel-cloud.net
+Registrar: HOSTINGER operations, UAB
+Registrant Email: john.cyber@protonmail.com
+Creation Date: 2020-11-14
+Expiration Date: 2026-03-18
+Name Server: ns2.fakecdn71.io
+Name Server: ns9.fakecdn68.io
+
+Domain Name: panel-data.io
+Registrar: NameCheap, Inc.
+Registrant Email: user1826@example.com
+Creation Date: 2023-10-12
+Expiration Date: 2028-03-23
+Name Server: ns2.fakecdn92.io
+Name Server: ns6.fakecdn38.io
+
+Domain Name: secure-vpn.co
+Registrar: GoDaddy.com, LLC
+Registrant Email: user8586@example.com
+Creation Date: 2023-04-10
+Expiration Date: 2025-03-31
+Name Server: ns4.fakecdn48.io
+Name Server: ns7.fakecdn96.io
+
+Domain Name: vpn.net
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user5556@example.com
+Creation Date: 2025-09-05
+Expiration Date: 2027-08-10
+Name Server: ns4.fakecdn81.io
+Name Server: ns6.fakecdn18.io
+
+Domain Name: inteln-test.tech
+Registrar: NameCheap, Inc.
+Registrant Email: user727@example.com
+Creation Date: 2020-11-03
+Expiration Date: 2025-03-16
+Name Server: ns2.fakecdn37.io
+Name Server: ns7.fakecdn7.io
+
+Domain Name: data-hackorn.co
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user6028@example.com
+Creation Date: 2022-10-05
+Expiration Date: 2025-06-11
+Name Server: ns4.fakecdn78.io
+Name Server: ns6.fakecdn70.io
+
+Domain Name: cloud-login.io
+Registrar: HOSTINGER operations, UAB
+Registrant Email: billing@secpen.org
+Creation Date: 2025-03-04
+Expiration Date: 2025-04-28
+Name Server: ns1.fakecdn86.io
+Name Server: ns8.fakecdn47.io
+
+Domain Name: portal.org
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: ops@secpenlabs.net
+Creation Date: 2025-08-13
+Expiration Date: 2027-07-11
+Name Server: ns3.fakecdn48.io
+Name Server: ns8.fakecdn98.io
+
+Domain Name: api.info
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: redteam_ops@protonmail.com
+Creation Date: 2020-12-08
+Expiration Date: 2026-06-18
+Name Server: ns4.fakecdn28.io
+Name Server: ns9.fakecdn37.io
+
+Domain Name: shop-pay.net
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user4767@example.com
+Creation Date: 2019-10-08
+Expiration Date: 2028-12-28
+Name Server: ns2.fakecdn47.io
+Name Server: ns9.fakecdn29.io
+
+Domain Name: staging.org
+Registrar: GoDaddy.com, LLC
+Registrant Email: redteam_ops@protonmail.com
+Creation Date: 2021-06-20
+Expiration Date: 2027-03-27
+Name Server: ns4.fakecdn68.io
+Name Server: ns8.fakecdn99.io
+
+Domain Name: hackorn-login.info
+Registrar: NameCheap, Inc.
+Registrant Email: user5654@example.com
+Creation Date: 2018-08-15
+Expiration Date: 2025-09-12
+Name Server: ns2.fakecdn39.io
+Name Server: ns6.fakecdn21.io
+
+Domain Name: portal-intel.io
+Registrar: NameCheap, Inc.
+Registrant Email: user2060@example.com
+Creation Date: 2024-07-06
+Expiration Date: 2025-11-12
+Name Server: ns2.fakecdn85.io
+Name Server: ns9.fakecdn93.io
+
+Domain Name: ctf-go.com
+Registrar: NameCheap, Inc.
+Registrant Email: user6835@example.com
+Creation Date: 2021-05-22
+Expiration Date: 2027-09-17
+Name Server: ns2.fakecdn88.io
+Name Server: ns8.fakecdn39.io
+
+Domain Name: login-login.tech
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: ops@secpenlabs.net
+Creation Date: 2022-02-26
+Expiration Date: 2027-11-21
+Name Server: ns1.fakecdn41.io
+Name Server: ns6.fakecdn60.io
+
+Domain Name: data.xyz
+Registrar: GoDaddy.com, LLC
+Registrant Email: infra@tutanota.com
+Creation Date: 2019-10-15
+Expiration Date: 2027-10-18
+Name Server: ns4.fakecdn64.io
+Name Server: ns7.fakecdn64.io
+
+Domain Name: panel.co
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: billing@secpen.org
+Creation Date: 2024-01-08
+Expiration Date: 2025-01-17
+Name Server: ns1.fakecdn56.io
+Name Server: ns6.fakecdn34.io
+
+Domain Name: harsh-vpn.co
+Registrar: NameCheap, Inc.
+Registrant Email: user6339@example.com
+Creation Date: 2024-03-02
+Expiration Date: 2026-07-27
+Name Server: ns1.fakecdn17.io
+Name Server: ns5.fakecdn51.io
+
+Domain Name: hackorn-cloud.info
+Registrar: GoDaddy.com, LLC
+Registrant Email: user647@example.com
+Creation Date: 2023-04-25
+Expiration Date: 2027-11-30
+Name Server: ns4.fakecdn20.io
+Name Server: ns9.fakecdn66.io
+
+Domain Name: cloud.info
+Registrar: GoDaddy.com, LLC
+Registrant Email: user9737@example.com
+Creation Date: 2018-03-10
+Expiration Date: 2027-01-25
+Name Server: ns3.fakecdn87.io
+Name Server: ns5.fakecdn54.io
+
+Domain Name: hackorn-inteln-test.com
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: ops@secpenlabs.net
+Creation Date: 2025-08-20
+Expiration Date: 2026-05-12
+Name Server: ns1.fakecdn74.io
+Name Server: ns5.fakecdn25.io
+
+Domain Name: cdn.co
+Registrar: GoDaddy.com, LLC
+Registrant Email: user6775@example.com
+Creation Date: 2025-06-05
+Expiration Date: 2027-09-07
+Name Server: ns4.fakecdn41.io
+Name Server: ns6.fakecdn59.io
+
+Domain Name: go-intranet.io
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user3160@example.com
+Creation Date: 2023-05-20
+Expiration Date: 2026-12-16
+Name Server: ns3.fakecdn37.io
+Name Server: ns5.fakecdn74.io
+
+Domain Name: ds-admin.info
+Registrar: GoDaddy.com, LLC
+Registrant Email: user3515@example.com
+Creation Date: 2024-01-16
+Expiration Date: 2026-07-10
+Name Server: ns3.fakecdn18.io
+Name Server: ns5.fakecdn79.io
+
+Domain Name: intel.xyz
+Registrar: GoDaddy.com, LLC
+Registrant Email: user1651@example.com
+Creation Date: 2025-04-28
+Expiration Date: 2027-09-02
+Name Server: ns4.fakecdn84.io
+Name Server: ns6.fakecdn97.io
+
+Domain Name: cloud-auth.net
+Registrar: GoDaddy.com, LLC
+Registrant Email: user4752@example.com
+Creation Date: 2018-06-03
+Expiration Date: 2025-01-19
+Name Server: ns3.fakecdn73.io
+Name Server: ns9.fakecdn14.io
+
+Domain Name: data-staging.tech
+Registrar: GoDaddy.com, LLC
+Registrant Email: john.cyber@protonmail.com
+Creation Date: 2021-10-12
+Expiration Date: 2026-08-28
+Name Server: ns2.fakecdn23.io
+Name Server: ns9.fakecdn82.io
+
+Domain Name: ctf-news.net
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user2313@example.com
+Creation Date: 2020-12-29
+Expiration Date: 2026-11-07
+Name Server: ns3.fakecdn75.io
+Name Server: ns9.fakecdn2.io
+
+Domain Name: intranet-intranet.com
+Registrar: NameCheap, Inc.
+Registrant Email: infra@tutanota.com
+Creation Date: 2019-07-02
+Expiration Date: 2027-09-07
+Name Server: ns2.fakecdn59.io
+Name Server: ns9.fakecdn48.io
+
+Domain Name: inteln-test-ds.xyz
+Registrar: GoDaddy.com, LLC
+Registrant Email: user1848@example.com
+Creation Date: 2024-02-22
+Expiration Date: 2027-11-02
+Name Server: ns2.fakecdn74.io
+Name Server: ns9.fakecdn20.io
+
+Domain Name: cloud.tech
+Registrar: NameCheap, Inc.
+Registrant Email: user9564@example.com
+Creation Date: 2023-02-15
+Expiration Date: 2028-02-29
+Name Server: ns1.fakecdn72.io
+Name Server: ns8.fakecdn87.io
+
+Domain Name: inteln-test-admin.com
+Registrar: GoDaddy.com, LLC
+Registrant Email: john.cyber@protonmail.com
+Creation Date: 2021-03-21
+Expiration Date: 2027-04-18
+Name Server: ns2.fakecdn99.io
+Name Server: ns6.fakecdn99.io
+
+Domain Name: vpn-ds.tech
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: ops@secpenlabs.net
+Creation Date: 2020-07-01
+Expiration Date: 2025-01-08
+Name Server: ns1.fakecdn39.io
+Name Server: ns8.fakecdn87.io
+
+Domain Name: go-hackorn.xyz
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: redteam_ops@protonmail.com
+Creation Date: 2019-02-18
+Expiration Date: 2028-05-01
+Name Server: ns1.fakecdn58.io
+Name Server: ns9.fakecdn87.io
+
+Domain Name: intel.com
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user7201@example.com
+Creation Date: 2024-06-23
+Expiration Date: 2028-05-09
+Name Server: ns3.fakecdn31.io
+Name Server: ns7.fakecdn19.io
+
+Domain Name: admin.io
+Registrar: NameCheap, Inc.
+Registrant Email: user9131@example.com
+Creation Date: 2025-10-23
+Expiration Date: 2027-05-03
+Name Server: ns4.fakecdn20.io
+Name Server: ns7.fakecdn49.io
+
+Domain Name: harsh.tech
+Registrar: GoDaddy.com, LLC
+Registrant Email: ops@secpenlabs.net
+Creation Date: 2022-05-10
+Expiration Date: 2026-05-13
+Name Server: ns3.fakecdn27.io
+Name Server: ns7.fakecdn83.io
+
+Domain Name: portal.info
+Registrar: NameCheap, Inc.
+Registrant Email: user657@example.com
+Creation Date: 2024-08-03
+Expiration Date: 2028-10-07
+Name Server: ns2.fakecdn62.io
+Name Server: ns6.fakecdn43.io
+
+Domain Name: staging-secure.xyz
+Registrar: NameCheap, Inc.
+Registrant Email: user9912@example.com
+Creation Date: 2023-12-26
+Expiration Date: 2028-08-21
+Name Server: ns3.fakecdn40.io
+Name Server: ns7.fakecdn47.io
+
+Domain Name: cdn-hackorn.tech
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user6791@example.com
+Creation Date: 2024-07-20
+Expiration Date: 2028-04-01
+Name Server: ns4.fakecdn38.io
+Name Server: ns6.fakecdn26.io
+
+Domain Name: intel-api.xyz
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user2766@example.com
+Creation Date: 2024-02-17
+Expiration Date: 2027-09-28
+Name Server: ns2.fakecdn70.io
+Name Server: ns5.fakecdn68.io
+
+Domain Name: ctf.net
+Registrar: NameCheap, Inc.
+Registrant Email: user114@example.com
+Creation Date: 2018-09-05
+Expiration Date: 2028-06-19
+Name Server: ns4.fakecdn85.io
+Name Server: ns8.fakecdn3.io
+
+Domain Name: go.co
+Registrar: NameCheap, Inc.
+Registrant Email: user1763@example.com
+Creation Date: 2019-01-30
+Expiration Date: 2027-12-10
+Name Server: ns2.fakecdn31.io
+Name Server: ns6.fakecdn80.io
+
+Domain Name: hackorn-data.co
+Registrar: NameCheap, Inc.
+Registrant Email: user6662@example.com
+Creation Date: 2022-04-03
+Expiration Date: 2027-02-12
+Name Server: ns4.fakecdn8.io
+Name Server: ns5.fakecdn90.io
+
+Domain Name: login.co
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user772@example.com
+Creation Date: 2018-11-01
+Expiration Date: 2028-11-02
+Name Server: ns3.fakecdn70.io
+Name Server: ns9.fakecdn85.io
+
+Domain Name: shop.info
+Registrar: NameCheap, Inc.
+Registrant Email: user3949@example.com
+Creation Date: 2022-05-13
+Expiration Date: 2028-10-18
+Name Server: ns3.fakecdn50.io
+Name Server: ns6.fakecdn89.io
+
+Domain Name: news.info
+Registrar: NameCheap, Inc.
+Registrant Email: user9925@example.com
+Creation Date: 2021-01-24
+Expiration Date: 2027-07-12
+Name Server: ns4.fakecdn30.io
+Name Server: ns7.fakecdn71.io
+
+Domain Name: admin-intranet.co
+Registrar: NameCheap, Inc.
+Registrant Email: user4849@example.com
+Creation Date: 2019-03-13
+Expiration Date: 2025-07-07
+Name Server: ns1.fakecdn40.io
+Name Server: ns8.fakecdn47.io
+
+Domain Name: panel-panel.co
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user1702@example.com
+Creation Date: 2024-09-15
+Expiration Date: 2026-10-27
+Name Server: ns4.fakecdn2.io
+Name Server: ns7.fakecdn53.io
+
+Domain Name: harsh-inteln-test.xyz
+Registrar: GoDaddy.com, LLC
+Registrant Email: user2787@example.com
+Creation Date: 2021-02-04
+Expiration Date: 2027-05-13
+Name Server: ns3.fakecdn62.io
+Name Server: ns5.fakecdn47.io
+
+Domain Name: portal-inteln-test.tech
+Registrar: GoDaddy.com, LLC
+Registrant Email: user7511@example.com
+Creation Date: 2022-10-30
+Expiration Date: 2028-08-26
+Name Server: ns2.fakecdn39.io
+Name Server: ns7.fakecdn78.io
+
+Domain Name: news.org
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: redteam_ops@protonmail.com
+Creation Date: 2024-04-28
+Expiration Date: 2026-02-14
+Name Server: ns2.fakecdn88.io
+Name Server: ns9.fakecdn4.io
+
+Domain Name: portal-shop.io
+Registrar: NameCheap, Inc.
+Registrant Email: user2290@example.com
+Creation Date: 2024-09-15
+Expiration Date: 2027-09-09
+Name Server: ns4.fakecdn69.io
+Name Server: ns9.fakecdn89.io
+
+Domain Name: go-hackorn.info
+Registrar: NameCheap, Inc.
+Registrant Email: john.cyber@protonmail.com
+Creation Date: 2019-02-08
+Expiration Date: 2026-06-14
+Name Server: ns2.fakecdn66.io
+Name Server: ns9.fakecdn72.io
+
+Domain Name: cdn.co
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: redteam_ops@protonmail.com
+Creation Date: 2019-08-04
+Expiration Date: 2026-12-15
+Name Server: ns3.fakecdn44.io
+Name Server: ns8.fakecdn27.io
+
+Domain Name: vpn-panel.tech
+Registrar: HOSTINGER operations, UAB
+Registrant Email: ops@secpenlabs.net
+Creation Date: 2024-03-10
+Expiration Date: 2025-11-24
+Name Server: ns3.fakecdn72.io
+Name Server: ns8.fakecdn60.io
+
+Domain Name: hackorn.org
+Registrar: GoDaddy.com, LLC
+Registrant Email: infra@tutanota.com
+Creation Date: 2021-02-14
+Expiration Date: 2028-12-12
+Name Server: ns1.fakecdn74.io
+Name Server: ns5.fakecdn69.io
+
+Domain Name: vpn.xyz
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user1877@example.com
+Creation Date: 2021-12-12
+Expiration Date: 2027-07-27
+Name Server: ns2.fakecdn87.io
+Name Server: ns7.fakecdn79.io
+
+Domain Name: intranet.info
+Registrar: NameCheap, Inc.
+Registrant Email: ops@secpenlabs.net
+Creation Date: 2024-06-12
+Expiration Date: 2027-02-25
+Name Server: ns4.fakecdn24.io
+Name Server: ns8.fakecdn82.io
+
+Domain Name: go.tech
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user2246@example.com
+Creation Date: 2022-04-22
+Expiration Date: 2028-02-25
+Name Server: ns4.fakecdn53.io
+Name Server: ns8.fakecdn54.io
+
+Domain Name: news-login.com
+Registrar: GoDaddy.com, LLC
+Registrant Email: user3693@example.com
+Creation Date: 2023-09-24
+Expiration Date: 2025-08-20
+Name Server: ns1.fakecdn35.io
+Name Server: ns9.fakecdn47.io
+
+Domain Name: harsh.tech
+Registrar: GoDaddy.com, LLC
+Registrant Email: user1435@example.com
+Creation Date: 2019-04-26
+Expiration Date: 2026-05-01
+Name Server: ns2.fakecdn95.io
+Name Server: ns9.fakecdn89.io
+
+Domain Name: ctf-auth.co
+Registrar: GoDaddy.com, LLC
+Registrant Email: ops@secpenlabs.net
+Creation Date: 2021-08-18
+Expiration Date: 2028-12-12
+Name Server: ns3.fakecdn38.io
+Name Server: ns9.fakecdn35.io
+
+Domain Name: pay.co
+Registrar: NameCheap, Inc.
+Registrant Email: user2406@example.com
+Creation Date: 2025-02-03
+Expiration Date: 2026-07-05
+Name Server: ns4.fakecdn49.io
+Name Server: ns8.fakecdn10.io
+
+Domain Name: admin.io
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user8006@example.com
+Creation Date: 2020-06-11
+Expiration Date: 2027-05-30
+Name Server: ns2.fakecdn64.io
+Name Server: ns7.fakecdn42.io
+
+Domain Name: cloud-api.tech
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user762@example.com
+Creation Date: 2020-04-08
+Expiration Date: 2028-11-11
+Name Server: ns2.fakecdn84.io
+Name Server: ns7.fakecdn21.io
+
+Domain Name: panel-vpn.net
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user6503@example.com
+Creation Date: 2018-11-16
+Expiration Date: 2025-09-29
+Name Server: ns2.fakecdn67.io
+Name Server: ns8.fakecdn2.io
+
+Domain Name: intranet.net
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user6032@example.com
+Creation Date: 2021-05-10
+Expiration Date: 2025-10-08
+Name Server: ns4.fakecdn97.io
+Name Server: ns6.fakecdn83.io
+
+Domain Name: login.com
+Registrar: GoDaddy.com, LLC
+Registrant Email: user1430@example.com
+Creation Date: 2019-05-20
+Expiration Date: 2028-04-22
+Name Server: ns4.fakecdn45.io
+Name Server: ns8.fakecdn41.io
+
+Domain Name: intel.net
+Registrar: GoDaddy.com, LLC
+Registrant Email: user9964@example.com
+Creation Date: 2020-02-12
+Expiration Date: 2027-03-14
+Name Server: ns3.fakecdn83.io
+Name Server: ns5.fakecdn31.io
+
+Domain Name: vpn-intel.net
+Registrar: NameCheap, Inc.
+Registrant Email: user8961@example.com
+Creation Date: 2018-10-26
+Expiration Date: 2025-02-04
+Name Server: ns1.fakecdn2.io
+Name Server: ns7.fakecdn28.io
+
+Domain Name: portal.co
+Registrar: HOSTINGER operations, UAB
+Registrant Email: billing@secpen.org
+Creation Date: 2018-11-20
+Expiration Date: 2027-11-14
+Name Server: ns2.fakecdn20.io
+Name Server: ns9.fakecdn42.io
+
+Domain Name: api-harsh.net
+Registrar: HOSTINGER operations, UAB
+Registrant Email: billing@secpen.org
+Creation Date: 2025-06-21
+Expiration Date: 2028-09-09
+Name Server: ns2.fakecdn16.io
+Name Server: ns5.fakecdn91.io
+
+Domain Name: inteln-test.org
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user5690@example.com
+Creation Date: 2022-10-25
+Expiration Date: 2026-07-12
+Name Server: ns1.fakecdn34.io
+Name Server: ns9.fakecdn81.io
+
+Domain Name: news.info
+Registrar: NameCheap, Inc.
+Registrant Email: user1695@example.com
+Creation Date: 2023-09-16
+Expiration Date: 2025-01-06
+Name Server: ns1.fakecdn2.io
+Name Server: ns6.fakecdn6.io
+
+Domain Name: vpn-portal.org
+Registrar: NameCheap, Inc.
+Registrant Email: user9068@example.com
+Creation Date: 2019-05-05
+Expiration Date: 2027-10-26
+Name Server: ns1.fakecdn23.io
+Name Server: ns6.fakecdn67.io
+
+Domain Name: portal.net
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user9071@example.com
+Creation Date: 2021-05-29
+Expiration Date: 2028-06-29
+Name Server: ns2.fakecdn60.io
+Name Server: ns7.fakecdn76.io
+
+Domain Name: staging-harsh.xyz
+Registrar: GoDaddy.com, LLC
+Registrant Email: user33@example.com
+Creation Date: 2021-06-13
+Expiration Date: 2025-08-01
+Name Server: ns2.fakecdn68.io
+Name Server: ns6.fakecdn54.io
+
+Domain Name: staging-staging.org
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user8525@example.com
+Creation Date: 2019-07-01
+Expiration Date: 2028-07-29
+Name Server: ns4.fakecdn10.io
+Name Server: ns9.fakecdn73.io
+
+Domain Name: cdn.org
+Registrar: GoDaddy.com, LLC
+Registrant Email: infra@tutanota.com
+Creation Date: 2019-07-12
+Expiration Date: 2028-04-12
+Name Server: ns1.fakecdn20.io
+Name Server: ns5.fakecdn22.io
+
+Domain Name: cdn-admin.info
+Registrar: GoDaddy.com, LLC
+Registrant Email: infra@tutanota.com
+Creation Date: 2021-09-04
+Expiration Date: 2025-10-31
+Name Server: ns1.fakecdn92.io
+Name Server: ns6.fakecdn46.io
+
+Domain Name: news-intranet.io
+Registrar: GoDaddy.com, LLC
+Registrant Email: redteam_ops@protonmail.com
+Creation Date: 2018-02-18
+Expiration Date: 2025-05-07
+Name Server: ns2.fakecdn17.io
+Name Server: ns6.fakecdn52.io
+
+Domain Name: intranet-portal.net
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user1066@example.com
+Creation Date: 2018-07-27
+Expiration Date: 2025-12-11
+Name Server: ns4.fakecdn93.io
+Name Server: ns8.fakecdn64.io
+
+Domain Name: vpn.co
+Registrar: GoDaddy.com, LLC
+Registrant Email: user3076@example.com
+Creation Date: 2022-08-15
+Expiration Date: 2028-02-02
+Name Server: ns4.fakecdn8.io
+Name Server: ns5.fakecdn36.io
+
+Domain Name: pay-shop.xyz
+Registrar: NameCheap, Inc.
+Registrant Email: billing@secpen.org
+Creation Date: 2020-01-07
+Expiration Date: 2025-02-23
+Name Server: ns3.fakecdn77.io
+Name Server: ns6.fakecdn4.io
+
+Domain Name: login-staging.info
+Registrar: GoDaddy.com, LLC
+Registrant Email: user2625@example.com
+Creation Date: 2019-12-13
+Expiration Date: 2025-12-27
+Name Server: ns2.fakecdn76.io
+Name Server: ns7.fakecdn95.io
+
+Domain Name: portal-secure.info
+Registrar: GoDaddy.com, LLC
+Registrant Email: infra@tutanota.com
+Creation Date: 2024-09-30
+Expiration Date: 2026-03-25
+Name Server: ns1.fakecdn68.io
+Name Server: ns8.fakecdn1.io
+
+Domain Name: portal-shop.org
+Registrar: HOSTINGER operations, UAB
+Registrant Email: redteam_ops@protonmail.com
+Creation Date: 2022-03-11
+Expiration Date: 2028-12-13
+Name Server: ns4.fakecdn76.io
+Name Server: ns5.fakecdn44.io
+
+Domain Name: cloud-staging.co
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: ops@secpenlabs.net
+Creation Date: 2019-12-29
+Expiration Date: 2025-01-04
+Name Server: ns4.fakecdn99.io
+Name Server: ns9.fakecdn5.io
+
+Domain Name: api.xyz
+Registrar: NameCheap, Inc.
+Registrant Email: user5435@example.com
+Creation Date: 2018-02-16
+Expiration Date: 2026-06-28
+Name Server: ns2.fakecdn32.io
+Name Server: ns5.fakecdn45.io
+
+Domain Name: hackorn-inteln-test.com
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user6159@example.com
+Creation Date: 2023-05-18
+Expiration Date: 2028-03-29
+Name Server: ns2.fakecdn21.io
+Name Server: ns8.fakecdn10.io
+
+Domain Name: data.info
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user6161@example.com
+Creation Date: 2024-11-18
+Expiration Date: 2027-09-16
+Name Server: ns1.fakecdn56.io
+Name Server: ns6.fakecdn78.io
+
+Domain Name: pay-panel.xyz
+Registrar: GoDaddy.com, LLC
+Registrant Email: user4622@example.com
+Creation Date: 2024-03-01
+Expiration Date: 2027-10-03
+Name Server: ns2.fakecdn7.io
+Name Server: ns7.fakecdn1.io
+
+Domain Name: panel-hackorn.tech
+Registrar: GoDaddy.com, LLC
+Registrant Email: user3400@example.com
+Creation Date: 2023-06-27
+Expiration Date: 2028-09-15
+Name Server: ns3.fakecdn12.io
+Name Server: ns9.fakecdn50.io
+
+Domain Name: vpn.co
+Registrar: HOSTINGER operations, UAB
+Registrant Email: john.cyber@protonmail.com
+Creation Date: 2019-09-12
+Expiration Date: 2028-11-27
+Name Server: ns1.fakecdn11.io
+Name Server: ns7.fakecdn70.io
+
+Domain Name: staging-api.com
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user6478@example.com
+Creation Date: 2018-05-23
+Expiration Date: 2027-10-26
+Name Server: ns2.fakecdn16.io
+Name Server: ns8.fakecdn23.io
+
+Domain Name: staging.xyz
+Registrar: GoDaddy.com, LLC
+Registrant Email: redteam_ops@protonmail.com
+Creation Date: 2022-05-09
+Expiration Date: 2028-02-14
+Name Server: ns4.fakecdn71.io
+Name Server: ns7.fakecdn36.io
+
+Domain Name: portal-secure.co
+Registrar: NameCheap, Inc.
+Registrant Email: user1740@example.com
+Creation Date: 2021-03-17
+Expiration Date: 2028-01-02
+Name Server: ns3.fakecdn53.io
+Name Server: ns7.fakecdn50.io
+
+Domain Name: api-cdn.org
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user7795@example.com
+Creation Date: 2021-01-05
+Expiration Date: 2027-02-02
+Name Server: ns1.fakecdn44.io
+Name Server: ns7.fakecdn40.io
+
+Domain Name: ctf-ctf.net
+Registrar: GoDaddy.com, LLC
+Registrant Email: infra@tutanota.com
+Creation Date: 2022-07-26
+Expiration Date: 2027-09-20
+Name Server: ns3.fakecdn8.io
+Name Server: ns9.fakecdn21.io
+
+Domain Name: cloud.co
+Registrar: GoDaddy.com, LLC
+Registrant Email: john.cyber@protonmail.com
+Creation Date: 2022-01-16
+Expiration Date: 2028-12-14
+Name Server: ns2.fakecdn36.io
+Name Server: ns7.fakecdn60.io
+
+Domain Name: auth-panel.com
+Registrar: GoDaddy.com, LLC
+Registrant Email: ops@secpenlabs.net
+Creation Date: 2020-11-25
+Expiration Date: 2028-11-11
+Name Server: ns1.fakecdn37.io
+Name Server: ns5.fakecdn50.io
+
+Domain Name: pay.xyz
+Registrar: GoDaddy.com, LLC
+Registrant Email: user8419@example.com
+Creation Date: 2018-02-04
+Expiration Date: 2026-04-04
+Name Server: ns3.fakecdn78.io
+Name Server: ns7.fakecdn92.io
+
+Domain Name: admin-vpn.info
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user6516@example.com
+Creation Date: 2022-03-13
+Expiration Date: 2028-02-24
+Name Server: ns3.fakecdn39.io
+Name Server: ns5.fakecdn62.io
+
+Domain Name: cloud.io
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user8485@example.com
+Creation Date: 2021-08-02
+Expiration Date: 2028-10-26
+Name Server: ns2.fakecdn93.io
+Name Server: ns5.fakecdn84.io
+
+Domain Name: staging-intel.co
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user9382@example.com
+Creation Date: 2021-05-14
+Expiration Date: 2025-12-15
+Name Server: ns2.fakecdn38.io
+Name Server: ns5.fakecdn61.io
+
+Domain Name: harsh.org
+Registrar: HOSTINGER operations, UAB
+Registrant Email: billing@secpen.org
+Creation Date: 2023-03-15
+Expiration Date: 2025-08-30
+Name Server: ns4.fakecdn7.io
+Name Server: ns9.fakecdn75.io
+
+Domain Name: cdn.xyz
+Registrar: NameCheap, Inc.
+Registrant Email: user895@example.com
+Creation Date: 2023-02-18
+Expiration Date: 2025-10-21
+Name Server: ns3.fakecdn92.io
+Name Server: ns6.fakecdn11.io
+
+Domain Name: cloud-staging.info
+Registrar: NameCheap, Inc.
+Registrant Email: user2772@example.com
+Creation Date: 2022-11-12
+Expiration Date: 2028-07-21
+Name Server: ns4.fakecdn52.io
+Name Server: ns8.fakecdn62.io
+
+Domain Name: secure-go.info
+Registrar: NameCheap, Inc.
+Registrant Email: redteam_ops@protonmail.com
+Creation Date: 2022-04-21
+Expiration Date: 2027-10-28
+Name Server: ns3.fakecdn22.io
+Name Server: ns5.fakecdn6.io
+
+Domain Name: portal-cdn.info
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user6619@example.com
+Creation Date: 2019-06-22
+Expiration Date: 2026-03-09
+Name Server: ns1.fakecdn76.io
+Name Server: ns9.fakecdn22.io
+
+Domain Name: vpn.com
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user806@example.com
+Creation Date: 2022-04-07
+Expiration Date: 2025-09-11
+Name Server: ns3.fakecdn61.io
+Name Server: ns6.fakecdn27.io
+
+Domain Name: data.net
+Registrar: HOSTINGER operations, UAB
+Registrant Email: infra@tutanota.com
+Creation Date: 2024-10-30
+Expiration Date: 2026-02-14
+Name Server: ns3.fakecdn67.io
+Name Server: ns6.fakecdn46.io
+
+Domain Name: data-secure.tech
+Registrar: GoDaddy.com, LLC
+Registrant Email: redteam_ops@protonmail.com
+Creation Date: 2023-09-27
+Expiration Date: 2025-06-03
+Name Server: ns1.fakecdn33.io
+Name Server: ns6.fakecdn59.io
+
+Domain Name: data-login.org
+Registrar: NameCheap, Inc.
+Registrant Email: user4770@example.com
+Creation Date: 2022-01-04
+Expiration Date: 2027-06-16
+Name Server: ns3.fakecdn94.io
+Name Server: ns5.fakecdn48.io
+
+Domain Name: shop-admin.tech
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user6826@example.com
+Creation Date: 2024-08-16
+Expiration Date: 2027-09-16
+Name Server: ns4.fakecdn24.io
+Name Server: ns9.fakecdn49.io
+
+Domain Name: auth-ctf.org
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user5158@example.com
+Creation Date: 2024-06-19
+Expiration Date: 2028-03-03
+Name Server: ns2.fakecdn86.io
+Name Server: ns7.fakecdn67.io
+
+Domain Name: admin.xyz
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user7698@example.com
+Creation Date: 2019-11-09
+Expiration Date: 2025-06-03
+Name Server: ns4.fakecdn42.io
+Name Server: ns6.fakecdn43.io
+
+Domain Name: login-intel.co
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: redteam_ops@protonmail.com
+Creation Date: 2023-07-31
+Expiration Date: 2028-08-31
+Name Server: ns1.fakecdn14.io
+Name Server: ns8.fakecdn53.io
+
+Domain Name: go.com
+Registrar: NameCheap, Inc.
+Registrant Email: user899@example.com
+Creation Date: 2023-02-05
+Expiration Date: 2026-11-11
+Name Server: ns4.fakecdn92.io
+Name Server: ns7.fakecdn92.io
+
+Domain Name: panel-harsh.xyz
+Registrar: NameCheap, Inc.
+Registrant Email: ops@secpenlabs.net
+Creation Date: 2022-08-04
+Expiration Date: 2025-08-08
+Name Server: ns3.fakecdn79.io
+Name Server: ns6.fakecdn25.io
+
+Domain Name: portal.co
+Registrar: GoDaddy.com, LLC
+Registrant Email: user771@example.com
+Creation Date: 2024-08-10
+Expiration Date: 2027-10-30
+Name Server: ns2.fakecdn64.io
+Name Server: ns5.fakecdn68.io
+
+Domain Name: go.co
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user2855@example.com
+Creation Date: 2022-04-25
+Expiration Date: 2027-05-08
+Name Server: ns2.fakecdn36.io
+Name Server: ns8.fakecdn44.io
+
+Domain Name: cdn-pay.co
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user3570@example.com
+Creation Date: 2024-02-01
+Expiration Date: 2028-11-22
+Name Server: ns3.fakecdn91.io
+Name Server: ns5.fakecdn98.io
+
+Domain Name: go-api.co
+Registrar: HOSTINGER operations, UAB
+Registrant Email: billing@secpen.org
+Creation Date: 2019-10-22
+Expiration Date: 2026-08-10
+Name Server: ns3.fakecdn19.io
+Name Server: ns5.fakecdn89.io
+
+Domain Name: shop-go.info
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user9215@example.com
+Creation Date: 2022-09-03
+Expiration Date: 2028-11-04
+Name Server: ns3.fakecdn71.io
+Name Server: ns5.fakecdn2.io
+
+Domain Name: shop-ctf.tech
+Registrar: GoDaddy.com, LLC
+Registrant Email: ops@secpenlabs.net
+Creation Date: 2019-12-13
+Expiration Date: 2027-11-19
+Name Server: ns1.fakecdn49.io
+Name Server: ns5.fakecdn55.io
+
+Domain Name: go-panel.io
+Registrar: NameCheap, Inc.
+Registrant Email: user843@example.com
+Creation Date: 2024-06-03
+Expiration Date: 2028-02-01
+Name Server: ns3.fakecdn10.io
+Name Server: ns7.fakecdn68.io
+
+Domain Name: staging.net
+Registrar: GoDaddy.com, LLC
+Registrant Email: user6824@example.com
+Creation Date: 2021-04-17
+Expiration Date: 2026-03-24
+Name Server: ns4.fakecdn72.io
+Name Server: ns5.fakecdn15.io
+
+Domain Name: cdn-ds.xyz
+Registrar: NameCheap, Inc.
+Registrant Email: user6332@example.com
+Creation Date: 2023-09-15
+Expiration Date: 2027-07-02
+Name Server: ns4.fakecdn6.io
+Name Server: ns7.fakecdn84.io
+
+Domain Name: cloud.net
+Registrar: NameCheap, Inc.
+Registrant Email: user130@example.com
+Creation Date: 2025-11-18
+Expiration Date: 2027-06-11
+Name Server: ns1.fakecdn96.io
+Name Server: ns6.fakecdn4.io
+
+Domain Name: inteln-test-secure.net
+Registrar: NameCheap, Inc.
+Registrant Email: user3739@example.com
+Creation Date: 2022-07-15
+Expiration Date: 2027-06-06
+Name Server: ns3.fakecdn3.io
+Name Server: ns8.fakecdn87.io
+
+Domain Name: go.net
+Registrar: NameCheap, Inc.
+Registrant Email: user5870@example.com
+Creation Date: 2022-06-07
+Expiration Date: 2028-09-15
+Name Server: ns1.fakecdn61.io
+Name Server: ns6.fakecdn69.io
+
+Domain Name: pay.co
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user9078@example.com
+Creation Date: 2024-09-09
+Expiration Date: 2027-03-19
+Name Server: ns1.fakecdn40.io
+Name Server: ns6.fakecdn96.io
+
+Domain Name: shop-ds.org
+Registrar: GoDaddy.com, LLC
+Registrant Email: user2981@example.com
+Creation Date: 2024-03-01
+Expiration Date: 2025-05-30
+Name Server: ns3.fakecdn86.io
+Name Server: ns5.fakecdn33.io
+
+Domain Name: shop.tech
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user5861@example.com
+Creation Date: 2024-11-29
+Expiration Date: 2028-09-12
+Name Server: ns3.fakecdn89.io
+Name Server: ns9.fakecdn20.io
+
+Domain Name: hackorn-staging.org
+Registrar: NameCheap, Inc.
+Registrant Email: user3639@example.com
+Creation Date: 2022-01-09
+Expiration Date: 2026-09-18
+Name Server: ns4.fakecdn71.io
+Name Server: ns5.fakecdn23.io
+
+Domain Name: ctf.org
+Registrar: GoDaddy.com, LLC
+Registrant Email: infra@tutanota.com
+Creation Date: 2018-05-31
+Expiration Date: 2028-02-04
+Name Server: ns3.fakecdn70.io
+Name Server: ns9.fakecdn61.io
+
+Domain Name: vpn.xyz
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user183@example.com
+Creation Date: 2024-11-20
+Expiration Date: 2028-11-02
+Name Server: ns2.fakecdn97.io
+Name Server: ns9.fakecdn18.io
+
+Domain Name: pay-api.org
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user1039@example.com
+Creation Date: 2020-04-26
+Expiration Date: 2027-11-27
+Name Server: ns3.fakecdn50.io
+Name Server: ns8.fakecdn59.io
+
+Domain Name: secure.info
+Registrar: NameCheap, Inc.
+Registrant Email: user8928@example.com
+Creation Date: 2025-04-30
+Expiration Date: 2025-06-09
+Name Server: ns3.fakecdn49.io
+Name Server: ns6.fakecdn67.io
+
+Domain Name: vpn-ctf.tech
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: infra@tutanota.com
+Creation Date: 2019-09-08
+Expiration Date: 2026-01-18
+Name Server: ns2.fakecdn47.io
+Name Server: ns9.fakecdn92.io
+
+Domain Name: intranet.co
+Registrar: HOSTINGER operations, UAB
+Registrant Email: john.cyber@protonmail.com
+Creation Date: 2019-06-08
+Expiration Date: 2028-03-20
+Name Server: ns2.fakecdn18.io
+Name Server: ns9.fakecdn6.io
+
+Domain Name: login.io
+Registrar: GoDaddy.com, LLC
+Registrant Email: user9829@example.com
+Creation Date: 2023-05-27
+Expiration Date: 2025-12-16
+Name Server: ns2.fakecdn53.io
+Name Server: ns9.fakecdn19.io
+
+Domain Name: auth.io
+Registrar: GoDaddy.com, LLC
+Registrant Email: john.cyber@protonmail.com
+Creation Date: 2020-04-08
+Expiration Date: 2027-12-07
+Name Server: ns4.fakecdn20.io
+Name Server: ns9.fakecdn13.io
+
+Domain Name: cdn.com
+Registrar: NameCheap, Inc.
+Registrant Email: user6902@example.com
+Creation Date: 2018-06-27
+Expiration Date: 2028-11-29
+Name Server: ns4.fakecdn30.io
+Name Server: ns8.fakecdn99.io
+
+Domain Name: vpn-hackorn.net
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: infra@tutanota.com
+Creation Date: 2018-01-23
+Expiration Date: 2028-12-23
+Name Server: ns1.fakecdn74.io
+Name Server: ns9.fakecdn16.io
+
+Domain Name: vpn.xyz
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user6990@example.com
+Creation Date: 2022-02-06
+Expiration Date: 2028-06-07
+Name Server: ns3.fakecdn88.io
+Name Server: ns8.fakecdn97.io
+
+Domain Name: admin.tech
+Registrar: GoDaddy.com, LLC
+Registrant Email: user6532@example.com
+Creation Date: 2025-05-24
+Expiration Date: 2025-09-01
+Name Server: ns2.fakecdn58.io
+Name Server: ns6.fakecdn13.io
+
+Domain Name: news.info
+Registrar: NameCheap, Inc.
+Registrant Email: billing@secpen.org
+Creation Date: 2020-06-27
+Expiration Date: 2027-01-30
+Name Server: ns1.fakecdn78.io
+Name Server: ns5.fakecdn93.io
+
+Domain Name: portal-admin.io
+Registrar: NameCheap, Inc.
+Registrant Email: user185@example.com
+Creation Date: 2023-10-14
+Expiration Date: 2028-12-01
+Name Server: ns2.fakecdn79.io
+Name Server: ns6.fakecdn87.io
+
+Domain Name: vpn.com
+Registrar: GoDaddy.com, LLC
+Registrant Email: user9612@example.com
+Creation Date: 2025-11-22
+Expiration Date: 2025-05-21
+Name Server: ns1.fakecdn71.io
+Name Server: ns7.fakecdn93.io
+
+Domain Name: cloud-hackorn.xyz
+Registrar: GoDaddy.com, LLC
+Registrant Email: redteam_ops@protonmail.com
+Creation Date: 2023-08-23
+Expiration Date: 2026-08-26
+Name Server: ns3.fakecdn15.io
+Name Server: ns9.fakecdn33.io
+
+Domain Name: intranet-staging.tech
+Registrar: GoDaddy.com, LLC
+Registrant Email: user7906@example.com
+Creation Date: 2020-06-21
+Expiration Date: 2028-10-18
+Name Server: ns2.fakecdn41.io
+Name Server: ns8.fakecdn46.io
+
+Domain Name: inteln-test.io
+Registrar: GoDaddy.com, LLC
+Registrant Email: infra@tutanota.com
+Creation Date: 2024-06-07
+Expiration Date: 2026-07-06
+Name Server: ns2.fakecdn96.io
+Name Server: ns6.fakecdn64.io
+
+Domain Name: intel.xyz
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user5843@example.com
+Creation Date: 2018-01-28
+Expiration Date: 2028-01-14
+Name Server: ns1.fakecdn62.io
+Name Server: ns7.fakecdn80.io
+
+Domain Name: news-staging.io
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user4601@example.com
+Creation Date: 2024-01-24
+Expiration Date: 2025-03-08
+Name Server: ns3.fakecdn51.io
+Name Server: ns6.fakecdn59.io
+
+Domain Name: inteln-test.tech
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user6226@example.com
+Creation Date: 2020-12-12
+Expiration Date: 2026-05-01
+Name Server: ns3.fakecdn61.io
+Name Server: ns9.fakecdn44.io
+
+Domain Name: shop-admin.co
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user2158@example.com
+Creation Date: 2021-01-10
+Expiration Date: 2026-04-28
+Name Server: ns4.fakecdn49.io
+Name Server: ns6.fakecdn19.io
+
+Domain Name: cdn.com
+Registrar: GoDaddy.com, LLC
+Registrant Email: user4121@example.com
+Creation Date: 2024-05-14
+Expiration Date: 2025-04-08
+Name Server: ns4.fakecdn13.io
+Name Server: ns6.fakecdn8.io
+
+Domain Name: hackorn.tech
+Registrar: NameCheap, Inc.
+Registrant Email: user5493@example.com
+Creation Date: 2019-05-12
+Expiration Date: 2026-12-21
+Name Server: ns2.fakecdn74.io
+Name Server: ns9.fakecdn84.io
+
+Domain Name: staging.io
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user6253@example.com
+Creation Date: 2021-10-13
+Expiration Date: 2027-05-14
+Name Server: ns4.fakecdn10.io
+Name Server: ns5.fakecdn21.io
+
+Domain Name: intel-cloud.io
+Registrar: HOSTINGER operations, UAB
+Registrant Email: ops@secpenlabs.net
+Creation Date: 2018-04-05
+Expiration Date: 2025-09-14
+Name Server: ns2.fakecdn85.io
+Name Server: ns7.fakecdn96.io
+
+Domain Name: shop.co
+Registrar: NameCheap, Inc.
+Registrant Email: billing@secpen.org
+Creation Date: 2024-12-06
+Expiration Date: 2025-11-15
+Name Server: ns1.fakecdn84.io
+Name Server: ns8.fakecdn40.io
+
+Domain Name: intel.io
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user7811@example.com
+Creation Date: 2024-01-24
+Expiration Date: 2026-07-12
+Name Server: ns4.fakecdn18.io
+Name Server: ns9.fakecdn23.io
+
+Domain Name: auth-auth.co
+Registrar: HOSTINGER operations, UAB
+Registrant Email: ops@secpenlabs.net
+Creation Date: 2021-05-28
+Expiration Date: 2025-01-22
+Name Server: ns1.fakecdn67.io
+Name Server: ns6.fakecdn45.io
+
+Domain Name: cdn-secure.tech
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user159@example.com
+Creation Date: 2024-04-15
+Expiration Date: 2027-06-15
+Name Server: ns4.fakecdn32.io
+Name Server: ns6.fakecdn92.io
+
+Domain Name: ctf-intel.net
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: ops@secpenlabs.net
+Creation Date: 2021-04-01
+Expiration Date: 2025-08-15
+Name Server: ns4.fakecdn80.io
+Name Server: ns8.fakecdn35.io
+
+Domain Name: shop-secure.com
+Registrar: NameCheap, Inc.
+Registrant Email: john.cyber@protonmail.com
+Creation Date: 2023-07-15
+Expiration Date: 2026-03-21
+Name Server: ns3.fakecdn54.io
+Name Server: ns7.fakecdn64.io
+
+Domain Name: cdn-hackorn.info
+Registrar: NameCheap, Inc.
+Registrant Email: user3158@example.com
+Creation Date: 2022-04-12
+Expiration Date: 2025-01-26
+Name Server: ns1.fakecdn99.io
+Name Server: ns6.fakecdn50.io
+
+Domain Name: intel-staging.xyz
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user7756@example.com
+Creation Date: 2019-05-16
+Expiration Date: 2026-06-03
+Name Server: ns4.fakecdn82.io
+Name Server: ns7.fakecdn26.io
+
+Domain Name: ds-ctf.xyz
+Registrar: NameCheap, Inc.
+Registrant Email: john.cyber@protonmail.com
+Creation Date: 2018-06-22
+Expiration Date: 2028-04-05
+Name Server: ns4.fakecdn89.io
+Name Server: ns9.fakecdn20.io
+
+Domain Name: harsh-intel.tech
+Registrar: NameCheap, Inc.
+Registrant Email: user5554@example.com
+Creation Date: 2024-04-06
+Expiration Date: 2028-08-13
+Name Server: ns3.fakecdn57.io
+Name Server: ns6.fakecdn3.io
+
+Domain Name: vpn-pay.com
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user7178@example.com
+Creation Date: 2023-04-03
+Expiration Date: 2026-07-18
+Name Server: ns2.fakecdn9.io
+Name Server: ns9.fakecdn20.io
+
+Domain Name: data-data.info
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user1047@example.com
+Creation Date: 2022-05-07
+Expiration Date: 2026-01-24
+Name Server: ns4.fakecdn99.io
+Name Server: ns9.fakecdn20.io
+
+Domain Name: cloud-auth.net
+Registrar: NameCheap, Inc.
+Registrant Email: redteam_ops@protonmail.com
+Creation Date: 2018-05-11
+Expiration Date: 2028-03-15
+Name Server: ns4.fakecdn85.io
+Name Server: ns8.fakecdn68.io
+
+Domain Name: login-intel.net
+Registrar: NameCheap, Inc.
+Registrant Email: user6056@example.com
+Creation Date: 2024-12-01
+Expiration Date: 2026-06-29
+Name Server: ns1.fakecdn94.io
+Name Server: ns5.fakecdn39.io
+
+Domain Name: portal.net
+Registrar: NameCheap, Inc.
+Registrant Email: user4085@example.com
+Creation Date: 2024-04-05
+Expiration Date: 2027-05-01
+Name Server: ns1.fakecdn99.io
+Name Server: ns9.fakecdn46.io
+
+Domain Name: inteln-test-admin.net
+Registrar: GoDaddy.com, LLC
+Registrant Email: user5782@example.com
+Creation Date: 2021-07-14
+Expiration Date: 2028-02-01
+Name Server: ns3.fakecdn48.io
+Name Server: ns8.fakecdn98.io
+
+Domain Name: ctf-cloud.xyz
+Registrar: GoDaddy.com, LLC
+Registrant Email: user7422@example.com
+Creation Date: 2018-03-08
+Expiration Date: 2027-11-27
+Name Server: ns2.fakecdn39.io
+Name Server: ns5.fakecdn39.io
+
+Domain Name: shop.info
+Registrar: NameCheap, Inc.
+Registrant Email: user4531@example.com
+Creation Date: 2019-10-02
+Expiration Date: 2025-10-11
+Name Server: ns3.fakecdn47.io
+Name Server: ns9.fakecdn32.io
+
+Domain Name: intel.io
+Registrar: NameCheap, Inc.
+Registrant Email: user8009@example.com
+Creation Date: 2019-01-26
+Expiration Date: 2028-05-04
+Name Server: ns3.fakecdn5.io
+Name Server: ns9.fakecdn49.io
+
+Domain Name: harsh.info
+Registrar: HOSTINGER operations, UAB
+Registrant Email: john.cyber@protonmail.com
+Creation Date: 2021-07-31
+Expiration Date: 2028-01-11
+Name Server: ns2.fakecdn42.io
+Name Server: ns9.fakecdn90.io
+
+Domain Name: pay.co
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user9760@example.com
+Creation Date: 2018-12-05
+Expiration Date: 2027-09-02
+Name Server: ns1.fakecdn71.io
+Name Server: ns8.fakecdn34.io
+
+Domain Name: admin.co
+Registrar: GoDaddy.com, LLC
+Registrant Email: infra@tutanota.com
+Creation Date: 2020-09-19
+Expiration Date: 2025-05-27
+Name Server: ns3.fakecdn56.io
+Name Server: ns7.fakecdn88.io
+
+Domain Name: panel.co
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user5654@example.com
+Creation Date: 2022-12-17
+Expiration Date: 2028-06-30
+Name Server: ns2.fakecdn57.io
+Name Server: ns5.fakecdn30.io
+
+Domain Name: intranet.org
+Registrar: NameCheap, Inc.
+Registrant Email: user3992@example.com
+Creation Date: 2018-04-04
+Expiration Date: 2026-11-11
+Name Server: ns2.fakecdn95.io
+Name Server: ns9.fakecdn28.io
+
+Domain Name: go.io
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: infra@tutanota.com
+Creation Date: 2025-10-23
+Expiration Date: 2028-06-19
+Name Server: ns3.fakecdn7.io
+Name Server: ns8.fakecdn84.io
+
+Domain Name: login.io
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user5178@example.com
+Creation Date: 2024-09-11
+Expiration Date: 2027-12-25
+Name Server: ns1.fakecdn24.io
+Name Server: ns6.fakecdn65.io
+
+Domain Name: go-inteln-test.com
+Registrar: GoDaddy.com, LLC
+Registrant Email: user2582@example.com
+Creation Date: 2021-05-23
+Expiration Date: 2026-04-29
+Name Server: ns3.fakecdn8.io
+Name Server: ns7.fakecdn50.io
+
+Domain Name: portal.io
+Registrar: GoDaddy.com, LLC
+Registrant Email: user1448@example.com
+Creation Date: 2019-09-18
+Expiration Date: 2027-05-24
+Name Server: ns3.fakecdn78.io
+Name Server: ns7.fakecdn58.io
+
+Domain Name: shop.org
+Registrar: GoDaddy.com, LLC
+Registrant Email: user2225@example.com
+Creation Date: 2023-12-24
+Expiration Date: 2025-08-31
+Name Server: ns2.fakecdn41.io
+Name Server: ns6.fakecdn94.io
+
+Domain Name: harsh.co
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user3089@example.com
+Creation Date: 2024-05-11
+Expiration Date: 2028-06-08
+Name Server: ns2.fakecdn77.io
+Name Server: ns6.fakecdn30.io
+
+Domain Name: vpn.tech
+Registrar: GoDaddy.com, LLC
+Registrant Email: infra@tutanota.com
+Creation Date: 2020-07-15
+Expiration Date: 2025-03-08
+Name Server: ns4.fakecdn98.io
+Name Server: ns5.fakecdn35.io
+
+Domain Name: intel-intranet.xyz
+Registrar: GoDaddy.com, LLC
+Registrant Email: user5333@example.com
+Creation Date: 2022-04-08
+Expiration Date: 2026-10-03
+Name Server: ns4.fakecdn79.io
+Name Server: ns9.fakecdn77.io
+
+Domain Name: news.tech
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: infra@tutanota.com
+Creation Date: 2021-04-07
+Expiration Date: 2027-06-20
+Name Server: ns4.fakecdn39.io
+Name Server: ns7.fakecdn60.io
+
+Domain Name: admin.com
+Registrar: GoDaddy.com, LLC
+Registrant Email: user7410@example.com
+Creation Date: 2021-08-17
+Expiration Date: 2027-07-13
+Name Server: ns1.fakecdn23.io
+Name Server: ns8.fakecdn76.io
+
+Domain Name: ds.net
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user5956@example.com
+Creation Date: 2023-09-27
+Expiration Date: 2028-06-07
+Name Server: ns2.fakecdn49.io
+Name Server: ns9.fakecdn49.io
+
+Domain Name: harsh.info
+Registrar: GoDaddy.com, LLC
+Registrant Email: redteam_ops@protonmail.com
+Creation Date: 2019-06-23
+Expiration Date: 2026-02-20
+Name Server: ns1.fakecdn80.io
+Name Server: ns7.fakecdn2.io
+
+Domain Name: news-news.com
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: john.cyber@protonmail.com
+Creation Date: 2020-09-29
+Expiration Date: 2028-01-26
+Name Server: ns3.fakecdn80.io
+Name Server: ns9.fakecdn27.io
+
+Domain Name: shop.com
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user2391@example.com
+Creation Date: 2020-01-01
+Expiration Date: 2025-11-27
+Name Server: ns3.fakecdn79.io
+Name Server: ns9.fakecdn74.io
+
+Domain Name: staging.info
+Registrar: NameCheap, Inc.
+Registrant Email: user5299@example.com
+Creation Date: 2019-07-06
+Expiration Date: 2025-09-07
+Name Server: ns3.fakecdn43.io
+Name Server: ns9.fakecdn53.io
+
+Domain Name: inteln-test.com
+Registrar: NameCheap, Inc.
+Registrant Email: user7934@example.com
+Creation Date: 2024-06-13
+Expiration Date: 2028-06-30
+Name Server: ns3.fakecdn17.io
+Name Server: ns9.fakecdn73.io
+
+Domain Name: news-auth.tech
+Registrar: GoDaddy.com, LLC
+Registrant Email: user7626@example.com
+Creation Date: 2024-11-25
+Expiration Date: 2027-04-30
+Name Server: ns4.fakecdn6.io
+Name Server: ns7.fakecdn45.io
+
+Domain Name: secure.xyz
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user4178@example.com
+Creation Date: 2022-06-11
+Expiration Date: 2028-03-11
+Name Server: ns1.fakecdn23.io
+Name Server: ns6.fakecdn43.io
+
+Domain Name: portal-news.tech
+Registrar: NameCheap, Inc.
+Registrant Email: billing@secpen.org
+Creation Date: 2024-05-03
+Expiration Date: 2028-10-20
+Name Server: ns3.fakecdn72.io
+Name Server: ns9.fakecdn3.io
+
+Domain Name: api.info
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user2456@example.com
+Creation Date: 2020-02-07
+Expiration Date: 2028-05-03
+Name Server: ns1.fakecdn97.io
+Name Server: ns7.fakecdn91.io
+
+Domain Name: inteln-test-data.net
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user2877@example.com
+Creation Date: 2018-06-03
+Expiration Date: 2026-02-18
+Name Server: ns1.fakecdn57.io
+Name Server: ns9.fakecdn4.io
+
+Domain Name: ds-pay.info
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user5094@example.com
+Creation Date: 2023-11-10
+Expiration Date: 2025-08-26
+Name Server: ns1.fakecdn40.io
+Name Server: ns5.fakecdn88.io
+
+Domain Name: cloud.com
+Registrar: NameCheap, Inc.
+Registrant Email: billing@secpen.org
+Creation Date: 2023-12-21
+Expiration Date: 2026-10-16
+Name Server: ns4.fakecdn86.io
+Name Server: ns5.fakecdn35.io
+
+Domain Name: pay.net
+Registrar: NameCheap, Inc.
+Registrant Email: user9010@example.com
+Creation Date: 2021-03-06
+Expiration Date: 2028-03-21
+Name Server: ns2.fakecdn22.io
+Name Server: ns5.fakecdn40.io
+
+Domain Name: go-login.com
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user6997@example.com
+Creation Date: 2025-09-27
+Expiration Date: 2028-12-03
+Name Server: ns4.fakecdn79.io
+Name Server: ns7.fakecdn40.io
+
+Domain Name: hackorn-inteln-test.net
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: infra@tutanota.com
+Creation Date: 2019-08-12
+Expiration Date: 2028-06-17
+Name Server: ns3.fakecdn47.io
+Name Server: ns8.fakecdn24.io
+
+Domain Name: hackorn-ds.tech
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user5768@example.com
+Creation Date: 2024-06-11
+Expiration Date: 2025-09-18
+Name Server: ns1.fakecdn52.io
+Name Server: ns5.fakecdn42.io
+
+Domain Name: hackorn.tech
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: infra@tutanota.com
+Creation Date: 2025-10-13
+Expiration Date: 2028-04-25
+Name Server: ns4.fakecdn56.io
+Name Server: ns9.fakecdn44.io
+
+Domain Name: pay.net
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user9712@example.com
+Creation Date: 2018-10-13
+Expiration Date: 2028-05-10
+Name Server: ns1.fakecdn88.io
+Name Server: ns9.fakecdn99.io
+
+Domain Name: cloud-auth.com
+Registrar: NameCheap, Inc.
+Registrant Email: user2413@example.com
+Creation Date: 2024-06-25
+Expiration Date: 2027-07-05
+Name Server: ns2.fakecdn27.io
+Name Server: ns7.fakecdn39.io
+
+Domain Name: portal-portal.info
+Registrar: NameCheap, Inc.
+Registrant Email: john.cyber@protonmail.com
+Creation Date: 2025-11-20
+Expiration Date: 2028-02-21
+Name Server: ns3.fakecdn15.io
+Name Server: ns7.fakecdn4.io
+
+Domain Name: admin.co
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user7140@example.com
+Creation Date: 2022-04-25
+Expiration Date: 2027-01-08
+Name Server: ns4.fakecdn20.io
+Name Server: ns7.fakecdn86.io
+
+Domain Name: pay.net
+Registrar: NameCheap, Inc.
+Registrant Email: user1397@example.com
+Creation Date: 2020-01-07
+Expiration Date: 2027-07-20
+Name Server: ns4.fakecdn71.io
+Name Server: ns8.fakecdn50.io
+
+Domain Name: intel-admin.com
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user4421@example.com
+Creation Date: 2025-11-27
+Expiration Date: 2027-01-25
+Name Server: ns1.fakecdn75.io
+Name Server: ns8.fakecdn89.io
+
+Domain Name: pay.io
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user4027@example.com
+Creation Date: 2018-08-05
+Expiration Date: 2026-12-05
+Name Server: ns1.fakecdn61.io
+Name Server: ns8.fakecdn66.io
+
+Domain Name: api-cloud.info
+Registrar: HOSTINGER operations, UAB
+Registrant Email: ops@secpenlabs.net
+Creation Date: 2024-06-04
+Expiration Date: 2025-04-16
+Name Server: ns3.fakecdn95.io
+Name Server: ns9.fakecdn4.io
+
+Domain Name: news-panel.net
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user1837@example.com
+Creation Date: 2019-09-12
+Expiration Date: 2028-09-11
+Name Server: ns4.fakecdn48.io
+Name Server: ns6.fakecdn34.io
+
+Domain Name: news.com
+Registrar: HOSTINGER operations, UAB
+Registrant Email: infra@tutanota.com
+Creation Date: 2024-06-24
+Expiration Date: 2026-12-08
+Name Server: ns1.fakecdn83.io
+Name Server: ns7.fakecdn97.io
+
+Domain Name: login.tech
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user8734@example.com
+Creation Date: 2022-11-16
+Expiration Date: 2025-01-25
+Name Server: ns3.fakecdn58.io
+Name Server: ns8.fakecdn87.io
+
+Domain Name: staging-intranet.com
+Registrar: NameCheap, Inc.
+Registrant Email: user5807@example.com
+Creation Date: 2023-03-04
+Expiration Date: 2028-10-14
+Name Server: ns2.fakecdn94.io
+Name Server: ns9.fakecdn99.io
+
+Domain Name: news.org
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user8982@example.com
+Creation Date: 2020-06-17
+Expiration Date: 2026-08-04
+Name Server: ns3.fakecdn25.io
+Name Server: ns5.fakecdn4.io
+
+Domain Name: login.xyz
+Registrar: NameCheap, Inc.
+Registrant Email: billing@secpen.org
+Creation Date: 2023-03-28
+Expiration Date: 2028-09-14
+Name Server: ns1.fakecdn82.io
+Name Server: ns8.fakecdn36.io
+
+Domain Name: intranet-intranet.info
+Registrar: HOSTINGER operations, UAB
+Registrant Email: ops@secpenlabs.net
+Creation Date: 2022-12-10
+Expiration Date: 2025-05-23
+Name Server: ns4.fakecdn26.io
+Name Server: ns9.fakecdn51.io
+
+Domain Name: auth.net
+Registrar: GoDaddy.com, LLC
+Registrant Email: user7244@example.com
+Creation Date: 2020-10-23
+Expiration Date: 2027-07-03
+Name Server: ns1.fakecdn64.io
+Name Server: ns6.fakecdn84.io
+
+Domain Name: portal.co
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user7154@example.com
+Creation Date: 2018-10-15
+Expiration Date: 2028-01-12
+Name Server: ns2.fakecdn1.io
+Name Server: ns8.fakecdn89.io
+
+Domain Name: panel-go.info
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user8769@example.com
+Creation Date: 2020-04-11
+Expiration Date: 2025-12-28
+Name Server: ns1.fakecdn50.io
+Name Server: ns6.fakecdn39.io
+
+Domain Name: ds-auth.info
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user7185@example.com
+Creation Date: 2018-09-16
+Expiration Date: 2028-01-13
+Name Server: ns3.fakecdn64.io
+Name Server: ns9.fakecdn58.io
+
+Domain Name: secure.com
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user3827@example.com
+Creation Date: 2018-10-23
+Expiration Date: 2025-03-17
+Name Server: ns2.fakecdn63.io
+Name Server: ns5.fakecdn61.io
+
+Domain Name: intel.org
+Registrar: NameCheap, Inc.
+Registrant Email: user5045@example.com
+Creation Date: 2024-09-03
+Expiration Date: 2028-06-14
+Name Server: ns2.fakecdn9.io
+Name Server: ns6.fakecdn55.io
+
+Domain Name: hackorn-staging.co
+Registrar: HOSTINGER operations, UAB
+Registrant Email: redteam_ops@protonmail.com
+Creation Date: 2019-05-10
+Expiration Date: 2026-07-15
+Name Server: ns2.fakecdn97.io
+Name Server: ns8.fakecdn22.io
+
+Domain Name: go-cdn.com
+Registrar: GoDaddy.com, LLC
+Registrant Email: user114@example.com
+Creation Date: 2025-04-23
+Expiration Date: 2028-04-30
+Name Server: ns3.fakecdn54.io
+Name Server: ns8.fakecdn89.io
+
+Domain Name: shop.io
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user3929@example.com
+Creation Date: 2018-01-19
+Expiration Date: 2028-02-17
+Name Server: ns2.fakecdn25.io
+Name Server: ns5.fakecdn68.io
+
+Domain Name: auth.xyz
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user2454@example.com
+Creation Date: 2018-06-26
+Expiration Date: 2025-04-21
+Name Server: ns3.fakecdn37.io
+Name Server: ns6.fakecdn56.io
+
+Domain Name: cloud-hackorn.tech
+Registrar: NameCheap, Inc.
+Registrant Email: user1170@example.com
+Creation Date: 2020-08-21
+Expiration Date: 2027-06-30
+Name Server: ns3.fakecdn54.io
+Name Server: ns6.fakecdn96.io
+
+Domain Name: intel-panel.xyz
+Registrar: NameCheap, Inc.
+Registrant Email: user900@example.com
+Creation Date: 2022-11-21
+Expiration Date: 2025-10-24
+Name Server: ns2.fakecdn79.io
+Name Server: ns8.fakecdn23.io
+
+Domain Name: vpn-cdn.xyz
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user2246@example.com
+Creation Date: 2023-03-22
+Expiration Date: 2027-07-29
+Name Server: ns4.fakecdn22.io
+Name Server: ns7.fakecdn29.io
+
+Domain Name: api-hackorn.org
+Registrar: GoDaddy.com, LLC
+Registrant Email: user7767@example.com
+Creation Date: 2022-10-20
+Expiration Date: 2026-05-21
+Name Server: ns2.fakecdn42.io
+Name Server: ns8.fakecdn75.io
+
+Domain Name: ds.org
+Registrar: NameCheap, Inc.
+Registrant Email: user8711@example.com
+Creation Date: 2025-10-24
+Expiration Date: 2025-07-20
+Name Server: ns4.fakecdn64.io
+Name Server: ns6.fakecdn11.io
+
+Domain Name: intranet.co
+Registrar: GoDaddy.com, LLC
+Registrant Email: user2660@example.com
+Creation Date: 2024-05-25
+Expiration Date: 2028-04-10
+Name Server: ns1.fakecdn59.io
+Name Server: ns8.fakecdn99.io
+
+Domain Name: ds.co
+Registrar: GoDaddy.com, LLC
+Registrant Email: user545@example.com
+Creation Date: 2021-01-10
+Expiration Date: 2028-11-30
+Name Server: ns2.fakecdn88.io
+Name Server: ns5.fakecdn80.io
+
+Domain Name: inteln-test-login.info
+Registrar: NameCheap, Inc.
+Registrant Email: user7634@example.com
+Creation Date: 2025-12-15
+Expiration Date: 2026-02-24
+Name Server: ns2.fakecdn43.io
+Name Server: ns6.fakecdn70.io
+
+Domain Name: auth.xyz
+Registrar: GoDaddy.com, LLC
+Registrant Email: user4390@example.com
+Creation Date: 2023-06-15
+Expiration Date: 2027-10-24
+Name Server: ns1.fakecdn61.io
+Name Server: ns9.fakecdn87.io
+
+Domain Name: cdn-vpn.net
+Registrar: GoDaddy.com, LLC
+Registrant Email: redteam_ops@protonmail.com
+Creation Date: 2025-10-26
+Expiration Date: 2025-10-31
+Name Server: ns4.fakecdn20.io
+Name Server: ns6.fakecdn67.io
+
+Domain Name: data.org
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user3107@example.com
+Creation Date: 2021-10-07
+Expiration Date: 2027-04-24
+Name Server: ns3.fakecdn84.io
+Name Server: ns7.fakecdn63.io
+
+Domain Name: cdn-api.io
+Registrar: GoDaddy.com, LLC
+Registrant Email: ops@secpenlabs.net
+Creation Date: 2024-12-08
+Expiration Date: 2025-11-26
+Name Server: ns3.fakecdn24.io
+Name Server: ns6.fakecdn91.io
+
+Domain Name: pay.net
+Registrar: NameCheap, Inc.
+Registrant Email: user6066@example.com
+Creation Date: 2021-07-22
+Expiration Date: 2026-12-06
+Name Server: ns2.fakecdn48.io
+Name Server: ns8.fakecdn70.io
+
+Domain Name: go.net
+Registrar: NameCheap, Inc.
+Registrant Email: user2566@example.com
+Creation Date: 2025-11-29
+Expiration Date: 2026-08-29
+Name Server: ns4.fakecdn38.io
+Name Server: ns9.fakecdn86.io
+
+Domain Name: hackorn.tech
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user666@example.com
+Creation Date: 2022-01-03
+Expiration Date: 2025-07-09
+Name Server: ns3.fakecdn8.io
+Name Server: ns9.fakecdn83.io
+
+Domain Name: api.xyz
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user3216@example.com
+Creation Date: 2024-10-06
+Expiration Date: 2028-05-24
+Name Server: ns1.fakecdn86.io
+Name Server: ns7.fakecdn51.io
+
+Domain Name: inteln-test.co
+Registrar: HOSTINGER operations, UAB
+Registrant Email: infra@tutanota.com
+Creation Date: 2022-12-25
+Expiration Date: 2027-05-02
+Name Server: ns4.fakecdn37.io
+Name Server: ns6.fakecdn94.io
+
+Domain Name: inteln-test-admin.net
+Registrar: GoDaddy.com, LLC
+Registrant Email: user4978@example.com
+Creation Date: 2025-03-01
+Expiration Date: 2026-07-14
+Name Server: ns4.fakecdn23.io
+Name Server: ns9.fakecdn60.io
+
+Domain Name: shop.co
+Registrar: HOSTINGER operations, UAB
+Registrant Email: john.cyber@protonmail.com
+Creation Date: 2018-01-11
+Expiration Date: 2025-11-12
+Name Server: ns3.fakecdn39.io
+Name Server: ns8.fakecdn16.io
+
+Domain Name: admin-news.xyz
+Registrar: NameCheap, Inc.
+Registrant Email: user9276@example.com
+Creation Date: 2020-11-22
+Expiration Date: 2028-07-10
+Name Server: ns4.fakecdn89.io
+Name Server: ns5.fakecdn48.io
+
+Domain Name: ctf.org
+Registrar: NameCheap, Inc.
+Registrant Email: user2685@example.com
+Creation Date: 2021-12-29
+Expiration Date: 2025-04-10
+Name Server: ns3.fakecdn38.io
+Name Server: ns9.fakecdn82.io
+
+Domain Name: news.org
+Registrar: NameCheap, Inc.
+Registrant Email: user5190@example.com
+Creation Date: 2021-12-11
+Expiration Date: 2025-10-22
+Name Server: ns1.fakecdn18.io
+Name Server: ns9.fakecdn37.io
+
+Domain Name: harsh-admin.org
+Registrar: NameCheap, Inc.
+Registrant Email: user2542@example.com
+Creation Date: 2023-03-02
+Expiration Date: 2025-06-06
+Name Server: ns1.fakecdn17.io
+Name Server: ns5.fakecdn62.io
+
+Domain Name: cloud-vpn.tech
+Registrar: HOSTINGER operations, UAB
+Registrant Email: infra@tutanota.com
+Creation Date: 2019-06-18
+Expiration Date: 2025-06-10
+Name Server: ns4.fakecdn89.io
+Name Server: ns5.fakecdn10.io
+
+Domain Name: harsh.co
+Registrar: NameCheap, Inc.
+Registrant Email: redteam_ops@protonmail.com
+Creation Date: 2021-05-20
+Expiration Date: 2028-09-29
+Name Server: ns1.fakecdn97.io
+Name Server: ns5.fakecdn16.io
+
+Domain Name: api.xyz
+Registrar: GoDaddy.com, LLC
+Registrant Email: user5780@example.com
+Creation Date: 2024-11-15
+Expiration Date: 2026-05-11
+Name Server: ns1.fakecdn13.io
+Name Server: ns9.fakecdn98.io
+
+Domain Name: go.xyz
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user80@example.com
+Creation Date: 2025-07-21
+Expiration Date: 2025-08-08
+Name Server: ns2.fakecdn46.io
+Name Server: ns8.fakecdn55.io
+
+Domain Name: news.co
+Registrar: NameCheap, Inc.
+Registrant Email: user8133@example.com
+Creation Date: 2018-06-16
+Expiration Date: 2025-06-18
+Name Server: ns3.fakecdn64.io
+Name Server: ns5.fakecdn50.io
+
+Domain Name: cdn-inteln-test.tech
+Registrar: GoDaddy.com, LLC
+Registrant Email: user1150@example.com
+Creation Date: 2023-07-07
+Expiration Date: 2028-10-08
+Name Server: ns1.fakecdn51.io
+Name Server: ns8.fakecdn67.io
+
+Domain Name: panel.co
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: redteam_ops@protonmail.com
+Creation Date: 2020-08-11
+Expiration Date: 2027-05-20
+Name Server: ns4.fakecdn36.io
+Name Server: ns9.fakecdn76.io
+
+Domain Name: harsh-hackorn.co
+Registrar: HOSTINGER operations, UAB
+Registrant Email: billing@secpen.org
+Creation Date: 2023-06-28
+Expiration Date: 2027-10-16
+Name Server: ns2.fakecdn81.io
+Name Server: ns6.fakecdn4.io
+
+Domain Name: inteln-test.net
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user1588@example.com
+Creation Date: 2023-07-10
+Expiration Date: 2027-08-13
+Name Server: ns2.fakecdn38.io
+Name Server: ns8.fakecdn63.io
+
+Domain Name: go-hackorn.com
+Registrar: NameCheap, Inc.
+Registrant Email: ops@secpenlabs.net
+Creation Date: 2024-03-30
+Expiration Date: 2028-09-12
+Name Server: ns3.fakecdn91.io
+Name Server: ns6.fakecdn63.io
+
+Domain Name: pay-inteln-test.tech
+Registrar: NameCheap, Inc.
+Registrant Email: john.cyber@protonmail.com
+Creation Date: 2022-05-23
+Expiration Date: 2026-06-24
+Name Server: ns4.fakecdn76.io
+Name Server: ns8.fakecdn79.io
+
+Domain Name: harsh-data.com
+Registrar: NameCheap, Inc.
+Registrant Email: user749@example.com
+Creation Date: 2021-11-14
+Expiration Date: 2027-01-02
+Name Server: ns4.fakecdn45.io
+Name Server: ns5.fakecdn85.io
+
+Domain Name: intel.io
+Registrar: NameCheap, Inc.
+Registrant Email: user332@example.com
+Creation Date: 2022-09-27
+Expiration Date: 2028-03-09
+Name Server: ns4.fakecdn35.io
+Name Server: ns5.fakecdn90.io
+
+Domain Name: api-staging.co
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: ops@secpenlabs.net
+Creation Date: 2024-11-23
+Expiration Date: 2026-09-06
+Name Server: ns3.fakecdn56.io
+Name Server: ns6.fakecdn64.io
+
+Domain Name: ctf.xyz
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user4354@example.com
+Creation Date: 2021-01-24
+Expiration Date: 2025-05-18
+Name Server: ns4.fakecdn55.io
+Name Server: ns6.fakecdn45.io
+
+Domain Name: auth.io
+Registrar: HOSTINGER operations, UAB
+Registrant Email: ops@secpenlabs.net
+Creation Date: 2018-03-18
+Expiration Date: 2028-07-09
+Name Server: ns2.fakecdn74.io
+Name Server: ns8.fakecdn28.io
+
+Domain Name: data-auth.co
+Registrar: NameCheap, Inc.
+Registrant Email: user8566@example.com
+Creation Date: 2018-09-21
+Expiration Date: 2028-07-22
+Name Server: ns2.fakecdn53.io
+Name Server: ns7.fakecdn37.io
+
+Domain Name: intel.xyz
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user1870@example.com
+Creation Date: 2022-09-25
+Expiration Date: 2028-08-17
+Name Server: ns1.fakecdn26.io
+Name Server: ns6.fakecdn35.io
+
+Domain Name: secure.io
+Registrar: GoDaddy.com, LLC
+Registrant Email: user6678@example.com
+Creation Date: 2022-01-28
+Expiration Date: 2028-10-07
+Name Server: ns1.fakecdn51.io
+Name Server: ns6.fakecdn31.io
+
+Domain Name: api.net
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user3875@example.com
+Creation Date: 2022-09-29
+Expiration Date: 2026-03-23
+Name Server: ns2.fakecdn14.io
+Name Server: ns6.fakecdn28.io
+
+Domain Name: cdn-intel.com
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user8750@example.com
+Creation Date: 2023-05-01
+Expiration Date: 2027-01-24
+Name Server: ns3.fakecdn3.io
+Name Server: ns9.fakecdn5.io
+
+Domain Name: intranet.xyz
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user138@example.com
+Creation Date: 2022-05-29
+Expiration Date: 2026-06-08
+Name Server: ns3.fakecdn12.io
+Name Server: ns6.fakecdn39.io
+
+Domain Name: ctf.org
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user6930@example.com
+Creation Date: 2019-02-16
+Expiration Date: 2025-11-25
+Name Server: ns3.fakecdn65.io
+Name Server: ns5.fakecdn46.io
+
+Domain Name: api-hackorn.info
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user2239@example.com
+Creation Date: 2018-12-03
+Expiration Date: 2025-08-15
+Name Server: ns2.fakecdn32.io
+Name Server: ns9.fakecdn92.io
+
+Domain Name: ctf.co
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user7847@example.com
+Creation Date: 2022-02-14
+Expiration Date: 2026-01-08
+Name Server: ns4.fakecdn49.io
+Name Server: ns9.fakecdn29.io
+
+Domain Name: portal.xyz
+Registrar: NameCheap, Inc.
+Registrant Email: redteam_ops@protonmail.com
+Creation Date: 2022-02-16
+Expiration Date: 2025-12-15
+Name Server: ns1.fakecdn2.io
+Name Server: ns9.fakecdn56.io
+
+Domain Name: ctf-news.xyz
+Registrar: GoDaddy.com, LLC
+Registrant Email: user9841@example.com
+Creation Date: 2021-03-05
+Expiration Date: 2028-10-18
+Name Server: ns2.fakecdn54.io
+Name Server: ns6.fakecdn53.io
+
+Domain Name: secure.io
+Registrar: GoDaddy.com, LLC
+Registrant Email: user179@example.com
+Creation Date: 2022-06-17
+Expiration Date: 2028-11-07
+Name Server: ns2.fakecdn92.io
+Name Server: ns8.fakecdn91.io
+
+Domain Name: inteln-test-intel.net
+Registrar: NameCheap, Inc.
+Registrant Email: user7725@example.com
+Creation Date: 2024-12-13
+Expiration Date: 2027-02-20
+Name Server: ns3.fakecdn51.io
+Name Server: ns7.fakecdn17.io
+
+Domain Name: api.io
+Registrar: GoDaddy.com, LLC
+Registrant Email: billing@secpen.org
+Creation Date: 2019-04-24
+Expiration Date: 2026-10-04
+Name Server: ns1.fakecdn17.io
+Name Server: ns8.fakecdn36.io
+
+Domain Name: portal-data.io
+Registrar: HOSTINGER operations, UAB
+Registrant Email: infra@tutanota.com
+Creation Date: 2019-09-01
+Expiration Date: 2025-04-22
+Name Server: ns2.fakecdn24.io
+Name Server: ns5.fakecdn61.io
+
+Domain Name: pay-cdn.net
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user678@example.com
+Creation Date: 2019-01-19
+Expiration Date: 2026-02-22
+Name Server: ns3.fakecdn24.io
+Name Server: ns6.fakecdn96.io
+
+Domain Name: go-intranet.xyz
+Registrar: NameCheap, Inc.
+Registrant Email: billing@secpen.org
+Creation Date: 2025-08-22
+Expiration Date: 2028-10-25
+Name Server: ns1.fakecdn51.io
+Name Server: ns7.fakecdn76.io
+
+Domain Name: ctf.org
+Registrar: NameCheap, Inc.
+Registrant Email: user1338@example.com
+Creation Date: 2024-05-20
+Expiration Date: 2025-09-22
+Name Server: ns2.fakecdn7.io
+Name Server: ns7.fakecdn42.io
+
+Domain Name: harsh.co
+Registrar: NameCheap, Inc.
+Registrant Email: user3421@example.com
+Creation Date: 2022-07-07
+Expiration Date: 2026-08-07
+Name Server: ns2.fakecdn16.io
+Name Server: ns7.fakecdn63.io
+
+Domain Name: inteln-test-portal.org
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user8031@example.com
+Creation Date: 2022-09-29
+Expiration Date: 2025-07-04
+Name Server: ns4.fakecdn48.io
+Name Server: ns9.fakecdn24.io
+
+Domain Name: auth-panel.info
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user1307@example.com
+Creation Date: 2023-05-11
+Expiration Date: 2026-09-08
+Name Server: ns2.fakecdn17.io
+Name Server: ns7.fakecdn32.io
+
+Domain Name: data-login.net
+Registrar: NameCheap, Inc.
+Registrant Email: billing@secpen.org
+Creation Date: 2024-07-26
+Expiration Date: 2025-06-17
+Name Server: ns1.fakecdn15.io
+Name Server: ns8.fakecdn23.io
+
+Domain Name: ctf.com
+Registrar: NameCheap, Inc.
+Registrant Email: ops@secpenlabs.net
+Creation Date: 2018-11-17
+Expiration Date: 2028-05-22
+Name Server: ns3.fakecdn87.io
+Name Server: ns5.fakecdn56.io
+
+Domain Name: secure.net
+Registrar: NameCheap, Inc.
+Registrant Email: redteam_ops@protonmail.com
+Creation Date: 2019-05-28
+Expiration Date: 2025-10-04
+Name Server: ns1.fakecdn25.io
+Name Server: ns5.fakecdn3.io
+
+Domain Name: ctf.xyz
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user3971@example.com
+Creation Date: 2018-03-31
+Expiration Date: 2025-08-27
+Name Server: ns2.fakecdn20.io
+Name Server: ns8.fakecdn63.io
+
+Domain Name: secure-cdn.xyz
+Registrar: GoDaddy.com, LLC
+Registrant Email: user1692@example.com
+Creation Date: 2024-06-28
+Expiration Date: 2028-05-05
+Name Server: ns3.fakecdn5.io
+Name Server: ns8.fakecdn52.io
+
+Domain Name: news-inteln-test.tech
+Registrar: GoDaddy.com, LLC
+Registrant Email: user6844@example.com
+Creation Date: 2023-04-23
+Expiration Date: 2025-08-28
+Name Server: ns4.fakecdn80.io
+Name Server: ns7.fakecdn58.io
+
+Domain Name: secure-data.xyz
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user2158@example.com
+Creation Date: 2021-04-16
+Expiration Date: 2028-12-27
+Name Server: ns4.fakecdn54.io
+Name Server: ns7.fakecdn61.io
+
+Domain Name: auth.io
+Registrar: NameCheap, Inc.
+Registrant Email: billing@secpen.org
+Creation Date: 2020-08-19
+Expiration Date: 2026-03-05
+Name Server: ns1.fakecdn3.io
+Name Server: ns7.fakecdn34.io
+
+Domain Name: intranet-shop.com
+Registrar: NameCheap, Inc.
+Registrant Email: user7978@example.com
+Creation Date: 2021-12-26
+Expiration Date: 2025-04-06
+Name Server: ns3.fakecdn20.io
+Name Server: ns9.fakecdn78.io
+
+Domain Name: inteln-test.tech
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user2746@example.com
+Creation Date: 2020-04-21
+Expiration Date: 2027-01-11
+Name Server: ns2.fakecdn94.io
+Name Server: ns7.fakecdn91.io
+
+Domain Name: harsh-news.net
+Registrar: GoDaddy.com, LLC
+Registrant Email: user5969@example.com
+Creation Date: 2021-03-20
+Expiration Date: 2027-11-01
+Name Server: ns2.fakecdn11.io
+Name Server: ns7.fakecdn48.io
+
+Domain Name: vpn-intranet.org
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: ops@secpenlabs.net
+Creation Date: 2018-02-10
+Expiration Date: 2027-11-26
+Name Server: ns1.fakecdn11.io
+Name Server: ns7.fakecdn41.io
+
+Domain Name: staging-pay.com
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user6879@example.com
+Creation Date: 2021-07-08
+Expiration Date: 2026-12-06
+Name Server: ns1.fakecdn36.io
+Name Server: ns9.fakecdn79.io
+
+Domain Name: inteln-test.tech
+Registrar: GoDaddy.com, LLC
+Registrant Email: user7254@example.com
+Creation Date: 2019-06-01
+Expiration Date: 2027-12-02
+Name Server: ns3.fakecdn28.io
+Name Server: ns5.fakecdn66.io
+
+Domain Name: news-harsh.org
+Registrar: NameCheap, Inc.
+Registrant Email: user1819@example.com
+Creation Date: 2022-03-08
+Expiration Date: 2026-06-16
+Name Server: ns3.fakecdn16.io
+Name Server: ns5.fakecdn97.io
+
+Domain Name: cdn.com
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user9767@example.com
+Creation Date: 2024-06-04
+Expiration Date: 2028-10-09
+Name Server: ns2.fakecdn92.io
+Name Server: ns8.fakecdn67.io
+
+Domain Name: panel.xyz
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user2411@example.com
+Creation Date: 2020-05-29
+Expiration Date: 2027-07-03
+Name Server: ns1.fakecdn48.io
+Name Server: ns9.fakecdn52.io
+
+Domain Name: ds-api.co
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user2129@example.com
+Creation Date: 2023-12-08
+Expiration Date: 2025-08-30
+Name Server: ns2.fakecdn59.io
+Name Server: ns8.fakecdn5.io
+
+Domain Name: portal.info
+Registrar: NameCheap, Inc.
+Registrant Email: redteam_ops@protonmail.com
+Creation Date: 2022-03-02
+Expiration Date: 2026-09-17
+Name Server: ns3.fakecdn39.io
+Name Server: ns7.fakecdn63.io
+
+Domain Name: hackorn.org
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: redteam_ops@protonmail.com
+Creation Date: 2018-07-03
+Expiration Date: 2027-05-06
+Name Server: ns4.fakecdn74.io
+Name Server: ns7.fakecdn73.io
+
+Domain Name: ds-harsh.tech
+Registrar: GoDaddy.com, LLC
+Registrant Email: infra@tutanota.com
+Creation Date: 2022-06-08
+Expiration Date: 2026-11-26
+Name Server: ns1.fakecdn86.io
+Name Server: ns8.fakecdn95.io
+
+Domain Name: auth-ctf.com
+Registrar: HOSTINGER operations, UAB
+Registrant Email: infra@tutanota.com
+Creation Date: 2023-05-04
+Expiration Date: 2027-10-27
+Name Server: ns1.fakecdn16.io
+Name Server: ns9.fakecdn24.io
+
+Domain Name: data.xyz
+Registrar: GoDaddy.com, LLC
+Registrant Email: user747@example.com
+Creation Date: 2018-04-06
+Expiration Date: 2026-11-28
+Name Server: ns4.fakecdn24.io
+Name Server: ns8.fakecdn4.io
+
+Domain Name: vpn-panel.net
+Registrar: GoDaddy.com, LLC
+Registrant Email: user1478@example.com
+Creation Date: 2021-08-25
+Expiration Date: 2026-01-07
+Name Server: ns1.fakecdn92.io
+Name Server: ns5.fakecdn39.io
+
+Domain Name: panel-pay.info
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user3884@example.com
+Creation Date: 2023-08-29
+Expiration Date: 2027-02-28
+Name Server: ns1.fakecdn35.io
+Name Server: ns5.fakecdn41.io
+
+Domain Name: go-login.com
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user9613@example.com
+Creation Date: 2022-07-25
+Expiration Date: 2027-07-03
+Name Server: ns1.fakecdn82.io
+Name Server: ns9.fakecdn27.io
+
+Domain Name: vpn.org
+Registrar: GoDaddy.com, LLC
+Registrant Email: john.cyber@protonmail.com
+Creation Date: 2023-05-30
+Expiration Date: 2026-07-14
+Name Server: ns3.fakecdn88.io
+Name Server: ns8.fakecdn45.io
+
+Domain Name: api.io
+Registrar: NameCheap, Inc.
+Registrant Email: billing@secpen.org
+Creation Date: 2022-11-05
+Expiration Date: 2026-03-08
+Name Server: ns3.fakecdn88.io
+Name Server: ns7.fakecdn82.io
+
+Domain Name: staging-inteln-test.io
+Registrar: GoDaddy.com, LLC
+Registrant Email: user3460@example.com
+Creation Date: 2018-01-18
+Expiration Date: 2025-01-20
+Name Server: ns2.fakecdn53.io
+Name Server: ns9.fakecdn90.io
+
+Domain Name: harsh-go.net
+Registrar: NameCheap, Inc.
+Registrant Email: user5793@example.com
+Creation Date: 2022-02-26
+Expiration Date: 2026-01-31
+Name Server: ns4.fakecdn2.io
+Name Server: ns6.fakecdn96.io
+
+Domain Name: harsh.info
+Registrar: GoDaddy.com, LLC
+Registrant Email: infra@tutanota.com
+Creation Date: 2018-01-30
+Expiration Date: 2026-02-06
+Name Server: ns4.fakecdn15.io
+Name Server: ns7.fakecdn73.io
+
+Domain Name: pay-shop.org
+Registrar: NameCheap, Inc.
+Registrant Email: user4504@example.com
+Creation Date: 2025-08-09
+Expiration Date: 2025-02-17
+Name Server: ns3.fakecdn88.io
+Name Server: ns9.fakecdn59.io
+
+Domain Name: portal.com
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user722@example.com
+Creation Date: 2020-07-08
+Expiration Date: 2025-04-07
+Name Server: ns3.fakecdn54.io
+Name Server: ns9.fakecdn58.io
+
+Domain Name: secure-shop.net
+Registrar: NameCheap, Inc.
+Registrant Email: john.cyber@protonmail.com
+Creation Date: 2023-05-20
+Expiration Date: 2027-06-04
+Name Server: ns1.fakecdn76.io
+Name Server: ns7.fakecdn33.io
+
+Domain Name: panel.xyz
+Registrar: HOSTINGER operations, UAB
+Registrant Email: redteam_ops@protonmail.com
+Creation Date: 2018-12-17
+Expiration Date: 2025-05-05
+Name Server: ns1.fakecdn49.io
+Name Server: ns7.fakecdn89.io
+
+Domain Name: hackorn.com
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user4949@example.com
+Creation Date: 2019-01-28
+Expiration Date: 2028-06-18
+Name Server: ns4.fakecdn30.io
+Name Server: ns9.fakecdn85.io
+
+Domain Name: cdn.tech
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: john.cyber@protonmail.com
+Creation Date: 2024-09-03
+Expiration Date: 2025-05-19
+Name Server: ns2.fakecdn74.io
+Name Server: ns6.fakecdn82.io
+
+Domain Name: vpn-news.tech
+Registrar: GoDaddy.com, LLC
+Registrant Email: billing@secpen.org
+Creation Date: 2024-07-18
+Expiration Date: 2028-01-14
+Name Server: ns2.fakecdn19.io
+Name Server: ns8.fakecdn40.io
+
+Domain Name: data-staging.org
+Registrar: NameCheap, Inc.
+Registrant Email: user3899@example.com
+Creation Date: 2020-02-15
+Expiration Date: 2028-09-29
+Name Server: ns4.fakecdn89.io
+Name Server: ns8.fakecdn77.io
+
+Domain Name: ctf-api.info
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user8135@example.com
+Creation Date: 2020-08-01
+Expiration Date: 2027-08-14
+Name Server: ns2.fakecdn31.io
+Name Server: ns8.fakecdn95.io
+
+Domain Name: hackorn-vpn.co
+Registrar: GoDaddy.com, LLC
+Registrant Email: user172@example.com
+Creation Date: 2020-03-07
+Expiration Date: 2028-07-16
+Name Server: ns3.fakecdn6.io
+Name Server: ns5.fakecdn26.io
+
+Domain Name: data.xyz
+Registrar: HOSTINGER operations, UAB
+Registrant Email: john.cyber@protonmail.com
+Creation Date: 2025-08-06
+Expiration Date: 2025-10-09
+Name Server: ns4.fakecdn84.io
+Name Server: ns5.fakecdn44.io
+
+Domain Name: cloud.xyz
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user7116@example.com
+Creation Date: 2022-03-30
+Expiration Date: 2028-11-23
+Name Server: ns3.fakecdn41.io
+Name Server: ns9.fakecdn55.io
+
+Domain Name: portal.xyz
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user8337@example.com
+Creation Date: 2018-11-30
+Expiration Date: 2027-08-22
+Name Server: ns1.fakecdn22.io
+Name Server: ns9.fakecdn50.io
+
+Domain Name: news-cdn.info
+Registrar: HOSTINGER operations, UAB
+Registrant Email: infra@tutanota.com
+Creation Date: 2020-04-11
+Expiration Date: 2027-07-15
+Name Server: ns2.fakecdn51.io
+Name Server: ns6.fakecdn40.io
+
+Domain Name: ds-api.info
+Registrar: HOSTINGER operations, UAB
+Registrant Email: john.cyber@protonmail.com
+Creation Date: 2023-03-21
+Expiration Date: 2027-11-16
+Name Server: ns3.fakecdn55.io
+Name Server: ns8.fakecdn60.io
+
+Domain Name: admin-hackorn.info
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user1360@example.com
+Creation Date: 2023-08-18
+Expiration Date: 2027-11-17
+Name Server: ns1.fakecdn36.io
+Name Server: ns6.fakecdn13.io
+
+Domain Name: login.com
+Registrar: GoDaddy.com, LLC
+Registrant Email: user8908@example.com
+Creation Date: 2020-12-05
+Expiration Date: 2025-01-18
+Name Server: ns3.fakecdn37.io
+Name Server: ns7.fakecdn52.io
+
+Domain Name: hackorn-harsh.com
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user3839@example.com
+Creation Date: 2024-03-13
+Expiration Date: 2027-08-18
+Name Server: ns4.fakecdn44.io
+Name Server: ns5.fakecdn41.io
+
+Domain Name: admin.co
+Registrar: GoDaddy.com, LLC
+Registrant Email: user9159@example.com
+Creation Date: 2025-05-22
+Expiration Date: 2026-12-28
+Name Server: ns3.fakecdn29.io
+Name Server: ns8.fakecdn55.io
+
+Domain Name: harsh-intranet.io
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user2289@example.com
+Creation Date: 2022-05-21
+Expiration Date: 2027-02-20
+Name Server: ns2.fakecdn51.io
+Name Server: ns5.fakecdn69.io
+
+Domain Name: shop-panel.tech
+Registrar: HOSTINGER operations, UAB
+Registrant Email: infra@tutanota.com
+Creation Date: 2018-10-12
+Expiration Date: 2027-03-02
+Name Server: ns3.fakecdn27.io
+Name Server: ns6.fakecdn38.io
+
+Domain Name: cdn.info
+Registrar: NameCheap, Inc.
+Registrant Email: user2125@example.com
+Creation Date: 2018-10-09
+Expiration Date: 2027-03-08
+Name Server: ns2.fakecdn17.io
+Name Server: ns6.fakecdn40.io
+
+Domain Name: hackorn-intranet.org
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user7312@example.com
+Creation Date: 2022-06-24
+Expiration Date: 2028-05-23
+Name Server: ns2.fakecdn68.io
+Name Server: ns7.fakecdn73.io
+
+Domain Name: cdn-api.net
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user5691@example.com
+Creation Date: 2025-05-23
+Expiration Date: 2026-01-11
+Name Server: ns1.fakecdn51.io
+Name Server: ns5.fakecdn31.io
+
+Domain Name: data.io
+Registrar: NameCheap, Inc.
+Registrant Email: user8095@example.com
+Creation Date: 2023-01-22
+Expiration Date: 2025-12-04
+Name Server: ns3.fakecdn27.io
+Name Server: ns9.fakecdn6.io
+
+Domain Name: secure-auth.tech
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user185@example.com
+Creation Date: 2023-03-17
+Expiration Date: 2027-09-20
+Name Server: ns4.fakecdn9.io
+Name Server: ns5.fakecdn71.io
+
+Domain Name: inteln-test.tech
+Registrar: GoDaddy.com, LLC
+Registrant Email: user2804@example.com
+Creation Date: 2022-05-20
+Expiration Date: 2025-12-11
+Name Server: ns1.fakecdn86.io
+Name Server: ns5.fakecdn87.io
+
+Domain Name: pay-vpn.xyz
+Registrar: NameCheap, Inc.
+Registrant Email: user8576@example.com
+Creation Date: 2018-01-20
+Expiration Date: 2025-04-10
+Name Server: ns4.fakecdn99.io
+Name Server: ns6.fakecdn32.io
+
+Domain Name: ds-shop.com
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user248@example.com
+Creation Date: 2023-10-01
+Expiration Date: 2025-08-09
+Name Server: ns3.fakecdn42.io
+Name Server: ns9.fakecdn81.io
+
+Domain Name: auth.co
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: john.cyber@protonmail.com
+Creation Date: 2022-05-14
+Expiration Date: 2026-03-12
+Name Server: ns4.fakecdn29.io
+Name Server: ns5.fakecdn85.io
+
+Domain Name: auth-vpn.net
+Registrar: GoDaddy.com, LLC
+Registrant Email: user1678@example.com
+Creation Date: 2021-08-21
+Expiration Date: 2028-07-16
+Name Server: ns4.fakecdn87.io
+Name Server: ns6.fakecdn43.io
+
+Domain Name: auth.info
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user9595@example.com
+Creation Date: 2025-11-26
+Expiration Date: 2025-01-28
+Name Server: ns2.fakecdn3.io
+Name Server: ns9.fakecdn98.io
+
+Domain Name: cloud.co
+Registrar: GoDaddy.com, LLC
+Registrant Email: user4869@example.com
+Creation Date: 2018-06-05
+Expiration Date: 2026-05-03
+Name Server: ns4.fakecdn95.io
+Name Server: ns7.fakecdn18.io
+
+Domain Name: cloud-hackorn.com
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user8846@example.com
+Creation Date: 2025-09-16
+Expiration Date: 2028-11-26
+Name Server: ns2.fakecdn78.io
+Name Server: ns8.fakecdn67.io
+
+Domain Name: shop-auth.net
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user9719@example.com
+Creation Date: 2020-04-17
+Expiration Date: 2026-04-29
+Name Server: ns1.fakecdn55.io
+Name Server: ns8.fakecdn40.io
+
+Domain Name: inteln-test.xyz
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: redteam_ops@protonmail.com
+Creation Date: 2022-01-12
+Expiration Date: 2027-03-27
+Name Server: ns4.fakecdn22.io
+Name Server: ns8.fakecdn57.io
+
+Domain Name: news-inteln-test.org
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: billing@secpen.org
+Creation Date: 2022-04-08
+Expiration Date: 2027-08-08
+Name Server: ns3.fakecdn59.io
+Name Server: ns7.fakecdn49.io
+
+Domain Name: login-pay.tech
+Registrar: GoDaddy.com, LLC
+Registrant Email: user8061@example.com
+Creation Date: 2022-03-09
+Expiration Date: 2027-02-26
+Name Server: ns4.fakecdn40.io
+Name Server: ns9.fakecdn10.io
+
+Domain Name: ds-staging.net
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user5721@example.com
+Creation Date: 2022-04-28
+Expiration Date: 2027-05-19
+Name Server: ns2.fakecdn32.io
+Name Server: ns8.fakecdn5.io
+
+Domain Name: auth-intranet.org
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user2654@example.com
+Creation Date: 2019-01-14
+Expiration Date: 2028-08-12
+Name Server: ns4.fakecdn51.io
+Name Server: ns9.fakecdn11.io
+
+Domain Name: ds.org
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user9612@example.com
+Creation Date: 2024-06-03
+Expiration Date: 2026-12-07
+Name Server: ns2.fakecdn35.io
+Name Server: ns6.fakecdn96.io
+
+Domain Name: inteln-test-secure.org
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user35@example.com
+Creation Date: 2020-02-03
+Expiration Date: 2028-12-12
+Name Server: ns2.fakecdn26.io
+Name Server: ns8.fakecdn24.io
+
+Domain Name: cdn.xyz
+Registrar: GoDaddy.com, LLC
+Registrant Email: billing@secpen.org
+Creation Date: 2018-12-18
+Expiration Date: 2027-02-13
+Name Server: ns1.fakecdn36.io
+Name Server: ns5.fakecdn44.io
+
+Domain Name: api.tech
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user1596@example.com
+Creation Date: 2018-01-30
+Expiration Date: 2027-02-09
+Name Server: ns3.fakecdn63.io
+Name Server: ns8.fakecdn97.io
+
+Domain Name: api-cloud.info
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user60@example.com
+Creation Date: 2025-10-31
+Expiration Date: 2027-04-03
+Name Server: ns2.fakecdn4.io
+Name Server: ns9.fakecdn16.io
+
+Domain Name: portal-harsh.xyz
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user282@example.com
+Creation Date: 2021-08-26
+Expiration Date: 2028-10-20
+Name Server: ns4.fakecdn30.io
+Name Server: ns9.fakecdn63.io
+
+Domain Name: harsh-hackorn.info
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: john.cyber@protonmail.com
+Creation Date: 2019-06-08
+Expiration Date: 2027-10-17
+Name Server: ns1.fakecdn39.io
+Name Server: ns9.fakecdn60.io
+
+Domain Name: ds.net
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user2635@example.com
+Creation Date: 2021-08-30
+Expiration Date: 2027-02-25
+Name Server: ns3.fakecdn29.io
+Name Server: ns7.fakecdn86.io
+
+Domain Name: portal-intranet.org
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user6262@example.com
+Creation Date: 2022-11-25
+Expiration Date: 2026-04-23
+Name Server: ns2.fakecdn34.io
+Name Server: ns5.fakecdn38.io
+
+Domain Name: panel.info
+Registrar: GoDaddy.com, LLC
+Registrant Email: user5144@example.com
+Creation Date: 2024-01-03
+Expiration Date: 2026-01-24
+Name Server: ns4.fakecdn55.io
+Name Server: ns7.fakecdn99.io
+
+Domain Name: hackorn-portal.org
+Registrar: GoDaddy.com, LLC
+Registrant Email: user5186@example.com
+Creation Date: 2023-02-10
+Expiration Date: 2025-10-29
+Name Server: ns3.fakecdn19.io
+Name Server: ns5.fakecdn77.io
+
+Domain Name: cloud-staging.net
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user2511@example.com
+Creation Date: 2020-07-10
+Expiration Date: 2028-12-05
+Name Server: ns1.fakecdn23.io
+Name Server: ns8.fakecdn94.io
+
+Domain Name: data-hackorn.org
+Registrar: NameCheap, Inc.
+Registrant Email: user6422@example.com
+Creation Date: 2021-03-05
+Expiration Date: 2026-08-02
+Name Server: ns2.fakecdn90.io
+Name Server: ns9.fakecdn51.io
+
+Domain Name: pay.com
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user2382@example.com
+Creation Date: 2020-03-12
+Expiration Date: 2028-08-26
+Name Server: ns1.fakecdn47.io
+Name Server: ns9.fakecdn14.io
+
+Domain Name: vpn.co
+Registrar: GoDaddy.com, LLC
+Registrant Email: user1583@example.com
+Creation Date: 2019-09-01
+Expiration Date: 2028-07-08
+Name Server: ns4.fakecdn32.io
+Name Server: ns5.fakecdn16.io
+
+Domain Name: admin.io
+Registrar: GoDaddy.com, LLC
+Registrant Email: redteam_ops@protonmail.com
+Creation Date: 2019-05-15
+Expiration Date: 2027-09-29
+Name Server: ns2.fakecdn3.io
+Name Server: ns9.fakecdn74.io
+
+Domain Name: data-harsh.org
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user7115@example.com
+Creation Date: 2025-11-10
+Expiration Date: 2025-02-10
+Name Server: ns4.fakecdn72.io
+Name Server: ns9.fakecdn68.io
+
+Domain Name: login-ctf.net
+Registrar: GoDaddy.com, LLC
+Registrant Email: ops@secpenlabs.net
+Creation Date: 2024-06-13
+Expiration Date: 2026-02-27
+Name Server: ns2.fakecdn12.io
+Name Server: ns9.fakecdn33.io
+
+Domain Name: login.net
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user4078@example.com
+Creation Date: 2023-12-28
+Expiration Date: 2027-07-01
+Name Server: ns2.fakecdn74.io
+Name Server: ns8.fakecdn89.io
+
+Domain Name: go-staging.info
+Registrar: GoDaddy.com, LLC
+Registrant Email: user611@example.com
+Creation Date: 2020-06-03
+Expiration Date: 2028-04-26
+Name Server: ns3.fakecdn36.io
+Name Server: ns6.fakecdn94.io
+
+Domain Name: login-intel.co
+Registrar: GoDaddy.com, LLC
+Registrant Email: user2356@example.com
+Creation Date: 2025-10-25
+Expiration Date: 2028-08-15
+Name Server: ns2.fakecdn92.io
+Name Server: ns7.fakecdn73.io
+
+Domain Name: admin.org
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user1280@example.com
+Creation Date: 2024-02-25
+Expiration Date: 2027-04-14
+Name Server: ns1.fakecdn43.io
+Name Server: ns5.fakecdn47.io
+
+Domain Name: harsh-pay.xyz
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user6213@example.com
+Creation Date: 2023-06-29
+Expiration Date: 2025-07-15
+Name Server: ns3.fakecdn90.io
+Name Server: ns9.fakecdn37.io
+
+Domain Name: api-ds.org
+Registrar: HOSTINGER operations, UAB
+Registrant Email: billing@secpen.org
+Creation Date: 2018-02-08
+Expiration Date: 2028-11-07
+Name Server: ns2.fakecdn85.io
+Name Server: ns6.fakecdn19.io
+
+Domain Name: api-data.info
+Registrar: GoDaddy.com, LLC
+Registrant Email: user6862@example.com
+Creation Date: 2023-11-03
+Expiration Date: 2026-04-14
+Name Server: ns3.fakecdn82.io
+Name Server: ns5.fakecdn40.io
+
+Domain Name: harsh-ctf.net
+Registrar: NameCheap, Inc.
+Registrant Email: user1544@example.com
+Creation Date: 2025-08-05
+Expiration Date: 2027-11-08
+Name Server: ns2.fakecdn62.io
+Name Server: ns8.fakecdn66.io
+
+Domain Name: admin.xyz
+Registrar: NameCheap, Inc.
+Registrant Email: user9991@example.com
+Creation Date: 2023-11-15
+Expiration Date: 2026-04-06
+Name Server: ns2.fakecdn10.io
+Name Server: ns7.fakecdn18.io
+
+Domain Name: portal-admin.co
+Registrar: GoDaddy.com, LLC
+Registrant Email: billing@secpen.org
+Creation Date: 2020-05-22
+Expiration Date: 2025-01-05
+Name Server: ns4.fakecdn28.io
+Name Server: ns7.fakecdn83.io
+
+Domain Name: portal.tech
+Registrar: NameCheap, Inc.
+Registrant Email: user106@example.com
+Creation Date: 2021-12-23
+Expiration Date: 2025-01-19
+Name Server: ns1.fakecdn56.io
+Name Server: ns8.fakecdn26.io
+
+Domain Name: go.org
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user2039@example.com
+Creation Date: 2022-10-21
+Expiration Date: 2026-01-09
+Name Server: ns3.fakecdn14.io
+Name Server: ns8.fakecdn85.io
+
+Domain Name: pay-vpn.co
+Registrar: NameCheap, Inc.
+Registrant Email: user5436@example.com
+Creation Date: 2018-05-10
+Expiration Date: 2025-11-25
+Name Server: ns2.fakecdn62.io
+Name Server: ns7.fakecdn16.io
+
+Domain Name: news-news.org
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user2163@example.com
+Creation Date: 2018-02-25
+Expiration Date: 2028-11-02
+Name Server: ns2.fakecdn7.io
+Name Server: ns7.fakecdn55.io
+
+Domain Name: admin.io
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user4616@example.com
+Creation Date: 2020-12-15
+Expiration Date: 2028-12-06
+Name Server: ns2.fakecdn86.io
+Name Server: ns8.fakecdn26.io
+
+Domain Name: inteln-test-hackorn.org
+Registrar: GoDaddy.com, LLC
+Registrant Email: user2446@example.com
+Creation Date: 2018-03-14
+Expiration Date: 2028-06-16
+Name Server: ns2.fakecdn12.io
+Name Server: ns5.fakecdn49.io
+
+Domain Name: go-inteln-test.xyz
+Registrar: GoDaddy.com, LLC
+Registrant Email: user5517@example.com
+Creation Date: 2021-02-23
+Expiration Date: 2026-12-20
+Name Server: ns4.fakecdn32.io
+Name Server: ns7.fakecdn7.io
+
+Domain Name: secure.com
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user3483@example.com
+Creation Date: 2021-10-01
+Expiration Date: 2026-09-16
+Name Server: ns1.fakecdn13.io
+Name Server: ns5.fakecdn88.io
+
+Domain Name: cloud.info
+Registrar: HOSTINGER operations, UAB
+Registrant Email: john.cyber@protonmail.com
+Creation Date: 2024-07-30
+Expiration Date: 2028-09-02
+Name Server: ns2.fakecdn25.io
+Name Server: ns8.fakecdn13.io
+
+Domain Name: portal.info
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user4147@example.com
+Creation Date: 2024-04-14
+Expiration Date: 2026-12-13
+Name Server: ns3.fakecdn58.io
+Name Server: ns5.fakecdn56.io
+
+Domain Name: news.com
+Registrar: GoDaddy.com, LLC
+Registrant Email: user9286@example.com
+Creation Date: 2023-12-21
+Expiration Date: 2027-11-18
+Name Server: ns1.fakecdn22.io
+Name Server: ns8.fakecdn97.io
+
+Domain Name: go-vpn.io
+Registrar: GoDaddy.com, LLC
+Registrant Email: user155@example.com
+Creation Date: 2023-11-21
+Expiration Date: 2026-06-15
+Name Server: ns3.fakecdn29.io
+Name Server: ns7.fakecdn91.io
+
+Domain Name: go-pay.com
+Registrar: GoDaddy.com, LLC
+Registrant Email: redteam_ops@protonmail.com
+Creation Date: 2018-01-06
+Expiration Date: 2028-08-21
+Name Server: ns3.fakecdn81.io
+Name Server: ns9.fakecdn48.io
+
+Domain Name: login-inteln-test.io
+Registrar: GoDaddy.com, LLC
+Registrant Email: john.cyber@protonmail.com
+Creation Date: 2024-01-11
+Expiration Date: 2028-09-08
+Name Server: ns1.fakecdn93.io
+Name Server: ns8.fakecdn84.io
+
+Domain Name: ds-auth.xyz
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user3624@example.com
+Creation Date: 2019-08-31
+Expiration Date: 2027-09-09
+Name Server: ns1.fakecdn64.io
+Name Server: ns6.fakecdn59.io
+
+Domain Name: hackorn.org
+Registrar: GoDaddy.com, LLC
+Registrant Email: infra@tutanota.com
+Creation Date: 2018-10-12
+Expiration Date: 2025-10-21
+Name Server: ns1.fakecdn55.io
+Name Server: ns6.fakecdn59.io
+
+Domain Name: panel-go.com
+Registrar: NameCheap, Inc.
+Registrant Email: ops@secpenlabs.net
+Creation Date: 2025-01-13
+Expiration Date: 2028-05-13
+Name Server: ns1.fakecdn2.io
+Name Server: ns5.fakecdn70.io
+
+Domain Name: ctf-login.org
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user2541@example.com
+Creation Date: 2020-12-31
+Expiration Date: 2028-07-09
+Name Server: ns1.fakecdn3.io
+Name Server: ns5.fakecdn14.io
+
+Domain Name: panel-ds.co
+Registrar: GoDaddy.com, LLC
+Registrant Email: user3710@example.com
+Creation Date: 2025-09-04
+Expiration Date: 2027-02-27
+Name Server: ns1.fakecdn63.io
+Name Server: ns6.fakecdn15.io
+
+Domain Name: panel.io
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user5916@example.com
+Creation Date: 2021-10-03
+Expiration Date: 2028-05-13
+Name Server: ns2.fakecdn87.io
+Name Server: ns8.fakecdn20.io
+
+Domain Name: auth-data.net
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user4358@example.com
+Creation Date: 2023-05-14
+Expiration Date: 2025-05-18
+Name Server: ns1.fakecdn74.io
+Name Server: ns8.fakecdn94.io
+
+Domain Name: pay-cloud.org
+Registrar: GoDaddy.com, LLC
+Registrant Email: user9868@example.com
+Creation Date: 2025-05-02
+Expiration Date: 2026-05-19
+Name Server: ns4.fakecdn54.io
+Name Server: ns9.fakecdn64.io
+
+Domain Name: go-hackorn.co
+Registrar: NameCheap, Inc.
+Registrant Email: user56@example.com
+Creation Date: 2018-03-12
+Expiration Date: 2027-01-13
+Name Server: ns4.fakecdn18.io
+Name Server: ns5.fakecdn8.io
+
+Domain Name: vpn-ctf.org
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user3689@example.com
+Creation Date: 2025-11-23
+Expiration Date: 2025-10-21
+Name Server: ns4.fakecdn94.io
+Name Server: ns5.fakecdn90.io
+
+Domain Name: vpn-inteln-test.net
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user5994@example.com
+Creation Date: 2022-09-02
+Expiration Date: 2025-11-03
+Name Server: ns2.fakecdn61.io
+Name Server: ns6.fakecdn96.io
+
+Domain Name: cdn-inteln-test.tech
+Registrar: NameCheap, Inc.
+Registrant Email: user1832@example.com
+Creation Date: 2022-10-02
+Expiration Date: 2028-10-24
+Name Server: ns4.fakecdn71.io
+Name Server: ns7.fakecdn74.io
+
+Domain Name: inteln-test-admin.org
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user6437@example.com
+Creation Date: 2024-04-09
+Expiration Date: 2028-05-24
+Name Server: ns1.fakecdn89.io
+Name Server: ns8.fakecdn62.io
+
+Domain Name: intranet-admin.co
+Registrar: GoDaddy.com, LLC
+Registrant Email: user1284@example.com
+Creation Date: 2021-10-06
+Expiration Date: 2025-02-27
+Name Server: ns2.fakecdn37.io
+Name Server: ns6.fakecdn70.io
+
+Domain Name: login.com
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user3947@example.com
+Creation Date: 2023-06-05
+Expiration Date: 2025-04-04
+Name Server: ns1.fakecdn41.io
+Name Server: ns5.fakecdn40.io
+
+Domain Name: staging.io
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: redteam_ops@protonmail.com
+Creation Date: 2023-08-19
+Expiration Date: 2025-11-04
+Name Server: ns1.fakecdn76.io
+Name Server: ns8.fakecdn62.io
+
+Domain Name: data.org
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user8583@example.com
+Creation Date: 2021-10-30
+Expiration Date: 2027-07-06
+Name Server: ns2.fakecdn44.io
+Name Server: ns7.fakecdn47.io
+
+Domain Name: secure-inteln-test.co
+Registrar: GoDaddy.com, LLC
+Registrant Email: user2506@example.com
+Creation Date: 2018-12-24
+Expiration Date: 2027-10-19
+Name Server: ns1.fakecdn59.io
+Name Server: ns7.fakecdn22.io
+
+Domain Name: pay-data.info
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user4236@example.com
+Creation Date: 2023-06-23
+Expiration Date: 2025-03-23
+Name Server: ns3.fakecdn37.io
+Name Server: ns8.fakecdn53.io
+
+Domain Name: cdn.info
+Registrar: HOSTINGER operations, UAB
+Registrant Email: ops@secpenlabs.net
+Creation Date: 2019-03-08
+Expiration Date: 2026-08-19
+Name Server: ns4.fakecdn21.io
+Name Server: ns9.fakecdn52.io
+
+Domain Name: intel.tech
+Registrar: NameCheap, Inc.
+Registrant Email: user2963@example.com
+Creation Date: 2022-11-10
+Expiration Date: 2026-02-13
+Name Server: ns4.fakecdn43.io
+Name Server: ns5.fakecdn41.io
+
+Domain Name: staging-news.tech
+Registrar: NameCheap, Inc.
+Registrant Email: john.cyber@protonmail.com
+Creation Date: 2024-09-28
+Expiration Date: 2027-02-18
+Name Server: ns1.fakecdn47.io
+Name Server: ns8.fakecdn61.io
+
+Domain Name: login.com
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user1348@example.com
+Creation Date: 2025-12-27
+Expiration Date: 2027-07-14
+Name Server: ns4.fakecdn68.io
+Name Server: ns6.fakecdn86.io
+
+Domain Name: shop-login.co
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user4874@example.com
+Creation Date: 2025-10-09
+Expiration Date: 2028-03-14
+Name Server: ns4.fakecdn2.io
+Name Server: ns9.fakecdn77.io
+
+Domain Name: login.org
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user7524@example.com
+Creation Date: 2018-01-16
+Expiration Date: 2027-07-12
+Name Server: ns2.fakecdn82.io
+Name Server: ns8.fakecdn82.io
+
+Domain Name: secure.xyz
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user8957@example.com
+Creation Date: 2022-01-30
+Expiration Date: 2025-02-03
+Name Server: ns3.fakecdn40.io
+Name Server: ns9.fakecdn16.io
+
+Domain Name: auth-cdn.co
+Registrar: HOSTINGER operations, UAB
+Registrant Email: ops@secpenlabs.net
+Creation Date: 2024-03-14
+Expiration Date: 2028-05-03
+Name Server: ns2.fakecdn70.io
+Name Server: ns8.fakecdn49.io
+
+Domain Name: ctf-intranet.co
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user6748@example.com
+Creation Date: 2022-12-25
+Expiration Date: 2027-10-28
+Name Server: ns1.fakecdn86.io
+Name Server: ns7.fakecdn54.io
+
+Domain Name: intel.tech
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user6494@example.com
+Creation Date: 2020-07-06
+Expiration Date: 2027-11-06
+Name Server: ns3.fakecdn35.io
+Name Server: ns7.fakecdn40.io
+
+Domain Name: intranet-secure.co
+Registrar: NameCheap, Inc.
+Registrant Email: user440@example.com
+Creation Date: 2020-09-17
+Expiration Date: 2028-02-13
+Name Server: ns4.fakecdn25.io
+Name Server: ns9.fakecdn83.io
+
+Domain Name: ctf-hackorn.co
+Registrar: GoDaddy.com, LLC
+Registrant Email: user5222@example.com
+Creation Date: 2019-04-30
+Expiration Date: 2028-07-17
+Name Server: ns4.fakecdn98.io
+Name Server: ns7.fakecdn71.io
+
+Domain Name: portal.xyz
+Registrar: NameCheap, Inc.
+Registrant Email: user430@example.com
+Creation Date: 2018-04-14
+Expiration Date: 2025-09-25
+Name Server: ns4.fakecdn82.io
+Name Server: ns7.fakecdn24.io
+
+Domain Name: intranet.xyz
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user857@example.com
+Creation Date: 2024-07-01
+Expiration Date: 2025-07-31
+Name Server: ns1.fakecdn59.io
+Name Server: ns9.fakecdn16.io
+
+Domain Name: pay.io
+Registrar: GoDaddy.com, LLC
+Registrant Email: redteam_ops@protonmail.com
+Creation Date: 2023-06-16
+Expiration Date: 2028-07-05
+Name Server: ns1.fakecdn27.io
+Name Server: ns8.fakecdn49.io
+
+Domain Name: auth-cdn.org
+Registrar: GoDaddy.com, LLC
+Registrant Email: user9949@example.com
+Creation Date: 2024-09-23
+Expiration Date: 2028-01-25
+Name Server: ns1.fakecdn21.io
+Name Server: ns9.fakecdn95.io
+
+Domain Name: portal-shop.com
+Registrar: NameCheap, Inc.
+Registrant Email: infra@tutanota.com
+Creation Date: 2018-12-08
+Expiration Date: 2028-11-17
+Name Server: ns2.fakecdn35.io
+Name Server: ns7.fakecdn62.io
+
+Domain Name: portal.info
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user8133@example.com
+Creation Date: 2019-02-26
+Expiration Date: 2028-04-10
+Name Server: ns3.fakecdn22.io
+Name Server: ns6.fakecdn93.io
+
+Domain Name: admin-cdn.io
+Registrar: HOSTINGER operations, UAB
+Registrant Email: ops@secpenlabs.net
+Creation Date: 2018-05-19
+Expiration Date: 2027-11-14
+Name Server: ns3.fakecdn76.io
+Name Server: ns8.fakecdn38.io
+
+Domain Name: admin-panel.info
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: john.cyber@protonmail.com
+Creation Date: 2021-07-28
+Expiration Date: 2028-11-10
+Name Server: ns1.fakecdn92.io
+Name Server: ns7.fakecdn28.io
+
+Domain Name: api-cloud.xyz
+Registrar: NameCheap, Inc.
+Registrant Email: user9969@example.com
+Creation Date: 2025-07-12
+Expiration Date: 2025-06-03
+Name Server: ns4.fakecdn88.io
+Name Server: ns8.fakecdn41.io
+
+Domain Name: shop-login.tech
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user4506@example.com
+Creation Date: 2020-08-26
+Expiration Date: 2028-03-26
+Name Server: ns1.fakecdn37.io
+Name Server: ns5.fakecdn83.io
+
+Domain Name: ds.io
+Registrar: GoDaddy.com, LLC
+Registrant Email: user7708@example.com
+Creation Date: 2022-08-28
+Expiration Date: 2026-09-09
+Name Server: ns3.fakecdn41.io
+Name Server: ns7.fakecdn52.io
+
+Domain Name: go.info
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: john.cyber@protonmail.com
+Creation Date: 2018-02-12
+Expiration Date: 2025-10-12
+Name Server: ns1.fakecdn42.io
+Name Server: ns8.fakecdn29.io
+
+Domain Name: panel.info
+Registrar: NameCheap, Inc.
+Registrant Email: billing@secpen.org
+Creation Date: 2025-11-01
+Expiration Date: 2025-12-15
+Name Server: ns2.fakecdn75.io
+Name Server: ns8.fakecdn16.io
+
+Domain Name: cloud.org
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user8039@example.com
+Creation Date: 2023-06-01
+Expiration Date: 2026-04-08
+Name Server: ns1.fakecdn34.io
+Name Server: ns7.fakecdn92.io
+
+Domain Name: vpn.xyz
+Registrar: GoDaddy.com, LLC
+Registrant Email: user8113@example.com
+Creation Date: 2019-03-05
+Expiration Date: 2026-11-29
+Name Server: ns2.fakecdn76.io
+Name Server: ns9.fakecdn66.io
+
+Domain Name: harsh-cloud.tech
+Registrar: GoDaddy.com, LLC
+Registrant Email: infra@tutanota.com
+Creation Date: 2018-10-09
+Expiration Date: 2026-07-24
+Name Server: ns4.fakecdn22.io
+Name Server: ns7.fakecdn74.io
+
+Domain Name: pay.net
+Registrar: NameCheap, Inc.
+Registrant Email: billing@secpen.org
+Creation Date: 2019-04-30
+Expiration Date: 2028-02-02
+Name Server: ns1.fakecdn46.io
+Name Server: ns8.fakecdn28.io
+
+Domain Name: admin.co
+Registrar: HOSTINGER operations, UAB
+Registrant Email: infra@tutanota.com
+Creation Date: 2022-07-08
+Expiration Date: 2025-12-28
+Name Server: ns3.fakecdn68.io
+Name Server: ns9.fakecdn64.io
+
+Domain Name: panel-login.xyz
+Registrar: NameCheap, Inc.
+Registrant Email: billing@secpen.org
+Creation Date: 2020-07-16
+Expiration Date: 2028-06-24
+Name Server: ns4.fakecdn51.io
+Name Server: ns8.fakecdn13.io
+
+Domain Name: inteln-test.io
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user5705@example.com
+Creation Date: 2025-11-09
+Expiration Date: 2028-06-28
+Name Server: ns4.fakecdn95.io
+Name Server: ns7.fakecdn89.io
+
+Domain Name: pay.net
+Registrar: GoDaddy.com, LLC
+Registrant Email: billing@secpen.org
+Creation Date: 2018-11-12
+Expiration Date: 2025-12-16
+Name Server: ns1.fakecdn77.io
+Name Server: ns7.fakecdn61.io
+
+Domain Name: news.xyz
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user8253@example.com
+Creation Date: 2019-01-20
+Expiration Date: 2025-07-24
+Name Server: ns3.fakecdn95.io
+Name Server: ns7.fakecdn58.io
+
+Domain Name: inteln-test-staging.io
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: redteam_ops@protonmail.com
+Creation Date: 2021-01-10
+Expiration Date: 2028-11-05
+Name Server: ns1.fakecdn19.io
+Name Server: ns8.fakecdn29.io
+
+Domain Name: vpn.com
+Registrar: GoDaddy.com, LLC
+Registrant Email: user8937@example.com
+Creation Date: 2023-01-15
+Expiration Date: 2027-12-16
+Name Server: ns2.fakecdn34.io
+Name Server: ns7.fakecdn43.io
+
+Domain Name: api-portal.io
+Registrar: HOSTINGER operations, UAB
+Registrant Email: billing@secpen.org
+Creation Date: 2019-03-28
+Expiration Date: 2025-01-18
+Name Server: ns4.fakecdn88.io
+Name Server: ns6.fakecdn60.io
+
+Domain Name: go.io
+Registrar: GoDaddy.com, LLC
+Registrant Email: user3570@example.com
+Creation Date: 2024-08-26
+Expiration Date: 2025-09-10
+Name Server: ns1.fakecdn63.io
+Name Server: ns7.fakecdn1.io
+
+Domain Name: vpn-ctf.com
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user5747@example.com
+Creation Date: 2024-07-25
+Expiration Date: 2025-06-15
+Name Server: ns3.fakecdn29.io
+Name Server: ns5.fakecdn61.io
+
+Domain Name: intel-intranet.co
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user9249@example.com
+Creation Date: 2024-06-26
+Expiration Date: 2025-10-13
+Name Server: ns2.fakecdn33.io
+Name Server: ns6.fakecdn54.io
+
+Domain Name: data.net
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user1583@example.com
+Creation Date: 2021-07-07
+Expiration Date: 2027-10-29
+Name Server: ns3.fakecdn60.io
+Name Server: ns7.fakecdn55.io
+
+Domain Name: admin-admin.com
+Registrar: NameCheap, Inc.
+Registrant Email: user8910@example.com
+Creation Date: 2024-05-05
+Expiration Date: 2026-08-24
+Name Server: ns1.fakecdn97.io
+Name Server: ns8.fakecdn17.io
+
+Domain Name: intranet-cdn.tech
+Registrar: NameCheap, Inc.
+Registrant Email: user1605@example.com
+Creation Date: 2021-09-19
+Expiration Date: 2025-05-05
+Name Server: ns1.fakecdn95.io
+Name Server: ns9.fakecdn87.io
+
+Domain Name: inteln-test.org
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: john.cyber@protonmail.com
+Creation Date: 2019-09-19
+Expiration Date: 2028-05-21
+Name Server: ns1.fakecdn67.io
+Name Server: ns5.fakecdn32.io
+
+Domain Name: panel.com
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user8967@example.com
+Creation Date: 2024-11-14
+Expiration Date: 2028-10-27
+Name Server: ns4.fakecdn85.io
+Name Server: ns9.fakecdn16.io
+
+Domain Name: pay-secure.org
+Registrar: GoDaddy.com, LLC
+Registrant Email: user8966@example.com
+Creation Date: 2022-02-13
+Expiration Date: 2028-09-29
+Name Server: ns3.fakecdn51.io
+Name Server: ns8.fakecdn90.io
+
+Domain Name: cdn.co
+Registrar: GoDaddy.com, LLC
+Registrant Email: user6390@example.com
+Creation Date: 2025-04-18
+Expiration Date: 2028-09-07
+Name Server: ns4.fakecdn6.io
+Name Server: ns7.fakecdn18.io
+
+Domain Name: ds-cdn.com
+Registrar: GoDaddy.com, LLC
+Registrant Email: user8612@example.com
+Creation Date: 2019-09-13
+Expiration Date: 2026-12-22
+Name Server: ns3.fakecdn59.io
+Name Server: ns6.fakecdn36.io
+
+Domain Name: portal-login.tech
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user8316@example.com
+Creation Date: 2021-11-26
+Expiration Date: 2028-04-12
+Name Server: ns4.fakecdn9.io
+Name Server: ns5.fakecdn4.io
+
+Domain Name: intel.net
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user1737@example.com
+Creation Date: 2020-10-22
+Expiration Date: 2025-08-23
+Name Server: ns1.fakecdn96.io
+Name Server: ns5.fakecdn57.io
+
+Domain Name: api-ctf.org
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user6197@example.com
+Creation Date: 2025-08-12
+Expiration Date: 2026-08-09
+Name Server: ns2.fakecdn26.io
+Name Server: ns6.fakecdn56.io
+
+Domain Name: login.com
+Registrar: NameCheap, Inc.
+Registrant Email: ops@secpenlabs.net
+Creation Date: 2025-08-26
+Expiration Date: 2028-08-08
+Name Server: ns4.fakecdn25.io
+Name Server: ns6.fakecdn74.io
+
+Domain Name: news-vpn.org
+Registrar: NameCheap, Inc.
+Registrant Email: redteam_ops@protonmail.com
+Creation Date: 2023-08-05
+Expiration Date: 2026-04-18
+Name Server: ns1.fakecdn77.io
+Name Server: ns9.fakecdn43.io
+
+Domain Name: intel.io
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user8492@example.com
+Creation Date: 2024-11-08
+Expiration Date: 2027-10-22
+Name Server: ns3.fakecdn52.io
+Name Server: ns9.fakecdn8.io
+
+Domain Name: api.io
+Registrar: NameCheap, Inc.
+Registrant Email: user3356@example.com
+Creation Date: 2021-09-12
+Expiration Date: 2028-09-20
+Name Server: ns1.fakecdn31.io
+Name Server: ns8.fakecdn10.io
+
+Domain Name: cloud.net
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user7854@example.com
+Creation Date: 2020-07-11
+Expiration Date: 2028-08-24
+Name Server: ns3.fakecdn56.io
+Name Server: ns8.fakecdn39.io
+
+Domain Name: secure.com
+Registrar: NameCheap, Inc.
+Registrant Email: user7909@example.com
+Creation Date: 2019-05-28
+Expiration Date: 2027-05-31
+Name Server: ns4.fakecdn71.io
+Name Server: ns6.fakecdn15.io
+
+Domain Name: panel-auth.info
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user5631@example.com
+Creation Date: 2024-01-06
+Expiration Date: 2028-03-09
+Name Server: ns1.fakecdn2.io
+Name Server: ns6.fakecdn8.io
+
+Domain Name: login.tech
+Registrar: GoDaddy.com, LLC
+Registrant Email: user5156@example.com
+Creation Date: 2025-05-17
+Expiration Date: 2025-09-08
+Name Server: ns1.fakecdn10.io
+Name Server: ns7.fakecdn70.io
+
+Domain Name: news.info
+Registrar: GoDaddy.com, LLC
+Registrant Email: user9044@example.com
+Creation Date: 2019-03-04
+Expiration Date: 2025-04-21
+Name Server: ns3.fakecdn53.io
+Name Server: ns9.fakecdn63.io
+
+Domain Name: login-ds.xyz
+Registrar: HOSTINGER operations, UAB
+Registrant Email: john.cyber@protonmail.com
+Creation Date: 2023-08-06
+Expiration Date: 2025-03-11
+Name Server: ns3.fakecdn36.io
+Name Server: ns9.fakecdn50.io
+
+Domain Name: ctf-login.io
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user737@example.com
+Creation Date: 2022-11-01
+Expiration Date: 2027-12-27
+Name Server: ns1.fakecdn85.io
+Name Server: ns7.fakecdn5.io
+
+Domain Name: portal-ds.info
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user945@example.com
+Creation Date: 2025-08-08
+Expiration Date: 2026-08-12
+Name Server: ns4.fakecdn55.io
+Name Server: ns9.fakecdn93.io
+
+Domain Name: pay-vpn.xyz
+Registrar: GoDaddy.com, LLC
+Registrant Email: john.cyber@protonmail.com
+Creation Date: 2024-11-26
+Expiration Date: 2026-07-16
+Name Server: ns3.fakecdn35.io
+Name Server: ns7.fakecdn84.io
+
+Domain Name: panel.info
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user155@example.com
+Creation Date: 2024-03-29
+Expiration Date: 2026-03-23
+Name Server: ns4.fakecdn8.io
+Name Server: ns9.fakecdn11.io
+
+Domain Name: ds-go.net
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: infra@tutanota.com
+Creation Date: 2019-04-14
+Expiration Date: 2028-09-02
+Name Server: ns1.fakecdn24.io
+Name Server: ns9.fakecdn57.io
+
+Domain Name: secure-inteln-test.com
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user8864@example.com
+Creation Date: 2022-12-23
+Expiration Date: 2025-08-20
+Name Server: ns1.fakecdn31.io
+Name Server: ns6.fakecdn42.io
+
+Domain Name: ctf-intranet.net
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: billing@secpen.org
+Creation Date: 2024-12-22
+Expiration Date: 2025-03-05
+Name Server: ns2.fakecdn48.io
+Name Server: ns5.fakecdn38.io
+
+Domain Name: ds.com
+Registrar: NameCheap, Inc.
+Registrant Email: john.cyber@protonmail.com
+Creation Date: 2025-05-15
+Expiration Date: 2025-11-04
+Name Server: ns4.fakecdn98.io
+Name Server: ns5.fakecdn10.io
+
+Domain Name: api.co
+Registrar: NameCheap, Inc.
+Registrant Email: user4420@example.com
+Creation Date: 2024-06-14
+Expiration Date: 2026-08-24
+Name Server: ns2.fakecdn43.io
+Name Server: ns6.fakecdn99.io
+
+Domain Name: intel-cloud.net
+Registrar: GoDaddy.com, LLC
+Registrant Email: user5776@example.com
+Creation Date: 2020-08-01
+Expiration Date: 2027-07-09
+Name Server: ns4.fakecdn30.io
+Name Server: ns9.fakecdn17.io
+
+Domain Name: harsh.co
+Registrar: GoDaddy.com, LLC
+Registrant Email: ops@secpenlabs.net
+Creation Date: 2024-06-17
+Expiration Date: 2027-10-10
+Name Server: ns2.fakecdn24.io
+Name Server: ns8.fakecdn2.io
+
+Domain Name: panel.io
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user8682@example.com
+Creation Date: 2022-05-09
+Expiration Date: 2027-05-15
+Name Server: ns3.fakecdn17.io
+Name Server: ns8.fakecdn90.io
+
+Domain Name: inteln-test.net
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user5825@example.com
+Creation Date: 2022-11-20
+Expiration Date: 2026-08-16
+Name Server: ns4.fakecdn90.io
+Name Server: ns6.fakecdn94.io
+
+Domain Name: inteln-test.net
+Registrar: GoDaddy.com, LLC
+Registrant Email: user5260@example.com
+Creation Date: 2024-08-05
+Expiration Date: 2026-07-27
+Name Server: ns1.fakecdn30.io
+Name Server: ns7.fakecdn64.io
+
+Domain Name: login-news.co
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user2356@example.com
+Creation Date: 2024-11-25
+Expiration Date: 2026-10-06
+Name Server: ns1.fakecdn45.io
+Name Server: ns7.fakecdn22.io
+
+Domain Name: data.tech
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: infra@tutanota.com
+Creation Date: 2024-03-11
+Expiration Date: 2027-11-08
+Name Server: ns2.fakecdn4.io
+Name Server: ns9.fakecdn6.io
+
+Domain Name: secure.com
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user2077@example.com
+Creation Date: 2025-12-03
+Expiration Date: 2025-09-03
+Name Server: ns4.fakecdn56.io
+Name Server: ns8.fakecdn34.io
+
+Domain Name: ctf.io
+Registrar: NameCheap, Inc.
+Registrant Email: user2577@example.com
+Creation Date: 2023-10-02
+Expiration Date: 2028-10-08
+Name Server: ns1.fakecdn91.io
+Name Server: ns7.fakecdn5.io
+
+Domain Name: panel-inteln-test.info
+Registrar: GoDaddy.com, LLC
+Registrant Email: user140@example.com
+Creation Date: 2019-09-13
+Expiration Date: 2027-09-20
+Name Server: ns2.fakecdn94.io
+Name Server: ns8.fakecdn37.io
+
+Domain Name: shop.net
+Registrar: GoDaddy.com, LLC
+Registrant Email: user9147@example.com
+Creation Date: 2022-04-07
+Expiration Date: 2028-07-16
+Name Server: ns2.fakecdn82.io
+Name Server: ns7.fakecdn62.io
+
+Domain Name: ds.xyz
+Registrar: HOSTINGER operations, UAB
+Registrant Email: redteam_ops@protonmail.com
+Creation Date: 2021-03-22
+Expiration Date: 2027-05-10
+Name Server: ns4.fakecdn42.io
+Name Server: ns6.fakecdn85.io
+
+Domain Name: panel-cdn.info
+Registrar: NameCheap, Inc.
+Registrant Email: billing@secpen.org
+Creation Date: 2023-09-10
+Expiration Date: 2026-03-17
+Name Server: ns4.fakecdn8.io
+Name Server: ns9.fakecdn99.io
+
+Domain Name: data-cloud.co
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user4281@example.com
+Creation Date: 2022-08-06
+Expiration Date: 2026-03-30
+Name Server: ns2.fakecdn69.io
+Name Server: ns6.fakecdn81.io
+
+Domain Name: portal.info
+Registrar: GoDaddy.com, LLC
+Registrant Email: user1488@example.com
+Creation Date: 2018-07-21
+Expiration Date: 2027-11-29
+Name Server: ns2.fakecdn47.io
+Name Server: ns9.fakecdn26.io
+
+Domain Name: ctf.co
+Registrar: GoDaddy.com, LLC
+Registrant Email: user233@example.com
+Creation Date: 2018-03-24
+Expiration Date: 2027-12-15
+Name Server: ns1.fakecdn65.io
+Name Server: ns8.fakecdn63.io
+
+Domain Name: pay.io
+Registrar: NameCheap, Inc.
+Registrant Email: redteam_ops@protonmail.com
+Creation Date: 2018-10-30
+Expiration Date: 2027-10-31
+Name Server: ns4.fakecdn3.io
+Name Server: ns5.fakecdn96.io
+
+Domain Name: panel.co
+Registrar: GoDaddy.com, LLC
+Registrant Email: redteam_ops@protonmail.com
+Creation Date: 2020-12-18
+Expiration Date: 2028-09-05
+Name Server: ns4.fakecdn49.io
+Name Server: ns7.fakecdn55.io
+
+Domain Name: intel.co
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user8153@example.com
+Creation Date: 2024-02-17
+Expiration Date: 2025-08-10
+Name Server: ns4.fakecdn29.io
+Name Server: ns9.fakecdn4.io
+
+Domain Name: harsh-cdn.tech
+Registrar: NameCheap, Inc.
+Registrant Email: infra@tutanota.com
+Creation Date: 2018-12-10
+Expiration Date: 2025-10-17
+Name Server: ns4.fakecdn79.io
+Name Server: ns8.fakecdn67.io
+
+Domain Name: login.tech
+Registrar: HOSTINGER operations, UAB
+Registrant Email: billing@secpen.org
+Creation Date: 2025-09-28
+Expiration Date: 2026-03-05
+Name Server: ns4.fakecdn70.io
+Name Server: ns8.fakecdn41.io
+
+Domain Name: cloud.tech
+Registrar: NameCheap, Inc.
+Registrant Email: infra@tutanota.com
+Creation Date: 2022-11-28
+Expiration Date: 2025-08-21
+Name Server: ns1.fakecdn55.io
+Name Server: ns8.fakecdn22.io
+
+Domain Name: pay-ds.co
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user4451@example.com
+Creation Date: 2019-11-11
+Expiration Date: 2025-10-17
+Name Server: ns3.fakecdn67.io
+Name Server: ns6.fakecdn79.io
+
+Domain Name: news-intel.tech
+Registrar: GoDaddy.com, LLC
+Registrant Email: user2700@example.com
+Creation Date: 2018-10-02
+Expiration Date: 2025-01-12
+Name Server: ns3.fakecdn90.io
+Name Server: ns6.fakecdn26.io
+
+Domain Name: go.info
+Registrar: NameCheap, Inc.
+Registrant Email: user241@example.com
+Creation Date: 2020-02-29
+Expiration Date: 2026-07-17
+Name Server: ns3.fakecdn55.io
+Name Server: ns9.fakecdn94.io
+
+Domain Name: vpn-harsh.io
+Registrar: GoDaddy.com, LLC
+Registrant Email: ops@secpenlabs.net
+Creation Date: 2023-11-10
+Expiration Date: 2028-04-17
+Name Server: ns4.fakecdn43.io
+Name Server: ns9.fakecdn99.io
+
+Domain Name: staging-inteln-test.tech
+Registrar: GoDaddy.com, LLC
+Registrant Email: user2764@example.com
+Creation Date: 2018-11-15
+Expiration Date: 2025-04-17
+Name Server: ns2.fakecdn66.io
+Name Server: ns8.fakecdn55.io
+
+Domain Name: cloud-news.net
+Registrar: GoDaddy.com, LLC
+Registrant Email: redteam_ops@protonmail.com
+Creation Date: 2024-10-15
+Expiration Date: 2026-03-15
+Name Server: ns2.fakecdn82.io
+Name Server: ns7.fakecdn92.io
+
+Domain Name: ctf.tech
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user424@example.com
+Creation Date: 2022-10-04
+Expiration Date: 2026-03-14
+Name Server: ns2.fakecdn49.io
+Name Server: ns7.fakecdn23.io
+
+Domain Name: shop.info
+Registrar: GoDaddy.com, LLC
+Registrant Email: billing@secpen.org
+Creation Date: 2018-05-18
+Expiration Date: 2028-08-18
+Name Server: ns3.fakecdn83.io
+Name Server: ns8.fakecdn51.io
+
+Domain Name: staging.io
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user2857@example.com
+Creation Date: 2019-03-02
+Expiration Date: 2025-03-20
+Name Server: ns3.fakecdn4.io
+Name Server: ns9.fakecdn92.io
+
+Domain Name: inteln-test.org
+Registrar: GoDaddy.com, LLC
+Registrant Email: user8924@example.com
+Creation Date: 2020-03-06
+Expiration Date: 2028-09-03
+Name Server: ns1.fakecdn43.io
+Name Server: ns7.fakecdn91.io
+
+Domain Name: ds.info
+Registrar: NameCheap, Inc.
+Registrant Email: user1017@example.com
+Creation Date: 2018-07-02
+Expiration Date: 2026-07-19
+Name Server: ns2.fakecdn89.io
+Name Server: ns9.fakecdn53.io
+
+Domain Name: auth.com
+Registrar: HOSTINGER operations, UAB
+Registrant Email: redteam_ops@protonmail.com
+Creation Date: 2019-04-22
+Expiration Date: 2025-07-05
+Name Server: ns2.fakecdn94.io
+Name Server: ns5.fakecdn24.io
+
+Domain Name: api-staging.org
+Registrar: NameCheap, Inc.
+Registrant Email: user6146@example.com
+Creation Date: 2025-12-01
+Expiration Date: 2026-08-11
+Name Server: ns2.fakecdn36.io
+Name Server: ns6.fakecdn73.io
+
+Domain Name: admin-ctf.io
+Registrar: GoDaddy.com, LLC
+Registrant Email: user2911@example.com
+Creation Date: 2025-03-13
+Expiration Date: 2027-12-08
+Name Server: ns4.fakecdn81.io
+Name Server: ns6.fakecdn5.io
+
+Domain Name: pay-api.co
+Registrar: HOSTINGER operations, UAB
+Registrant Email: infra@tutanota.com
+Creation Date: 2023-03-31
+Expiration Date: 2026-06-19
+Name Server: ns1.fakecdn15.io
+Name Server: ns9.fakecdn85.io
+
+Domain Name: cdn.tech
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user9246@example.com
+Creation Date: 2023-05-02
+Expiration Date: 2026-11-17
+Name Server: ns3.fakecdn83.io
+Name Server: ns5.fakecdn24.io
+
+Domain Name: cloud-cdn.org
+Registrar: NameCheap, Inc.
+Registrant Email: user7136@example.com
+Creation Date: 2021-10-15
+Expiration Date: 2027-09-16
+Name Server: ns4.fakecdn39.io
+Name Server: ns5.fakecdn30.io
+
+Domain Name: admin.io
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user8596@example.com
+Creation Date: 2019-07-26
+Expiration Date: 2025-09-24
+Name Server: ns3.fakecdn7.io
+Name Server: ns5.fakecdn40.io
+
+Domain Name: hackorn.tech
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: infra@tutanota.com
+Creation Date: 2020-04-12
+Expiration Date: 2027-06-14
+Name Server: ns1.fakecdn93.io
+Name Server: ns6.fakecdn20.io
+
+Domain Name: secure-pay.net
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user9018@example.com
+Creation Date: 2019-07-01
+Expiration Date: 2027-03-30
+Name Server: ns3.fakecdn37.io
+Name Server: ns8.fakecdn77.io
+
+Domain Name: go-cloud.com
+Registrar: GoDaddy.com, LLC
+Registrant Email: user6533@example.com
+Creation Date: 2018-11-13
+Expiration Date: 2028-08-15
+Name Server: ns2.fakecdn18.io
+Name Server: ns8.fakecdn25.io
+
+Domain Name: shop.co
+Registrar: NameCheap, Inc.
+Registrant Email: billing@secpen.org
+Creation Date: 2022-09-24
+Expiration Date: 2026-01-03
+Name Server: ns2.fakecdn51.io
+Name Server: ns9.fakecdn14.io
+
+Domain Name: hackorn-cloud.net
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user8316@example.com
+Creation Date: 2025-07-08
+Expiration Date: 2027-04-03
+Name Server: ns4.fakecdn99.io
+Name Server: ns5.fakecdn39.io
+
+Domain Name: intel-auth.tech
+Registrar: HOSTINGER operations, UAB
+Registrant Email: ops@secpenlabs.net
+Creation Date: 2018-01-29
+Expiration Date: 2026-11-22
+Name Server: ns3.fakecdn26.io
+Name Server: ns9.fakecdn79.io
+
+Domain Name: cdn-cdn.com
+Registrar: NameCheap, Inc.
+Registrant Email: user6984@example.com
+Creation Date: 2018-04-07
+Expiration Date: 2028-01-17
+Name Server: ns3.fakecdn23.io
+Name Server: ns7.fakecdn46.io
+
+Domain Name: secure-cloud.com
+Registrar: NameCheap, Inc.
+Registrant Email: user1387@example.com
+Creation Date: 2019-08-16
+Expiration Date: 2028-07-20
+Name Server: ns4.fakecdn56.io
+Name Server: ns7.fakecdn45.io
+
+Domain Name: intranet-intel.tech
+Registrar: NameCheap, Inc.
+Registrant Email: user1263@example.com
+Creation Date: 2025-02-21
+Expiration Date: 2026-09-11
+Name Server: ns4.fakecdn52.io
+Name Server: ns5.fakecdn24.io
+
+Domain Name: inteln-test-harsh.net
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user4977@example.com
+Creation Date: 2023-04-22
+Expiration Date: 2026-03-17
+Name Server: ns4.fakecdn36.io
+Name Server: ns6.fakecdn36.io
+
+Domain Name: api.org
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user316@example.com
+Creation Date: 2025-02-13
+Expiration Date: 2026-10-14
+Name Server: ns1.fakecdn29.io
+Name Server: ns6.fakecdn3.io
+
+Domain Name: intel-auth.tech
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user9762@example.com
+Creation Date: 2022-12-26
+Expiration Date: 2025-11-07
+Name Server: ns4.fakecdn96.io
+Name Server: ns8.fakecdn27.io
+
+Domain Name: intranet.io
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: billing@secpen.org
+Creation Date: 2021-04-10
+Expiration Date: 2026-10-08
+Name Server: ns4.fakecdn87.io
+Name Server: ns8.fakecdn4.io
+
+Domain Name: auth.org
+Registrar: HOSTINGER operations, UAB
+Registrant Email: ops@secpenlabs.net
+Creation Date: 2022-03-31
+Expiration Date: 2028-05-28
+Name Server: ns1.fakecdn13.io
+Name Server: ns8.fakecdn28.io
+
+Domain Name: staging.io
+Registrar: GoDaddy.com, LLC
+Registrant Email: user9828@example.com
+Creation Date: 2022-01-27
+Expiration Date: 2028-07-14
+Name Server: ns1.fakecdn86.io
+Name Server: ns7.fakecdn65.io
+
+Domain Name: intel-admin.tech
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user64@example.com
+Creation Date: 2019-02-07
+Expiration Date: 2027-02-25
+Name Server: ns4.fakecdn54.io
+Name Server: ns8.fakecdn25.io
+
+Domain Name: auth.org
+Registrar: NameCheap, Inc.
+Registrant Email: user9833@example.com
+Creation Date: 2018-04-04
+Expiration Date: 2028-05-16
+Name Server: ns4.fakecdn71.io
+Name Server: ns9.fakecdn25.io
+
+Domain Name: cdn.xyz
+Registrar: GoDaddy.com, LLC
+Registrant Email: user5297@example.com
+Creation Date: 2020-09-30
+Expiration Date: 2028-11-01
+Name Server: ns4.fakecdn31.io
+Name Server: ns6.fakecdn60.io
+
+Domain Name: hackorn.info
+Registrar: GoDaddy.com, LLC
+Registrant Email: user7713@example.com
+Creation Date: 2022-09-05
+Expiration Date: 2026-06-17
+Name Server: ns1.fakecdn92.io
+Name Server: ns9.fakecdn83.io
+
+Domain Name: cdn.com
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user1707@example.com
+Creation Date: 2020-12-11
+Expiration Date: 2028-04-02
+Name Server: ns1.fakecdn93.io
+Name Server: ns6.fakecdn47.io
+
+Domain Name: intranet-pay.xyz
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: billing@secpen.org
+Creation Date: 2025-09-23
+Expiration Date: 2027-06-30
+Name Server: ns3.fakecdn58.io
+Name Server: ns7.fakecdn73.io
+
+Domain Name: api-harsh.org
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user6086@example.com
+Creation Date: 2025-12-30
+Expiration Date: 2027-06-20
+Name Server: ns3.fakecdn20.io
+Name Server: ns6.fakecdn19.io
+
+Domain Name: ctf-intel.xyz
+Registrar: NameCheap, Inc.
+Registrant Email: user9565@example.com
+Creation Date: 2023-05-08
+Expiration Date: 2028-06-20
+Name Server: ns2.fakecdn45.io
+Name Server: ns6.fakecdn76.io
+
+Domain Name: go-vpn.tech
+Registrar: GoDaddy.com, LLC
+Registrant Email: infra@tutanota.com
+Creation Date: 2020-07-07
+Expiration Date: 2025-11-04
+Name Server: ns3.fakecdn78.io
+Name Server: ns5.fakecdn84.io
+
+Domain Name: vpn.tech
+Registrar: NameCheap, Inc.
+Registrant Email: billing@secpen.org
+Creation Date: 2024-03-16
+Expiration Date: 2028-01-01
+Name Server: ns1.fakecdn8.io
+Name Server: ns8.fakecdn73.io
+
+Domain Name: intel.org
+Registrar: GoDaddy.com, LLC
+Registrant Email: user9053@example.com
+Creation Date: 2018-09-18
+Expiration Date: 2025-09-29
+Name Server: ns3.fakecdn8.io
+Name Server: ns6.fakecdn30.io
+
+Domain Name: api.tech
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user846@example.com
+Creation Date: 2020-03-19
+Expiration Date: 2025-07-24
+Name Server: ns2.fakecdn77.io
+Name Server: ns8.fakecdn39.io
+
+Domain Name: api.net
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user3201@example.com
+Creation Date: 2023-09-09
+Expiration Date: 2027-09-17
+Name Server: ns3.fakecdn83.io
+Name Server: ns7.fakecdn34.io
+
+Domain Name: cloud.io
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: redteam_ops@protonmail.com
+Creation Date: 2022-11-05
+Expiration Date: 2028-10-10
+Name Server: ns3.fakecdn13.io
+Name Server: ns8.fakecdn44.io
+
+Domain Name: shop.net
+Registrar: GoDaddy.com, LLC
+Registrant Email: infra@tutanota.com
+Creation Date: 2024-05-27
+Expiration Date: 2028-10-08
+Name Server: ns2.fakecdn42.io
+Name Server: ns6.fakecdn25.io
+
+Domain Name: hackorn-ctf.org
+Registrar: HOSTINGER operations, UAB
+Registrant Email: ops@secpenlabs.net
+Creation Date: 2021-06-08
+Expiration Date: 2026-11-15
+Name Server: ns3.fakecdn96.io
+Name Server: ns7.fakecdn58.io
+
+Domain Name: admin-admin.co
+Registrar: NameCheap, Inc.
+Registrant Email: user7495@example.com
+Creation Date: 2020-11-14
+Expiration Date: 2026-08-27
+Name Server: ns3.fakecdn4.io
+Name Server: ns7.fakecdn55.io
+
+Domain Name: cloud-go.xyz
+Registrar: GoDaddy.com, LLC
+Registrant Email: user4498@example.com
+Creation Date: 2018-07-08
+Expiration Date: 2028-09-12
+Name Server: ns4.fakecdn89.io
+Name Server: ns8.fakecdn32.io
+
+Domain Name: staging-api.com
+Registrar: NameCheap, Inc.
+Registrant Email: user2210@example.com
+Creation Date: 2018-10-31
+Expiration Date: 2026-10-27
+Name Server: ns4.fakecdn20.io
+Name Server: ns6.fakecdn76.io
+
+Domain Name: api-go.tech
+Registrar: GoDaddy.com, LLC
+Registrant Email: user2311@example.com
+Creation Date: 2025-11-04
+Expiration Date: 2028-12-27
+Name Server: ns3.fakecdn47.io
+Name Server: ns8.fakecdn96.io
+
+Domain Name: shop.tech
+Registrar: GoDaddy.com, LLC
+Registrant Email: user4193@example.com
+Creation Date: 2022-08-10
+Expiration Date: 2027-05-26
+Name Server: ns4.fakecdn63.io
+Name Server: ns5.fakecdn68.io
+
+Domain Name: ds.info
+Registrar: NameCheap, Inc.
+Registrant Email: user8837@example.com
+Creation Date: 2018-10-02
+Expiration Date: 2025-06-04
+Name Server: ns1.fakecdn72.io
+Name Server: ns5.fakecdn69.io
+
+Domain Name: hackorn.net
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user7403@example.com
+Creation Date: 2024-06-14
+Expiration Date: 2026-11-27
+Name Server: ns4.fakecdn68.io
+Name Server: ns8.fakecdn3.io
+
+Domain Name: api-secure.co
+Registrar: NameCheap, Inc.
+Registrant Email: user5291@example.com
+Creation Date: 2025-05-01
+Expiration Date: 2028-09-24
+Name Server: ns2.fakecdn99.io
+Name Server: ns9.fakecdn46.io
+
+Domain Name: shop.org
+Registrar: GoDaddy.com, LLC
+Registrant Email: redteam_ops@protonmail.com
+Creation Date: 2021-09-03
+Expiration Date: 2026-10-08
+Name Server: ns2.fakecdn85.io
+Name Server: ns6.fakecdn26.io
+
+Domain Name: pay-staging.xyz
+Registrar: GoDaddy.com, LLC
+Registrant Email: john.cyber@protonmail.com
+Creation Date: 2023-01-05
+Expiration Date: 2027-06-18
+Name Server: ns4.fakecdn26.io
+Name Server: ns6.fakecdn99.io
+
+Domain Name: api-panel.org
+Registrar: NameCheap, Inc.
+Registrant Email: redteam_ops@protonmail.com
+Creation Date: 2023-09-08
+Expiration Date: 2027-01-07
+Name Server: ns4.fakecdn33.io
+Name Server: ns9.fakecdn15.io
+
+Domain Name: secure-vpn.co
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user6394@example.com
+Creation Date: 2023-04-15
+Expiration Date: 2025-02-02
+Name Server: ns3.fakecdn94.io
+Name Server: ns7.fakecdn6.io
+
+Domain Name: ctf.org
+Registrar: NameCheap, Inc.
+Registrant Email: user2106@example.com
+Creation Date: 2024-12-04
+Expiration Date: 2027-04-30
+Name Server: ns2.fakecdn54.io
+Name Server: ns6.fakecdn23.io
+
+Domain Name: harsh.org
+Registrar: HOSTINGER operations, UAB
+Registrant Email: john.cyber@protonmail.com
+Creation Date: 2018-04-16
+Expiration Date: 2026-11-11
+Name Server: ns1.fakecdn61.io
+Name Server: ns5.fakecdn95.io
+
+Domain Name: portal.com
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: redteam_ops@protonmail.com
+Creation Date: 2019-04-06
+Expiration Date: 2027-09-02
+Name Server: ns4.fakecdn54.io
+Name Server: ns9.fakecdn57.io
+
+Domain Name: ctf.com
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user5999@example.com
+Creation Date: 2024-05-28
+Expiration Date: 2026-02-06
+Name Server: ns2.fakecdn29.io
+Name Server: ns9.fakecdn17.io
+
+Domain Name: intel.net
+Registrar: NameCheap, Inc.
+Registrant Email: user4116@example.com
+Creation Date: 2024-08-16
+Expiration Date: 2027-12-01
+Name Server: ns3.fakecdn98.io
+Name Server: ns6.fakecdn42.io
+
+Domain Name: vpn-pay.com
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: john.cyber@protonmail.com
+Creation Date: 2024-06-01
+Expiration Date: 2027-09-12
+Name Server: ns4.fakecdn45.io
+Name Server: ns6.fakecdn81.io
+
+Domain Name: cdn-shop.io
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user8439@example.com
+Creation Date: 2025-06-09
+Expiration Date: 2025-07-17
+Name Server: ns3.fakecdn98.io
+Name Server: ns9.fakecdn34.io
+
+Domain Name: harsh.co
+Registrar: NameCheap, Inc.
+Registrant Email: user4854@example.com
+Creation Date: 2021-11-24
+Expiration Date: 2026-09-21
+Name Server: ns4.fakecdn56.io
+Name Server: ns9.fakecdn11.io
+
+Domain Name: admin.xyz
+Registrar: GoDaddy.com, LLC
+Registrant Email: john.cyber@protonmail.com
+Creation Date: 2023-12-24
+Expiration Date: 2027-01-13
+Name Server: ns2.fakecdn89.io
+Name Server: ns9.fakecdn22.io
+
+Domain Name: pay-intranet.xyz
+Registrar: GoDaddy.com, LLC
+Registrant Email: user9998@example.com
+Creation Date: 2023-05-06
+Expiration Date: 2027-08-17
+Name Server: ns3.fakecdn18.io
+Name Server: ns7.fakecdn1.io
+
+Domain Name: intel.io
+Registrar: GoDaddy.com, LLC
+Registrant Email: user2635@example.com
+Creation Date: 2019-10-16
+Expiration Date: 2028-08-16
+Name Server: ns4.fakecdn51.io
+Name Server: ns9.fakecdn25.io
+
+Domain Name: ctf.net
+Registrar: GoDaddy.com, LLC
+Registrant Email: user7274@example.com
+Creation Date: 2021-09-03
+Expiration Date: 2025-01-23
+Name Server: ns1.fakecdn67.io
+Name Server: ns7.fakecdn68.io
+
+Domain Name: harsh.tech
+Registrar: GoDaddy.com, LLC
+Registrant Email: user4905@example.com
+Creation Date: 2020-11-12
+Expiration Date: 2025-08-20
+Name Server: ns4.fakecdn55.io
+Name Server: ns9.fakecdn22.io
+
+Domain Name: harsh-intel.net
+Registrar: NameCheap, Inc.
+Registrant Email: user1733@example.com
+Creation Date: 2021-02-03
+Expiration Date: 2026-05-31
+Name Server: ns3.fakecdn54.io
+Name Server: ns7.fakecdn46.io
+
+Domain Name: secure.tech
+Registrar: GoDaddy.com, LLC
+Registrant Email: user9196@example.com
+Creation Date: 2024-05-05
+Expiration Date: 2027-02-09
+Name Server: ns4.fakecdn6.io
+Name Server: ns9.fakecdn14.io
+
+Domain Name: api.net
+Registrar: GoDaddy.com, LLC
+Registrant Email: user7558@example.com
+Creation Date: 2023-11-12
+Expiration Date: 2025-03-18
+Name Server: ns4.fakecdn81.io
+Name Server: ns8.fakecdn86.io
+
+Domain Name: shop.org
+Registrar: NameCheap, Inc.
+Registrant Email: infra@tutanota.com
+Creation Date: 2021-02-07
+Expiration Date: 2027-07-03
+Name Server: ns1.fakecdn42.io
+Name Server: ns8.fakecdn90.io
+
+Domain Name: harsh-pay.info
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: redteam_ops@protonmail.com
+Creation Date: 2019-01-06
+Expiration Date: 2028-08-02
+Name Server: ns4.fakecdn41.io
+Name Server: ns9.fakecdn64.io
+
+Domain Name: harsh.xyz
+Registrar: HOSTINGER operations, UAB
+Registrant Email: infra@tutanota.com
+Creation Date: 2024-07-11
+Expiration Date: 2026-09-28
+Name Server: ns3.fakecdn97.io
+Name Server: ns9.fakecdn69.io
+
+Domain Name: admin.net
+Registrar: GoDaddy.com, LLC
+Registrant Email: ops@secpenlabs.net
+Creation Date: 2022-04-27
+Expiration Date: 2025-08-01
+Name Server: ns3.fakecdn79.io
+Name Server: ns9.fakecdn11.io
+
+Domain Name: staging-cdn.com
+Registrar: GoDaddy.com, LLC
+Registrant Email: user3687@example.com
+Creation Date: 2020-06-03
+Expiration Date: 2025-10-25
+Name Server: ns1.fakecdn38.io
+Name Server: ns6.fakecdn3.io
+
+Domain Name: ctf-admin.xyz
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user3058@example.com
+Creation Date: 2022-02-02
+Expiration Date: 2026-04-26
+Name Server: ns3.fakecdn70.io
+Name Server: ns7.fakecdn10.io
+
+Domain Name: cloud.xyz
+Registrar: GoDaddy.com, LLC
+Registrant Email: user5717@example.com
+Creation Date: 2020-07-06
+Expiration Date: 2027-08-11
+Name Server: ns3.fakecdn74.io
+Name Server: ns5.fakecdn59.io
+
+Domain Name: news-cdn.org
+Registrar: NameCheap, Inc.
+Registrant Email: user2432@example.com
+Creation Date: 2021-02-04
+Expiration Date: 2028-03-12
+Name Server: ns3.fakecdn94.io
+Name Server: ns5.fakecdn92.io
+
+Domain Name: admin-harsh.org
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: ops@secpenlabs.net
+Creation Date: 2024-01-20
+Expiration Date: 2028-10-27
+Name Server: ns3.fakecdn1.io
+Name Server: ns9.fakecdn7.io
+
+Domain Name: api-harsh.net
+Registrar: NameCheap, Inc.
+Registrant Email: user2948@example.com
+Creation Date: 2019-05-05
+Expiration Date: 2026-11-11
+Name Server: ns1.fakecdn13.io
+Name Server: ns8.fakecdn74.io
+
+Domain Name: hackorn-vpn.tech
+Registrar: GoDaddy.com, LLC
+Registrant Email: ops@secpenlabs.net
+Creation Date: 2020-12-03
+Expiration Date: 2027-04-03
+Name Server: ns2.fakecdn30.io
+Name Server: ns7.fakecdn83.io
+
+Domain Name: cloud.net
+Registrar: HOSTINGER operations, UAB
+Registrant Email: john.cyber@protonmail.com
+Creation Date: 2018-01-20
+Expiration Date: 2026-11-01
+Name Server: ns4.fakecdn40.io
+Name Server: ns5.fakecdn73.io
+
+Domain Name: ctf-portal.xyz
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user2908@example.com
+Creation Date: 2022-12-11
+Expiration Date: 2028-12-17
+Name Server: ns2.fakecdn65.io
+Name Server: ns6.fakecdn57.io
+
+Domain Name: auth.net
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user9678@example.com
+Creation Date: 2019-09-28
+Expiration Date: 2028-06-09
+Name Server: ns3.fakecdn59.io
+Name Server: ns9.fakecdn50.io
+
+Domain Name: portal-intranet.net
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user970@example.com
+Creation Date: 2023-05-22
+Expiration Date: 2028-09-12
+Name Server: ns1.fakecdn67.io
+Name Server: ns5.fakecdn85.io
+
+Domain Name: ds-go.co
+Registrar: GoDaddy.com, LLC
+Registrant Email: redteam_ops@protonmail.com
+Creation Date: 2023-07-02
+Expiration Date: 2025-02-18
+Name Server: ns4.fakecdn14.io
+Name Server: ns7.fakecdn72.io
+
+Domain Name: auth-cloud.io
+Registrar: NameCheap, Inc.
+Registrant Email: user9369@example.com
+Creation Date: 2018-07-16
+Expiration Date: 2027-12-31
+Name Server: ns1.fakecdn7.io
+Name Server: ns7.fakecdn50.io
+
+Domain Name: vpn.com
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user3052@example.com
+Creation Date: 2020-06-26
+Expiration Date: 2028-12-30
+Name Server: ns3.fakecdn10.io
+Name Server: ns6.fakecdn64.io
+
+Domain Name: api.com
+Registrar: NameCheap, Inc.
+Registrant Email: user6260@example.com
+Creation Date: 2022-07-05
+Expiration Date: 2025-04-02
+Name Server: ns2.fakecdn19.io
+Name Server: ns9.fakecdn32.io
+
+Domain Name: ds-admin.io
+Registrar: GoDaddy.com, LLC
+Registrant Email: user6787@example.com
+Creation Date: 2018-02-12
+Expiration Date: 2028-07-07
+Name Server: ns4.fakecdn6.io
+Name Server: ns8.fakecdn17.io
+
+Domain Name: login.net
+Registrar: NameCheap, Inc.
+Registrant Email: user3014@example.com
+Creation Date: 2021-03-19
+Expiration Date: 2026-08-07
+Name Server: ns3.fakecdn14.io
+Name Server: ns5.fakecdn51.io
+
+Domain Name: portal.tech
+Registrar: GoDaddy.com, LLC
+Registrant Email: ops@secpenlabs.net
+Creation Date: 2018-12-09
+Expiration Date: 2028-11-21
+Name Server: ns1.fakecdn31.io
+Name Server: ns8.fakecdn79.io
+
+Domain Name: cdn-pay.com
+Registrar: GoDaddy.com, LLC
+Registrant Email: user726@example.com
+Creation Date: 2020-04-01
+Expiration Date: 2028-08-12
+Name Server: ns1.fakecdn51.io
+Name Server: ns8.fakecdn20.io
+
+Domain Name: news-intel.xyz
+Registrar: HOSTINGER operations, UAB
+Registrant Email: ops@secpenlabs.net
+Creation Date: 2024-02-20
+Expiration Date: 2026-10-13
+Name Server: ns1.fakecdn15.io
+Name Server: ns5.fakecdn53.io
+
+Domain Name: auth.org
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user9229@example.com
+Creation Date: 2022-05-07
+Expiration Date: 2028-03-07
+Name Server: ns1.fakecdn29.io
+Name Server: ns5.fakecdn73.io
+
+Domain Name: secure.tech
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user7377@example.com
+Creation Date: 2024-01-07
+Expiration Date: 2027-01-08
+Name Server: ns2.fakecdn19.io
+Name Server: ns7.fakecdn82.io
+
+Domain Name: staging.co
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user6733@example.com
+Creation Date: 2020-07-18
+Expiration Date: 2027-04-04
+Name Server: ns2.fakecdn81.io
+Name Server: ns7.fakecdn27.io
+
+Domain Name: admin-admin.tech
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: infra@tutanota.com
+Creation Date: 2025-12-28
+Expiration Date: 2026-01-27
+Name Server: ns2.fakecdn94.io
+Name Server: ns9.fakecdn47.io
+
+Domain Name: go-harsh.co
+Registrar: HOSTINGER operations, UAB
+Registrant Email: john.cyber@protonmail.com
+Creation Date: 2020-03-27
+Expiration Date: 2026-03-21
+Name Server: ns3.fakecdn71.io
+Name Server: ns6.fakecdn85.io
+
+Domain Name: portal-admin.tech
+Registrar: NameCheap, Inc.
+Registrant Email: ops@secpenlabs.net
+Creation Date: 2022-08-12
+Expiration Date: 2026-10-11
+Name Server: ns4.fakecdn32.io
+Name Server: ns6.fakecdn98.io
+
+Domain Name: cloud-portal.com
+Registrar: NameCheap, Inc.
+Registrant Email: user1483@example.com
+Creation Date: 2019-09-09
+Expiration Date: 2026-03-13
+Name Server: ns3.fakecdn9.io
+Name Server: ns7.fakecdn80.io
+
+Domain Name: api-ctf.tech
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user1672@example.com
+Creation Date: 2024-12-07
+Expiration Date: 2027-04-20
+Name Server: ns2.fakecdn72.io
+Name Server: ns9.fakecdn81.io
+
+Domain Name: inteln-test-data.xyz
+Registrar: NameCheap, Inc.
+Registrant Email: user6225@example.com
+Creation Date: 2018-03-23
+Expiration Date: 2028-04-15
+Name Server: ns3.fakecdn57.io
+Name Server: ns9.fakecdn74.io
+
+Domain Name: cdn.com
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user6459@example.com
+Creation Date: 2019-09-05
+Expiration Date: 2025-08-16
+Name Server: ns2.fakecdn82.io
+Name Server: ns7.fakecdn38.io
+
+Domain Name: vpn.tech
+Registrar: NameCheap, Inc.
+Registrant Email: user2779@example.com
+Creation Date: 2021-07-28
+Expiration Date: 2025-12-08
+Name Server: ns1.fakecdn84.io
+Name Server: ns6.fakecdn90.io
+
+Domain Name: data-staging.info
+Registrar: NameCheap, Inc.
+Registrant Email: billing@secpen.org
+Creation Date: 2022-04-09
+Expiration Date: 2026-02-13
+Name Server: ns4.fakecdn49.io
+Name Server: ns8.fakecdn5.io
+
+Domain Name: inteln-test-cloud.co
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user1374@example.com
+Creation Date: 2023-01-17
+Expiration Date: 2028-10-07
+Name Server: ns1.fakecdn86.io
+Name Server: ns7.fakecdn66.io
+
+Domain Name: secure.org
+Registrar: NameCheap, Inc.
+Registrant Email: john.cyber@protonmail.com
+Creation Date: 2018-02-25
+Expiration Date: 2026-11-30
+Name Server: ns1.fakecdn20.io
+Name Server: ns9.fakecdn81.io
+
+Domain Name: auth-cloud.net
+Registrar: NameCheap, Inc.
+Registrant Email: infra@tutanota.com
+Creation Date: 2018-07-24
+Expiration Date: 2025-06-12
+Name Server: ns4.fakecdn42.io
+Name Server: ns9.fakecdn25.io
+
+Domain Name: hackorn-inteln-test.tech
+Registrar: GoDaddy.com, LLC
+Registrant Email: infra@tutanota.com
+Creation Date: 2020-12-14
+Expiration Date: 2025-10-22
+Name Server: ns2.fakecdn90.io
+Name Server: ns5.fakecdn90.io
+
+Domain Name: shop.info
+Registrar: GoDaddy.com, LLC
+Registrant Email: billing@secpen.org
+Creation Date: 2021-11-13
+Expiration Date: 2026-05-09
+Name Server: ns1.fakecdn84.io
+Name Server: ns7.fakecdn37.io
+
+Domain Name: login.net
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user1455@example.com
+Creation Date: 2025-08-21
+Expiration Date: 2028-05-25
+Name Server: ns1.fakecdn73.io
+Name Server: ns7.fakecdn94.io
+
+Domain Name: cdn-harsh.tech
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user3747@example.com
+Creation Date: 2021-12-16
+Expiration Date: 2027-04-20
+Name Server: ns4.fakecdn60.io
+Name Server: ns7.fakecdn52.io
+
+Domain Name: ctf-cdn.org
+Registrar: GoDaddy.com, LLC
+Registrant Email: user6884@example.com
+Creation Date: 2025-06-03
+Expiration Date: 2025-12-20
+Name Server: ns2.fakecdn76.io
+Name Server: ns6.fakecdn28.io
+
+Domain Name: secure.tech
+Registrar: GoDaddy.com, LLC
+Registrant Email: infra@tutanota.com
+Creation Date: 2020-02-18
+Expiration Date: 2027-09-24
+Name Server: ns4.fakecdn56.io
+Name Server: ns8.fakecdn21.io
+
+Domain Name: staging-login.net
+Registrar: NameCheap, Inc.
+Registrant Email: user9968@example.com
+Creation Date: 2018-02-23
+Expiration Date: 2026-09-23
+Name Server: ns2.fakecdn44.io
+Name Server: ns7.fakecdn88.io
+
+Domain Name: auth-api.io
+Registrar: HOSTINGER operations, UAB
+Registrant Email: infra@tutanota.com
+Creation Date: 2020-05-07
+Expiration Date: 2026-10-31
+Name Server: ns2.fakecdn41.io
+Name Server: ns8.fakecdn36.io
+
+Domain Name: api-cloud.xyz
+Registrar: GoDaddy.com, LLC
+Registrant Email: user7706@example.com
+Creation Date: 2018-03-21
+Expiration Date: 2026-10-04
+Name Server: ns1.fakecdn50.io
+Name Server: ns6.fakecdn80.io
+
+Domain Name: login-news.io
+Registrar: NameCheap, Inc.
+Registrant Email: user5970@example.com
+Creation Date: 2018-01-13
+Expiration Date: 2026-11-02
+Name Server: ns3.fakecdn80.io
+Name Server: ns8.fakecdn72.io
+
+Domain Name: hackorn.info
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user9923@example.com
+Creation Date: 2020-03-09
+Expiration Date: 2027-12-09
+Name Server: ns3.fakecdn32.io
+Name Server: ns8.fakecdn55.io
+
+Domain Name: data.xyz
+Registrar: GoDaddy.com, LLC
+Registrant Email: user6914@example.com
+Creation Date: 2019-10-05
+Expiration Date: 2028-05-01
+Name Server: ns4.fakecdn98.io
+Name Server: ns7.fakecdn14.io
+
+Domain Name: cdn-shop.tech
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user2678@example.com
+Creation Date: 2019-08-04
+Expiration Date: 2026-10-08
+Name Server: ns4.fakecdn71.io
+Name Server: ns5.fakecdn81.io
+
+Domain Name: auth-admin.info
+Registrar: NameCheap, Inc.
+Registrant Email: user1056@example.com
+Creation Date: 2018-10-06
+Expiration Date: 2025-10-14
+Name Server: ns2.fakecdn14.io
+Name Server: ns9.fakecdn21.io
+
+Domain Name: panel.info
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user1339@example.com
+Creation Date: 2025-03-13
+Expiration Date: 2027-03-22
+Name Server: ns2.fakecdn71.io
+Name Server: ns5.fakecdn27.io
+
+Domain Name: pay-harsh.io
+Registrar: GoDaddy.com, LLC
+Registrant Email: user704@example.com
+Creation Date: 2020-08-10
+Expiration Date: 2025-11-09
+Name Server: ns2.fakecdn65.io
+Name Server: ns7.fakecdn42.io
+
+Domain Name: harsh-intranet.com
+Registrar: HOSTINGER operations, UAB
+Registrant Email: infra@tutanota.com
+Creation Date: 2024-07-14
+Expiration Date: 2027-10-04
+Name Server: ns1.fakecdn45.io
+Name Server: ns5.fakecdn75.io
+
+Domain Name: news-ctf.co
+Registrar: GoDaddy.com, LLC
+Registrant Email: user6373@example.com
+Creation Date: 2020-04-05
+Expiration Date: 2028-05-29
+Name Server: ns3.fakecdn43.io
+Name Server: ns6.fakecdn42.io
+
+Domain Name: admin-auth.tech
+Registrar: NameCheap, Inc.
+Registrant Email: user1856@example.com
+Creation Date: 2020-04-22
+Expiration Date: 2026-02-14
+Name Server: ns3.fakecdn89.io
+Name Server: ns6.fakecdn76.io
+
+Domain Name: vpn-login.xyz
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user2974@example.com
+Creation Date: 2022-05-11
+Expiration Date: 2026-11-02
+Name Server: ns4.fakecdn51.io
+Name Server: ns9.fakecdn97.io
+
+Domain Name: portal.tech
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user1767@example.com
+Creation Date: 2022-04-12
+Expiration Date: 2028-03-09
+Name Server: ns2.fakecdn13.io
+Name Server: ns5.fakecdn48.io
+
+Domain Name: auth.co
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user6850@example.com
+Creation Date: 2020-04-18
+Expiration Date: 2025-09-04
+Name Server: ns1.fakecdn61.io
+Name Server: ns6.fakecdn2.io
+
+Domain Name: login.xyz
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: redteam_ops@protonmail.com
+Creation Date: 2022-06-17
+Expiration Date: 2028-10-20
+Name Server: ns4.fakecdn4.io
+Name Server: ns5.fakecdn64.io
+
+Domain Name: ctf-admin.com
+Registrar: NameCheap, Inc.
+Registrant Email: user409@example.com
+Creation Date: 2023-01-09
+Expiration Date: 2025-01-04
+Name Server: ns1.fakecdn73.io
+Name Server: ns8.fakecdn72.io
+
+Domain Name: hackorn-inteln-test.com
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user8932@example.com
+Creation Date: 2024-03-06
+Expiration Date: 2028-01-13
+Name Server: ns2.fakecdn42.io
+Name Server: ns7.fakecdn53.io
+
+Domain Name: api.info
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: billing@secpen.org
+Creation Date: 2019-07-18
+Expiration Date: 2026-11-13
+Name Server: ns3.fakecdn83.io
+Name Server: ns8.fakecdn58.io
+
+Domain Name: ds.info
+Registrar: GoDaddy.com, LLC
+Registrant Email: user6874@example.com
+Creation Date: 2019-04-04
+Expiration Date: 2027-10-24
+Name Server: ns1.fakecdn67.io
+Name Server: ns5.fakecdn74.io
+
+Domain Name: intel.org
+Registrar: GoDaddy.com, LLC
+Registrant Email: user6126@example.com
+Creation Date: 2021-12-09
+Expiration Date: 2027-04-16
+Name Server: ns1.fakecdn29.io
+Name Server: ns8.fakecdn20.io
+
+Domain Name: inteln-test.net
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: john.cyber@protonmail.com
+Creation Date: 2018-03-08
+Expiration Date: 2025-03-05
+Name Server: ns3.fakecdn16.io
+Name Server: ns6.fakecdn24.io
+
+Domain Name: login.tech
+Registrar: NameCheap, Inc.
+Registrant Email: billing@secpen.org
+Creation Date: 2022-10-22
+Expiration Date: 2028-06-22
+Name Server: ns4.fakecdn82.io
+Name Server: ns9.fakecdn76.io
+
+Domain Name: intranet.com
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user7769@example.com
+Creation Date: 2021-12-08
+Expiration Date: 2028-11-03
+Name Server: ns4.fakecdn4.io
+Name Server: ns8.fakecdn5.io
+
+Domain Name: harsh-login.io
+Registrar: NameCheap, Inc.
+Registrant Email: user1369@example.com
+Creation Date: 2021-06-22
+Expiration Date: 2028-02-06
+Name Server: ns4.fakecdn28.io
+Name Server: ns9.fakecdn53.io
+
+Domain Name: secure.org
+Registrar: NameCheap, Inc.
+Registrant Email: user7598@example.com
+Creation Date: 2018-07-19
+Expiration Date: 2026-06-03
+Name Server: ns1.fakecdn90.io
+Name Server: ns9.fakecdn63.io
+
+Domain Name: ds.io
+Registrar: GoDaddy.com, LLC
+Registrant Email: user9858@example.com
+Creation Date: 2020-10-17
+Expiration Date: 2025-01-12
+Name Server: ns4.fakecdn96.io
+Name Server: ns6.fakecdn99.io
+
+Domain Name: login-shop.info
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user1912@example.com
+Creation Date: 2023-07-26
+Expiration Date: 2027-01-21
+Name Server: ns4.fakecdn3.io
+Name Server: ns9.fakecdn89.io
+
+Domain Name: auth-panel.tech
+Registrar: NameCheap, Inc.
+Registrant Email: user7158@example.com
+Creation Date: 2023-09-09
+Expiration Date: 2026-05-14
+Name Server: ns2.fakecdn16.io
+Name Server: ns5.fakecdn21.io
+
+Domain Name: api.xyz
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user4319@example.com
+Creation Date: 2018-06-12
+Expiration Date: 2026-04-21
+Name Server: ns2.fakecdn19.io
+Name Server: ns7.fakecdn18.io
+
+Domain Name: secure-login.com
+Registrar: NameCheap, Inc.
+Registrant Email: user5245@example.com
+Creation Date: 2020-05-24
+Expiration Date: 2026-01-22
+Name Server: ns4.fakecdn62.io
+Name Server: ns8.fakecdn28.io
+
+Domain Name: pay.net
+Registrar: GoDaddy.com, LLC
+Registrant Email: user8421@example.com
+Creation Date: 2022-08-21
+Expiration Date: 2028-07-05
+Name Server: ns3.fakecdn29.io
+Name Server: ns7.fakecdn53.io
+
+Domain Name: harsh.com
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user6412@example.com
+Creation Date: 2023-09-19
+Expiration Date: 2027-04-13
+Name Server: ns2.fakecdn31.io
+Name Server: ns9.fakecdn67.io
+
+Domain Name: news-login.com
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user6064@example.com
+Creation Date: 2021-10-30
+Expiration Date: 2026-09-14
+Name Server: ns3.fakecdn40.io
+Name Server: ns8.fakecdn66.io
+
+Domain Name: vpn-ds.org
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user4404@example.com
+Creation Date: 2021-03-29
+Expiration Date: 2028-05-02
+Name Server: ns2.fakecdn41.io
+Name Server: ns7.fakecdn31.io
+
+Domain Name: vpn.io
+Registrar: GoDaddy.com, LLC
+Registrant Email: infra@tutanota.com
+Creation Date: 2025-09-15
+Expiration Date: 2028-11-05
+Name Server: ns3.fakecdn92.io
+Name Server: ns9.fakecdn71.io
+
+Domain Name: shop-cdn.org
+Registrar: NameCheap, Inc.
+Registrant Email: user3380@example.com
+Creation Date: 2021-01-13
+Expiration Date: 2028-03-09
+Name Server: ns4.fakecdn69.io
+Name Server: ns7.fakecdn19.io
+
+Domain Name: api-intel.co
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user8120@example.com
+Creation Date: 2022-09-19
+Expiration Date: 2026-02-12
+Name Server: ns3.fakecdn7.io
+Name Server: ns8.fakecdn81.io
+
+Domain Name: api-cdn.co
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user2023@example.com
+Creation Date: 2024-01-02
+Expiration Date: 2026-07-04
+Name Server: ns2.fakecdn13.io
+Name Server: ns8.fakecdn27.io
+
+Domain Name: ds.com
+Registrar: NameCheap, Inc.
+Registrant Email: user3621@example.com
+Creation Date: 2020-12-28
+Expiration Date: 2028-02-06
+Name Server: ns3.fakecdn31.io
+Name Server: ns6.fakecdn3.io
+
+Domain Name: harsh-pay.co
+Registrar: GoDaddy.com, LLC
+Registrant Email: user1577@example.com
+Creation Date: 2022-07-23
+Expiration Date: 2026-03-29
+Name Server: ns2.fakecdn59.io
+Name Server: ns9.fakecdn22.io
+
+Domain Name: portal.io
+Registrar: NameCheap, Inc.
+Registrant Email: redteam_ops@protonmail.com
+Creation Date: 2018-12-02
+Expiration Date: 2027-04-17
+Name Server: ns4.fakecdn57.io
+Name Server: ns6.fakecdn95.io
+
+Domain Name: ctf-harsh.com
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user8325@example.com
+Creation Date: 2022-12-17
+Expiration Date: 2028-05-27
+Name Server: ns2.fakecdn48.io
+Name Server: ns6.fakecdn91.io
+
+Domain Name: api.co
+Registrar: GoDaddy.com, LLC
+Registrant Email: user3403@example.com
+Creation Date: 2024-09-25
+Expiration Date: 2027-08-20
+Name Server: ns1.fakecdn88.io
+Name Server: ns9.fakecdn32.io
+
+Domain Name: cdn.com
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user5665@example.com
+Creation Date: 2020-11-10
+Expiration Date: 2026-12-15
+Name Server: ns2.fakecdn35.io
+Name Server: ns7.fakecdn34.io
+
+Domain Name: pay-intel.xyz
+Registrar: NameCheap, Inc.
+Registrant Email: redteam_ops@protonmail.com
+Creation Date: 2023-11-22
+Expiration Date: 2026-06-07
+Name Server: ns4.fakecdn20.io
+Name Server: ns7.fakecdn19.io
+
+Domain Name: data-portal.xyz
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user1104@example.com
+Creation Date: 2023-04-11
+Expiration Date: 2027-05-17
+Name Server: ns2.fakecdn31.io
+Name Server: ns5.fakecdn26.io
+
+Domain Name: login.net
+Registrar: HOSTINGER operations, UAB
+Registrant Email: infra@tutanota.com
+Creation Date: 2018-02-05
+Expiration Date: 2026-10-29
+Name Server: ns2.fakecdn99.io
+Name Server: ns7.fakecdn66.io
+
+Domain Name: news.com
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user9987@example.com
+Creation Date: 2021-02-17
+Expiration Date: 2027-08-06
+Name Server: ns2.fakecdn59.io
+Name Server: ns6.fakecdn91.io
+
+Domain Name: inteln-test.org
+Registrar: NameCheap, Inc.
+Registrant Email: user19@example.com
+Creation Date: 2022-07-13
+Expiration Date: 2027-12-12
+Name Server: ns4.fakecdn83.io
+Name Server: ns9.fakecdn46.io
+
+Domain Name: harsh-go.co
+Registrar: GoDaddy.com, LLC
+Registrant Email: user3399@example.com
+Creation Date: 2022-08-17
+Expiration Date: 2027-02-23
+Name Server: ns4.fakecdn39.io
+Name Server: ns7.fakecdn4.io
+
+Domain Name: news-harsh.xyz
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user3730@example.com
+Creation Date: 2022-12-04
+Expiration Date: 2026-06-02
+Name Server: ns4.fakecdn52.io
+Name Server: ns8.fakecdn92.io
+
+Domain Name: vpn-shop.org
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user6343@example.com
+Creation Date: 2025-04-30
+Expiration Date: 2027-06-07
+Name Server: ns1.fakecdn77.io
+Name Server: ns7.fakecdn46.io
+
+Domain Name: secure-staging.tech
+Registrar: NameCheap, Inc.
+Registrant Email: billing@secpen.org
+Creation Date: 2018-09-03
+Expiration Date: 2025-02-20
+Name Server: ns2.fakecdn81.io
+Name Server: ns9.fakecdn48.io
+
+Domain Name: cdn.info
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user5360@example.com
+Creation Date: 2023-10-07
+Expiration Date: 2025-03-16
+Name Server: ns1.fakecdn20.io
+Name Server: ns8.fakecdn43.io
+
+Domain Name: inteln-test-auth.org
+Registrar: GoDaddy.com, LLC
+Registrant Email: ops@secpenlabs.net
+Creation Date: 2020-03-07
+Expiration Date: 2027-05-07
+Name Server: ns2.fakecdn54.io
+Name Server: ns6.fakecdn55.io
+
+Domain Name: staging-shop.net
+Registrar: GoDaddy.com, LLC
+Registrant Email: user7682@example.com
+Creation Date: 2023-02-26
+Expiration Date: 2026-12-03
+Name Server: ns3.fakecdn61.io
+Name Server: ns7.fakecdn74.io
+
+Domain Name: auth-cloud.org
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user3716@example.com
+Creation Date: 2022-07-16
+Expiration Date: 2025-04-16
+Name Server: ns3.fakecdn33.io
+Name Server: ns5.fakecdn19.io
+
+Domain Name: ctf.xyz
+Registrar: GoDaddy.com, LLC
+Registrant Email: user7617@example.com
+Creation Date: 2021-05-10
+Expiration Date: 2025-06-16
+Name Server: ns2.fakecdn21.io
+Name Server: ns9.fakecdn62.io
+
+Domain Name: harsh.com
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: infra@tutanota.com
+Creation Date: 2023-06-16
+Expiration Date: 2027-10-05
+Name Server: ns4.fakecdn76.io
+Name Server: ns6.fakecdn52.io
+
+Domain Name: ctf-data.org
+Registrar: HOSTINGER operations, UAB
+Registrant Email: ops@secpenlabs.net
+Creation Date: 2024-01-23
+Expiration Date: 2027-05-28
+Name Server: ns4.fakecdn12.io
+Name Server: ns6.fakecdn7.io
+
+Domain Name: cdn.com
+Registrar: GoDaddy.com, LLC
+Registrant Email: john.cyber@protonmail.com
+Creation Date: 2024-07-15
+Expiration Date: 2025-06-18
+Name Server: ns1.fakecdn79.io
+Name Server: ns5.fakecdn25.io
+
+Domain Name: ds.tech
+Registrar: NameCheap, Inc.
+Registrant Email: user7584@example.com
+Creation Date: 2020-11-30
+Expiration Date: 2025-11-19
+Name Server: ns1.fakecdn64.io
+Name Server: ns9.fakecdn29.io
+
+Domain Name: secure-ctf.org
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: infra@tutanota.com
+Creation Date: 2020-09-12
+Expiration Date: 2027-08-03
+Name Server: ns2.fakecdn91.io
+Name Server: ns6.fakecdn5.io
+
+Domain Name: login.net
+Registrar: GoDaddy.com, LLC
+Registrant Email: user5461@example.com
+Creation Date: 2023-05-27
+Expiration Date: 2027-06-11
+Name Server: ns4.fakecdn16.io
+Name Server: ns9.fakecdn94.io
+
+Domain Name: portal-shop.tech
+Registrar: NameCheap, Inc.
+Registrant Email: ops@secpenlabs.net
+Creation Date: 2023-08-01
+Expiration Date: 2027-08-08
+Name Server: ns4.fakecdn91.io
+Name Server: ns7.fakecdn58.io
+
+Domain Name: hackorn.co
+Registrar: HOSTINGER operations, UAB
+Registrant Email: john.cyber@protonmail.com
+Creation Date: 2019-07-29
+Expiration Date: 2026-05-07
+Name Server: ns4.fakecdn36.io
+Name Server: ns6.fakecdn93.io
+
+Domain Name: admin.com
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user5629@example.com
+Creation Date: 2025-08-18
+Expiration Date: 2028-09-10
+Name Server: ns3.fakecdn68.io
+Name Server: ns8.fakecdn68.io
+
+Domain Name: cdn.com
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: user7488@example.com
+Creation Date: 2025-01-12
+Expiration Date: 2025-05-09
+Name Server: ns4.fakecdn54.io
+Name Server: ns8.fakecdn78.io
+
+Domain Name: portal.xyz
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: infra@tutanota.com
+Creation Date: 2018-06-16
+Expiration Date: 2026-03-31
+Name Server: ns4.fakecdn31.io
+Name Server: ns8.fakecdn1.io
+
+Domain Name: login-login.io
+Registrar: Cloudflare Registrar Inc.
+Registrant Email: billing@secpen.org
+Creation Date: 2019-04-20
+Expiration Date: 2026-04-26
+Name Server: ns4.fakecdn72.io
+Name Server: ns7.fakecdn23.io
+
+Domain Name: secure.co
+Registrar: NameCheap, Inc.
+Registrant Email: user4033@example.com
+Creation Date: 2019-10-25
+Expiration Date: 2027-05-24
+Name Server: ns2.fakecdn94.io
+Name Server: ns6.fakecdn47.io
+
+Domain Name: harsh.io
+Registrar: HOSTINGER operations, UAB
+Registrant Email: ops@secpenlabs.net
+Creation Date: 2019-04-10
+Expiration Date: 2027-07-14
+Name Server: ns3.fakecdn16.io
+Name Server: ns9.fakecdn99.io
+
+Domain Name: news-news.io
+Registrar: NameCheap, Inc.
+Registrant Email: redteam_ops@protonmail.com
+Creation Date: 2019-10-27
+Expiration Date: 2025-10-26
+Name Server: ns3.fakecdn21.io
+Name Server: ns9.fakecdn89.io
+
+Domain Name: news.info
+Registrar: NameCheap, Inc.
+Registrant Email: user2754@example.com
+Creation Date: 2024-07-29
+Expiration Date: 2028-11-29
+Name Server: ns1.fakecdn96.io
+Name Server: ns6.fakecdn85.io
+
+Domain Name: go-cdn.info
+Registrar: HOSTINGER operations, UAB
+Registrant Email: user70@example.com
+Creation Date: 2021-10-19
+Expiration Date: 2027-05-02
+Name Server: ns1.fakecdn41.io
+Name Server: ns8.fakecdn11.io
+
+Domain Name: secure-login.xyz
+Registrar: NameCheap, Inc.
+Registrant Email: john.cyber@protonmail.com
+Creation Date: 2025-07-11
+Expiration Date: 2026-07-11
+Name Server: ns1.fakecdn.io
+Name Server: ns2.fakecdn.io
+
+Domain Name: panel-login.com
+Registrar: NameCheap, Inc.
+Registrant Email: john.cyber@protonmail.com
+Creation Date: 2025-05-20
+Expiration Date: 2026-05-20
+Name Server: ns3.fakecdn.io
+Name Server: ns4.fakecdn.io
+
+Domain Name: inteln-test.secpen.org
+Registrar: Cloudflare Registrar
+Registrant Email: infra.ops@tutanota.com
+Creation Date: 2025-04-19
+Expiration Date: 2026-04-19
+Name Server: frida.ns.cloudflare.com
+Name Server: vern.ns.cloudflare.com
+
+Domain Name: ds.cloudhostserver.com
+Registrar: NAMECHEAP INC.
+Registrant Email: redteam_ops@protonmail.com
+Creation Date: 2023-11-17
+Expiration Date: 2026-11-17
+Name Server: ns1.fakecdn.io
+Name Server: ns2.fakecdn.io
+

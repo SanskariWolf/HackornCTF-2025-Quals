@@ -1,0 +1,7 @@
+Domain Name: secpen.org
+Registrar: HOSTINGER operations, UAB
+Creation Date: 2012-04-15T18:18:07Z
+Updated Date: 2025-04-19T07:01:45Z
+Registry Expiry Date: 2026-04-15T18:18:07Z
+Name Server: frida.ns.cloudflare.com
+Name Server: vern.ns.cloudflare.com

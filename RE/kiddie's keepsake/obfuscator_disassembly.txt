@@ -1,0 +1,2 @@
+--- Disassembly for obfuscator ---
+An error occurred: don't know how to disassemble complex objects

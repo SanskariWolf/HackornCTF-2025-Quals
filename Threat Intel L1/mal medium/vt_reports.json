@@ -1,0 +1,1663 @@
+[
+  {
+    "sha256": "0cfd86a92699b4e78a9d76f77c3658a5933d981e1bdd2a8dc587fa386779f90b",
+    "positives": 2,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "95041f5283f4705eca53763cf634b1fbff49745fad5f65a10c08f07636d16aae",
+    "positives": 0,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "c0528b331a9c8cbdd555eeda37cf0e43daceb7e014b2c8f1e1dea64bf2932770",
+    "positives": 3,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "de07a3239c919cddab4d7c3f56b22728a536bc339bb66788e431c0340085a1ef",
+    "positives": 2,
+    "total": 70,
+    "tags": [
+      "office",
+      "docx"
+    ]
+  },
+  {
+    "sha256": "ee15b7c917e04dd756772ce2c78ad77d185e724baf3c73fc855e0c39744e0a66",
+    "positives": 0,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "cc6d3955e871de233a99723e41fefe494d2da760fca1e805397f54419fec42e1",
+    "positives": 2,
+    "total": 70,
+    "tags": [
+      "office",
+      "docx"
+    ]
+  },
+  {
+    "sha256": "28984dd708f31ba4331db4207c9f989c7cbf9fa1d63c66c0001a259862aa5d8e",
+    "positives": 0,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "3c7ee53f89f8fd980d5c53cf4a8e2a944a50021c54e44e3c7b5bbbdde2d5ea1d",
+    "positives": 3,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "a4874cb25bed9e1bcae6f5b6a74cf138b7c09e07646b5a9c0364c0fa479c8b0a",
+    "positives": 2,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "a7255d9725305144c783a8211c6ffe2207b13b1f95a0a276948241f777f635f1",
+    "positives": 0,
+    "total": 70,
+    "tags": [
+      "office",
+      "docx"
+    ]
+  },
+  {
+    "sha256": "df79e25acc55b3d80165b08736149c12a87128c35c03820986e991c055e57584",
+    "positives": 1,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "548c59c2456239548280ab0aae694ca6d2f1342d402655a00649a5d771d45f35",
+    "positives": 1,
+    "total": 70,
+    "tags": [
+      "office",
+      "docx"
+    ]
+  },
+  {
+    "sha256": "9ec4cc2002c3ef5ccfa83413f6fdcb202bddffd62979a4183394f8902e87f61a",
+    "positives": 1,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "bb9624d4d47d78507b4a5abceb78010f0ba5b5a7f2e43e807acd567e4e89749a",
+    "positives": 1,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "a329e58f042cd7dc6778912ebb51fc4b38f13e33ff0add507c581fe2c377c2e8",
+    "positives": 0,
+    "total": 70,
+    "tags": [
+      "office",
+      "docx"
+    ]
+  },
+  {
+    "sha256": "874736dae824c0837c2bfad9946cc337c59a6ded426088a4b94e5330038be9d0",
+    "positives": 2,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "132ccb4dcf5bd6511dc7aa3c4a3aec933a54eb197c7367c4e5f13d0bd720cb13",
+    "positives": 0,
+    "total": 70,
+    "tags": [
+      "office",
+      "docx"
+    ]
+  },
+  {
+    "sha256": "26b482a9400750916f68730e68b32ea5a220d60b03e23390d22c219360c7bd69",
+    "positives": 0,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "0f255c9abc80bdba0932539741d46ea32dcadac96f0325bbe78f9e3d83e0bbe9",
+    "positives": 2,
+    "total": 70,
+    "tags": [
+      "office",
+      "docx"
+    ]
+  },
+  {
+    "sha256": "73593669113abb494df92a7db47b81f8e9481d57ddd3cb844362a131987198ed",
+    "positives": 1,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "612204c9515ad3f3e2d13f1d5f7ecc3dbed00c9c6c197256e2305a7141ff28ea",
+    "positives": 0,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "433429ef261b3197480308bff4530869521c7cde55d0b81a629b3b80d51c2caf",
+    "positives": 2,
+    "total": 70,
+    "tags": [
+      "office",
+      "docx"
+    ]
+  },
+  {
+    "sha256": "1782c92315804281dbe0ca26ce2516e66362d80d547db42635e42edbcb1151fc",
+    "positives": 0,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "be55dc1fe6916f79a6b1d777b6d615a162914ef4a82e4d87db4fceb6aa613fbc",
+    "positives": 0,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "f96afc2b1f24f85a05ea522132f1737c2172162583f3fb97d46ce0fb4a9cabda",
+    "positives": 3,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "25ef3b8d18b6a290f57eabe99b52d2d4c50b4f148cc0fc91ff9ff60533d68e91",
+    "positives": 3,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "aeac8a9df6978233b1ce8dee33dbf11857b4a6068f808b657844a2f3f5c49963",
+    "positives": 0,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "e0cb3a0b26cc214d35db6f8b40ff3ae9391ca7df67ba9877a5b1ad2d2e15c5a3",
+    "positives": 0,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "ad5e19b448fbe80925813bd925a8e15a4fe99eae09999df0c52474030e31c434",
+    "positives": 1,
+    "total": 70,
+    "tags": [
+      "office",
+      "docx"
+    ]
+  },
+  {
+    "sha256": "e52c99c88f29bf8568001888e6bc63e3dd4f51235f71cda6ae0596b8971f1d0a",
+    "positives": 3,
+    "total": 70,
+    "tags": [
+      "office",
+      "docx"
+    ]
+  },
+  {
+    "sha256": "093245ab188d29a069d186ece85814b2c3820fa1888bf45c5b54b5593c2acf77",
+    "positives": 1,
+    "total": 70,
+    "tags": [
+      "office",
+      "docx"
+    ]
+  },
+  {
+    "sha256": "c50e614bcd3e172a8d310b3d2327ac4a747e8a0c43536c138bef0b02ec5e2253",
+    "positives": 0,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "92b536507e338315168dedb165d30af6d45ebe26bf0397d7811acc178178a234",
+    "positives": 0,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "468f9ea947303765fa01d19deb6681a12d8526c7794c5152a843b1a24e3e8fde",
+    "positives": 2,
+    "total": 70,
+    "tags": [
+      "office",
+      "docx"
+    ]
+  },
+  {
+    "sha256": "4ecb92b22e963ce82aa8a0b058451ffd66b863b65be4619c8efc8f7f1bb17ef3",
+    "positives": 0,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "5b2be13ddc1bd5093f5c4557b3fb1e03437f4adc366641e31d8e648858933277",
+    "positives": 0,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "2a57f77d50f00241d087c94cba5109b401630c221fc337d202f935b15c59961b",
+    "positives": 0,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "444423382a183ff9ec53e6e4334e5a1cb6e3ee53854fc6dc2a9937760045c37a",
+    "positives": 2,
+    "total": 70,
+    "tags": [
+      "office",
+      "docx"
+    ]
+  },
+  {
+    "sha256": "bc0e562051c7a81494a849087feb406553df5c247abb1dedab947945b7c48398",
+    "positives": 1,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "1848e086fcb60fa9e1183c1c6d485bb3e18c484e58329107662a97138f4049b2",
+    "positives": 2,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "164ca0d584fb45cd531b2e2719aa6ab64147c38ac418a5ccae61c37b16d60694",
+    "positives": 2,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "42f9dacbe6cfcd3c640c8ba853e561cce1dc5353b7e02d99379214dabc781c8a",
+    "positives": 2,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "0f66a58c61b853fd4f6fb570d118c810c549dc5ac71cf83643c97b71937e55df",
+    "positives": 1,
+    "total": 70,
+    "tags": [
+      "office",
+      "docx"
+    ]
+  },
+  {
+    "sha256": "3c3a9a16a21671d2a59ce4b1e575a16706f147b8fa0e9266b85a948bf3fc2b5d",
+    "positives": 2,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "b1939d5dfe4ebf12b542e36969b81b8e9be51724e92cf14eb7d940f4f3571ec6",
+    "positives": 1,
+    "total": 70,
+    "tags": [
+      "office",
+      "docx"
+    ]
+  },
+  {
+    "sha256": "dfe7ce93c2cc586cb931fd549c192ba8698c9224e89694658fb1a4ba3dff3d26",
+    "positives": 2,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "b74990132a40500afe12d8501c585073ce92f830a4ec138d7e17e315d6ce44b4",
+    "positives": 2,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "15dbe9b5337415b237caf8cce08fe2826cb62774e45b37a2f1f8bcdd8372226b",
+    "positives": 3,
+    "total": 70,
+    "tags": [
+      "office",
+      "docx"
+    ]
+  },
+  {
+    "sha256": "bcaf5c1929ce5bc55ed906ba10da4318aeabb33d4ac5e3f7632b76259c6a5887",
+    "positives": 3,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "319cf0ddb9bbc652afbe3e912e7db714c91b14bc03b89b9f39b75e53e6401301",
+    "positives": 2,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "1b1d9a571ac3fe364211e12262a698b171ac468c0e06312212cae3046ea3cf63",
+    "positives": 2,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "090addeb57bc2a4020a1af3fb15d164ce9d49b7dee3639533e320fb72e4f0e24",
+    "positives": 1,
+    "total": 70,
+    "tags": [
+      "office",
+      "docx"
+    ]
+  },
+  {
+    "sha256": "42c1479e467885ad1d56707847eec4ddca6e1908dea6e24a56a8feb9848077d3",
+    "positives": 0,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "798e8db6f305d0cc91e31f9f04988f57a9374956d2e9f6b770809eb7dd884860",
+    "positives": 0,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "b6158f08bceb052f564c14ade3bd564c30917cc3febf0073aa23db1e7a33c9c3",
+    "positives": 0,
+    "total": 70,
+    "tags": [
+      "office",
+      "docx"
+    ]
+  },
+  {
+    "sha256": "0814b5d76e1c739e400cee38f41acf54555ebafd899935ae3e0f923e288cf2cb",
+    "positives": 0,
+    "total": 70,
+    "tags": [
+      "office",
+      "docx"
+    ]
+  },
+  {
+    "sha256": "19ef08e7820c5192841dac1c1b811921b5cfde75734d9a6c8d1bfe9bf8bfa151",
+    "positives": 2,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "a949f5593da4fab900c97b7c6e64b106e4c4721813066300af1d4c142e081cc8",
+    "positives": 1,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "eabab0b43eeb2b4cc0b8e3143e97cc537b2abc15793139f450ecaba97d44046d",
+    "positives": 2,
+    "total": 70,
+    "tags": [
+      "office",
+      "docx"
+    ]
+  },
+  {
+    "sha256": "c0b8511a1de70fb7001359a025887daa32e48b3410c5112348751850094f19cd",
+    "positives": 0,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "cd3b09edaa8fc78ab03bdeffa8ec52458117bb3697ab478ce125b4fc7106d6f2",
+    "positives": 0,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "504d626c08892491652bf0600a8c39968908575ff783c048331f6468b205822d",
+    "positives": 2,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "6ca63d659baf4fa4be5196938423fe65452df37fb57ba811f2320e1018197cc5",
+    "positives": 1,
+    "total": 70,
+    "tags": [
+      "office",
+      "docx"
+    ]
+  },
+  {
+    "sha256": "2251ac28b7bfe2befeac608eec5a2ba1e1f077cc464c5b3308fa41ebca46e44b",
+    "positives": 0,
+    "total": 70,
+    "tags": [
+      "office",
+      "docx"
+    ]
+  },
+  {
+    "sha256": "262a429ed773b2f318fca20b92ec6c94a9c5ebc8e98ad3d229ef2ba48a23b64c",
+    "positives": 3,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "726c2cd992a7934ca8ee497d7ec2bb57598d2689495e4fd9f8c83aac2510b842",
+    "positives": 3,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "f77fc65a181dae8fb3e5d1fe85dd7073124343bcbe3d26d4952e21949a909e41",
+    "positives": 2,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "a5a82f0f869d598dfb4a0a687d19772db31b1b980856a6a30baa70307631103b",
+    "positives": 0,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "fdb3b6d34e051d6ae096e86ceffa34a2770dd86f4593f3930c16adadd3d59f5d",
+    "positives": 1,
+    "total": 70,
+    "tags": [
+      "office",
+      "docx"
+    ]
+  },
+  {
+    "sha256": "aaf2c148f9dedec7ddceb7c48fd1ffc26305b8cd25f048637ecd4ec2315663c0",
+    "positives": 2,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "1ff551e083add70e838f2cb1f3130106f0cd4fb72468bbaddfe74e599658ae76",
+    "positives": 3,
+    "total": 70,
+    "tags": [
+      "office",
+      "docx"
+    ]
+  },
+  {
+    "sha256": "76a4997d5dd3217fb709017ac7e514fd0665e33ac993683009b01f94ec4c73ad",
+    "positives": 3,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "d4ba2c70cb21b97cd05139324eacb06288135e8155e36cd8518c309d7e4e855d",
+    "positives": 3,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "6bf6260cdaa441f0dae5c411b4511ec73cb5c4ae1c5821a4244b513a0dd8daaa",
+    "positives": 1,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "b9b745a27f43800dbfa4add4e3a806195683ebf4086cc6594ba812525aa6bd0d",
+    "positives": 0,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "fecda8395fe46294ea7fd284d4530f1a7bd4cdb378db5e5dcde14e6b90c12567",
+    "positives": 3,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "07683c5e1103bc1cda251899f1430a803d0e852155485da74454e14e397a6480",
+    "positives": 0,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "d07ee940e085b46fc580e97ab5245cf5dc917cac6e80437ce0ef314ba6a39b2a",
+    "positives": 2,
+    "total": 70,
+    "tags": [
+      "office",
+      "docx"
+    ]
+  },
+  {
+    "sha256": "1f0f897940affb1558c37e57f3410d997afa6f1303b0889785edc2372c6e427c",
+    "positives": 3,
+    "total": 70,
+    "tags": [
+      "office",
+      "docx"
+    ]
+  },
+  {
+    "sha256": "12dc95b9a8f0e549448416fd38bf8554690deebf3d93cf05e3d00668c43ba7f7",
+    "positives": 2,
+    "total": 70,
+    "tags": [
+      "office",
+      "docx"
+    ]
+  },
+  {
+    "sha256": "113c4653e9b95171509f7d565a7c1094792f49602e5d70c636751cc5ecd55a53",
+    "positives": 1,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "94caf19b2f0c5db0e3c5694b17041abb48d3915b3095ecf572050762b72746d4",
+    "positives": 0,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "3c26bcdc27a92f209ae926413529f2db7dde793dfc3be080be052b595df4730c",
+    "positives": 3,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "9de240fb86c6eb9d96b2836bf3eebaf6c6462803e454c3e84f64011f1e9258d4",
+    "positives": 0,
+    "total": 70,
+    "tags": [
+      "office",
+      "docx"
+    ]
+  },
+  {
+    "sha256": "0fbb59ca52179025129850385555d59782339482db72900fb8d26beed53de847",
+    "positives": 0,
+    "total": 70,
+    "tags": [
+      "office",
+      "docx"
+    ]
+  },
+  {
+    "sha256": "87aa1ebf50a0d2808a6e1ff82e941c5a85bec0fa4999b114c660557c96cfa4a7",
+    "positives": 3,
+    "total": 70,
+    "tags": [
+      "office",
+      "docx"
+    ]
+  },
+  {
+    "sha256": "50e16dc2d679d7d5652c934dca9803ba0e4df124eeef0faaa5d18bc9feba27f5",
+    "positives": 2,
+    "total": 70,
+    "tags": [
+      "office",
+      "docx"
+    ]
+  },
+  {
+    "sha256": "33de3bb43a987d1b93e162cc058672ff4b01296ce9e9a9d7122b12203da33a82",
+    "positives": 2,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "d52cadac88e64d72af3fb52503fa77d9c92966b5047427de366cd5f8bcc7d154",
+    "positives": 0,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "874dc01405c6ab0ba78c6e936a6277bc687e1d2e2aa2b80add0fe8445819d9eb",
+    "positives": 2,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "8883c234c4e7fb84865ba8c4f0561b39eb9c0f0506f64d012270303555da9a29",
+    "positives": 0,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "f777ec798d7ac950a9f54b77afbb37cc555e0f65ec8a62a748278250c929cd3d",
+    "positives": 1,
+    "total": 70,
+    "tags": [
+      "office",
+      "docx"
+    ]
+  },
+  {
+    "sha256": "93b51400af0ebf6fdcbda8dd8db3a91abe9692f0fc4f8226a617ac4b49dd4c59",
+    "positives": 2,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "ce39a54d93939ba6e76811ceb3fb5199618991fe034123fb0189a9a652cb037d",
+    "positives": 3,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "f127bcb9000bf3d5b129cd396a669dda60ecceb710d8ca809ed91269083728d5",
+    "positives": 1,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "9955fc1c7b902a17c19bd902c0f993a7a8275410f226bc0c320750e38796b430",
+    "positives": 3,
+    "total": 70,
+    "tags": [
+      "office",
+      "docx"
+    ]
+  },
+  {
+    "sha256": "3242647d62b79f618460962e4e884a8aa6725fc302030a809050fcd5cb30687c",
+    "positives": 2,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "b043a58b05c14fd8e2d6664e8443b13be8b1f701ab9b40f86cac33a99132c58d",
+    "positives": 0,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "26df8acb5cedb5416098ed759b63cd5013efb0df87189e038920b60cddfcfa55",
+    "positives": 1,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "682032be387b806ffd6190bcf03e4798e7088a4bb65e602f305179bf3aaabf50",
+    "positives": 1,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "5672a5a8aaee560583bfc378442d11e61b65f7d475b1d4101f762f9547bc8013",
+    "positives": 1,
+    "total": 70,
+    "tags": [
+      "office",
+      "docx"
+    ]
+  },
+  {
+    "sha256": "dece74c85d8ca41e8b0c22aeb450e03210449daaebbd350b58ed6fe35b251e8d",
+    "positives": 2,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "cf1940a98c6af1a71aa4ed266b6f1f24e17ef24771e24c0d9fa350db80be4289",
+    "positives": 1,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "48009ea2f30196e9141c934ee6aae3ae04aefe746cbe9d3bd1f6409beee34f34",
+    "positives": 1,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "0dee81c67b2524ff1918a6bc863f388a7c41627be9b37357b3255229c84c4586",
+    "positives": 1,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "a3bbd171ab09772747304c74c521e491405b00a13ae483a8915e9f72f50b4f5f",
+    "positives": 1,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "6e0840143862cf9f30a7cbb816965d8c860b3b7b6378f5093de1edc76d344d68",
+    "positives": 2,
+    "total": 70,
+    "tags": [
+      "office",
+      "docx"
+    ]
+  },
+  {
+    "sha256": "37f4952dd72f8761473c2b1a2a7e70f7ce2d23e3283894a0d8ad7f68a163376f",
+    "positives": 0,
+    "total": 70,
+    "tags": [
+      "office",
+      "docx"
+    ]
+  },
+  {
+    "sha256": "33b29eaa240e79aa6627452a6500c189fd0ad3d58639a57bccaf4de31bbe215f",
+    "positives": 1,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "ef27d8f2bf091b872e2b56ad169a7e3e9a70a01d0424a6886f7e6da537686629",
+    "positives": 2,
+    "total": 70,
+    "tags": [
+      "office",
+      "docx"
+    ]
+  },
+  {
+    "sha256": "91332c058ca69bd2f03f4663b3fec111917da9e3fbc6e7c4c3aba473a5a5ee47",
+    "positives": 2,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "adb2bbd374b0ea3f98f9eafec3bdf55659034c6499939452b86342fd38f69df9",
+    "positives": 1,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "90b2bf1d6d798d84436fb02c18dc1c0651b77acb2200c5def7f3b5b898450655",
+    "positives": 0,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "a341fc5e6d1a2228e069a9850e8ffce1dc9e3bdeb22c3a82d17fe901c1858b81",
+    "positives": 0,
+    "total": 70,
+    "tags": [
+      "office",
+      "docx"
+    ]
+  },
+  {
+    "sha256": "95bfb65f2e4265f8086f748a4ac094ec75ed8975ab2dc0e03414cede160f1bb8",
+    "positives": 2,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "1d0c94f0c87734aed702f4060ea1d4a1d826b93c29a06ff6bad29705ecf02da7",
+    "positives": 0,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "6aea45a5700787b255a528b3077605e1b9300d0ee5209596513a611bec4b2d93",
+    "positives": 0,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "3153d6eefcf30a5662f4f5279bb506c5c19a0c61520e0e8423f4c2d352e18857",
+    "positives": 1,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "51fc19a5db1b33b48fade805f6824d3bdc3c2403739538dadd83c1ab9c601e6d",
+    "positives": 3,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "01e228799757216420faf145d2990c5a12aebfe83ae1a5e497789411766aa8c5",
+    "positives": 1,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "7b15f7e745f488c95fa404ad6ceca350479e2b17b8b8cbf4aca4189e49755e0e",
+    "positives": 2,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "fdd8ce5e13f4147a702d5f66d5276b6e1ab4cc3f03a547a0f4b8e1ca613007ef",
+    "positives": 2,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "0a8d88b0e33cce35293c46ab6cf014dcec705c26acb20d101d80f80fe4732f49",
+    "positives": 0,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "36ff73684cdd0f40e07a90c471b4b76af3011906ee4361f1f2f69204cf83d751",
+    "positives": 0,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "a71a3f046aee01eab520c2cc18f1388873afa356b25f4e0c555b896393265a3d",
+    "positives": 3,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "5c2a0cead64e164bd5d353103212ff7c712c0043b19b52e611c333066e590209",
+    "positives": 0,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "d93cc6500603ffb896f20711718ce2f1c8049043c39359fd31bf584277cf7c88",
+    "positives": 2,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "ba3141dc146778d5b5402106982539517a675a08416b76365f4cd1ef51566f5f",
+    "positives": 3,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "336cedffe9c411e55ce04ade3e55903cfc7ff71c2c8a9fede664f1887762dd40",
+    "positives": 0,
+    "total": 70,
+    "tags": [
+      "office",
+      "docx"
+    ]
+  },
+  {
+    "sha256": "2e972b612d6c87d5c9ee5588cedd61b8a6b111b33ea085143469e0e4f1e4e2f4",
+    "positives": 2,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "b6ca821c64b7f47dbdee6148d4fd0cc4f21305de87fe57fe36a9a04c1e7d4e7a",
+    "positives": 3,
+    "total": 70,
+    "tags": [
+      "office",
+      "docx"
+    ]
+  },
+  {
+    "sha256": "f2dd27bdf1519a4581e30b4ef8bc5f60ccedbd36e2ea6b65f7818c11f45e5ab0",
+    "positives": 3,
+    "total": 70,
+    "tags": [
+      "office",
+      "docx"
+    ]
+  },
+  {
+    "sha256": "67a9f3997f2efbbb2bc27314db47189cfc3165980e30afc73624d78853dceb29",
+    "positives": 0,
+    "total": 70,
+    "tags": [
+      "office",
+      "docx"
+    ]
+  },
+  {
+    "sha256": "29ffdde0e8dfc8170155010d07bc85b6b135fd96feb1a607f9707e9b4019e4fc",
+    "positives": 1,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "a2c1a3d5e370c2c64f86ad0f73aaa15c0265cbfd0b9108176a18ef294b173c26",
+    "positives": 1,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "bb08bdc4f942386c0438a80adcca6cf31f4731d32be68f8e61244f2bf49cd1b2",
+    "positives": 2,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "f12999c782c46d52632a2259cc447d85290da900201f5eb54d53b6c1c9990c03",
+    "positives": 1,
+    "total": 70,
+    "tags": [
+      "office",
+      "docx"
+    ]
+  },
+  {
+    "sha256": "b9e8b59c146abeb414eb51b98fe908b138566db933f7479047e5ee2079bb6d13",
+    "positives": 2,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "6527028033693b6f48005f673297464a3a9b8657e7f9d1a19e6d62f0f777f357",
+    "positives": 1,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "e8b0346d71f1fccade24e2c3bb5847cffc0758639fd7dc9ad5d816ce971129dc",
+    "positives": 3,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "895596ef88ff9c79d2c9621f635542913a3109c22af7c4b539551599d124f389",
+    "positives": 1,
+    "total": 70,
+    "tags": [
+      "office",
+      "docx"
+    ]
+  },
+  {
+    "sha256": "9379a636bb0cd9697a85fb0546017cec0ebedf4b1be8a24ba9afe63fbc4129b4",
+    "positives": 1,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "3858cc7aa2996eefc28139898201b2ffd7d0f886857b24f23202df1d900bab23",
+    "positives": 2,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "6e4a7db853cfaa90f27402724ad1cdf5133a08be848fc0d80c33e8458e9480a7",
+    "positives": 3,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "871340514d4b81cf9e4802e3bb78921c91bd7c66d31c3a86ddf39f98fd40cebc",
+    "positives": 1,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "5a173ec2fbb2a55fa84aaa0376a2a7130408d1e941818de590ec50ea0879c4d0",
+    "positives": 3,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "191f4c2d53956f176fe01218970df84809ad3c946436cfd5613624abba87fb8f",
+    "positives": 1,
+    "total": 70,
+    "tags": [
+      "office",
+      "docx"
+    ]
+  },
+  {
+    "sha256": "eb3f81fce6c8cb80245e7db98ba811639f131a14ffbfc348b89d4e66f91339fe",
+    "positives": 2,
+    "total": 70,
+    "tags": [
+      "office",
+      "docx"
+    ]
+  },
+  {
+    "sha256": "8afc45e9fe944fa78a3ed105e0f2905cfedeb146878ac6dcb3dbb55f8b3994f4",
+    "positives": 0,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "c88c5b04d504d7515153712b9e83db6d76d07e04defda84eca18a6048194f685",
+    "positives": 0,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "5ff6fe125dc508f69071c5097607cf078c9da1ed1c77ed310714fb953c21d194",
+    "positives": 2,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "40bce567f9b10dfd7f89623fdcf49d3d711a2b63b1389e166ec7ad4f71cef932",
+    "positives": 1,
+    "total": 70,
+    "tags": [
+      "office",
+      "docx"
+    ]
+  },
+  {
+    "sha256": "3b55d6e607aeca46b18c4236bee51cc9b72ff52440f7ae338a5cbbc29d69f061",
+    "positives": 0,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "40c771b8ed42a7daddc72f64a61452a3d3a53f8cd285e22cd3ffebea3420ca65",
+    "positives": 1,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "357487fa438e2edcf155106813649bbaaaaea159bf495fe4eabc1898b49688cb",
+    "positives": 1,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "85ea3b5d00a01ca849855de49d569a3725655ebf72f852f403f96c48409bec84",
+    "positives": 3,
+    "total": 70,
+    "tags": [
+      "office",
+      "docx"
+    ]
+  },
+  {
+    "sha256": "7ca274327c6c7d5b0b2aba84cd5fb5620403559d4c565896185e6ed49daed74b",
+    "positives": 3,
+    "total": 70,
+    "tags": [
+      "office",
+      "docx"
+    ]
+  },
+  {
+    "sha256": "0f05e0d0313a1afa5702b53f91aa1812b55815d9ae67d0ac7681215084a3518e",
+    "positives": 47,
+    "total": 70,
+    "tags": [
+      "macro.dropper",
+      "powershell",
+      "emotet-like"
+    ],
+    "related_hash": "deadbeefdeadbeefdeadbeefdeadbeefdeadbeefdeadbeefdeadbeefdeadbeef"
+  },
+  {
+    "sha256": "cefbc7d1a6686acf47d158bc5931f5a254b1e20be9f0888bc3419feb6c02dcc5",
+    "positives": 0,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "2a2e2e6fd1d41dc247b47c619bc4049706af0d5f17d8192074d21b302566aee4",
+    "positives": 2,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "2fe92075583431b1f24eeee2f883fe720e0468c6e4f2f63c584d67c41d1e32c3",
+    "positives": 2,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "020b6e182720e941b0fcb69abb2cb50a4ab95edd368fda36c902ac3396bd0d38",
+    "positives": 1,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "a40771d701c876a6d408fa201dcb74c0dfe58089434b5a3fa0100fe8ecd322da",
+    "positives": 3,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "6b8b5ab81e7e8de2dba4699c298d6d5bb7cb165c8da762a2acacc773edcbd46b",
+    "positives": 3,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "e2162581426370e8c7cab97b80ea16d66136c60c88e05fdc9dc4bff887be72a9",
+    "positives": 3,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "fe2ab52a24f1f3fff63860242529c7f554c6d3edaac0d68039d9ca56d8c4b46f",
+    "positives": 2,
+    "total": 70,
+    "tags": [
+      "office",
+      "docx"
+    ]
+  },
+  {
+    "sha256": "9e287f42473466d70e9e99a36e727d91cb2f50fbc18bf807c1a9bd819307e3cc",
+    "positives": 2,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "7bb5c08865ca1ae74854bceb9baa86871ee7b3c17c621de0fc119e4708674d15",
+    "positives": 0,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "3bb1cb65350b49238d1acdba7ec1405fcf90f835a69019c8d398506456fa172d",
+    "positives": 2,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "75e0238d65a93e91ea39b7018387de877430add7daab6289a756664132267805",
+    "positives": 1,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "d4b49ac5e4408dcb8e22b977ad6699b1b661b4eb6f0d9583969cf25d96ff06b2",
+    "positives": 3,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "d465b9d481604da1af9840797b732bc195f3a7fe7e7ae9ce0cf0b2beea9f5783",
+    "positives": 0,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "bef8cd6de72276235e2e86a804eab93b11f2e326bc4374ad5c9729a2e66d2ad4",
+    "positives": 1,
+    "total": 70,
+    "tags": [
+      "office",
+      "docx"
+    ]
+  },
+  {
+    "sha256": "ec903e385e3ab3553739d5ddab09ebadb50f1c4bf902e47c0d49d1eaa1a8a1e0",
+    "positives": 2,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "e0a623f415e10cd8ad1d928b525e465a38de6642362c12ca660f1c5505ed0733",
+    "positives": 0,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "38f7f621025b8d7d09b491c5dbe809488b83be359d1ec6581968b2d3a5862c59",
+    "positives": 0,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "d7dac7dea13a55f667057c0cac70bcb005c55828393f1734d1c71f3867de61b3",
+    "positives": 1,
+    "total": 70,
+    "tags": [
+      "office",
+      "docx"
+    ]
+  },
+  {
+    "sha256": "d59b1835c22dc8238d2f2efcc07d6d423b525fce7a666575bc54b516184a49ac",
+    "positives": 2,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "462eec2c42e26c7e3a0a0a3aedfff2203dcedf4f760a54ad07236a3498cbeab0",
+    "positives": 0,
+    "total": 70,
+    "tags": [
+      "office",
+      "docx"
+    ]
+  },
+  {
+    "sha256": "85e594218dd5d40d4c045244eea86c570b9e1a094c9fe7c65f2cd7541e672928",
+    "positives": 0,
+    "total": 70,
+    "tags": [
+      "office",
+      "docx"
+    ]
+  },
+  {
+    "sha256": "5f22c9f917a5a4a7d8d6f7ef50dcbb325623d34dd0fd87598326f0120278ac79",
+    "positives": 0,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "f0272a5f415739888403f8b36743bed2fac9d7cd3cdefbea55c29afa6d80952b",
+    "positives": 1,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "7997a8f037604b9d96efa020b4164cd2e5ad8a21de1428cadf5a4153af356eca",
+    "positives": 3,
+    "total": 70,
+    "tags": [
+      "office",
+      "docx"
+    ]
+  },
+  {
+    "sha256": "3c65346306e23354918e2f09dfba2e39dcdc67ec902905910b69a15e952d43fd",
+    "positives": 1,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "2a7eaf049830a66062c4b23f48d26b7866ff8b760c367e877c6a423809b90dbd",
+    "positives": 2,
+    "total": 70,
+    "tags": [
+      "office",
+      "docx"
+    ]
+  },
+  {
+    "sha256": "7a90a4b4b5a0c4d310c5dea11ec51c0743f2b75788938b6a84e9d1bc8f8d8018",
+    "positives": 3,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "78cb3ab6d24c13fbdb4eea97fc029be9ddeb1bc164ccacb172c4e803f764167d",
+    "positives": 1,
+    "total": 70,
+    "tags": [
+      "office",
+      "docx"
+    ]
+  },
+  {
+    "sha256": "7c4fad69a6350491509d06c6fa2b7c4fc944af9840cb48b3f013a36e03e2ac8a",
+    "positives": 2,
+    "total": 70,
+    "tags": [
+      "office",
+      "docx"
+    ]
+  },
+  {
+    "sha256": "95d7055e94e3732bbf4296a4b8d21129c810b3541312730177c2d9a4f20c4dae",
+    "positives": 0,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "7605f1a4c8c57ec210c73cd945767d9283b0e48c658c909c9d5f34b79b5fa429",
+    "positives": 2,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "f147dd4b4238b11a253ea7def1ffb5f87172d07a9e754b96af139b31a5c1ec72",
+    "positives": 2,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "882860973062e7c5298e450f767e2e3bb59a8aace438bd479bffdf124054ee23",
+    "positives": 3,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "91179d14194caf25cfd926c275dbdc7aeb0abdec51ac12b1681f5f41079f3264",
+    "positives": 3,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "4dba7594c1d15d33c7acc98d0cb0f7be2c8ff9672f9eb5151c0daf73915b8373",
+    "positives": 0,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "cbad8121b18f328dc66b60672c8e2398223fd55f2c40a7696dee84773bb7cd58",
+    "positives": 0,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "c3653fae145d3da01d3b9caccdb45114a35bb0ccb5154868d35a30f241866b6e",
+    "positives": 0,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "a202873fc30a7d79f0665a853f6376d1cd82206c7eb5cc1ab312ec315b030c72",
+    "positives": 0,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "e7744d5edb380184f8eb149f0cd1b7e0b2662aa862b06bc222641ca5951da1d1",
+    "positives": 1,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "97e991d0bda0f741531d2f9663c698780cfbdc7aae0b94abb1118a5ed6273555",
+    "positives": 0,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "sha256": "45fce3a34318621db11b035b89c1913d760d523e3b36b7e879cda187b074444e",
+    "positives": 0,
+    "total": 70,
+    "tags": [
+      "pdf"
+    ]
+  }
+]
