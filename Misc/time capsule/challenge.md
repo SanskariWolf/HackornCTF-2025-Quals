@@ -8,4 +8,4 @@ you can't always get what you want
 Hints 
 'Comment' is what you should look for.
 
-Attachements - time_capsule.zip.zip
+Attachements - time_capsule.zip

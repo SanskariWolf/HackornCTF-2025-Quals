@@ -6,4 +6,4 @@ And the first thing that i like to do is to run it
 
 And we got the text of the flag - spl_is_cr4zy
 
-Flag - SPL{spl_is_cr4zy}
+```Flag - SPL{spl_is_cr4zy}```

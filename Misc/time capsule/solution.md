@@ -1,11 +1,12 @@
 Unzipping the file gave me the following files
+```
 .
 ├── drop.jpg
 ├── flag.zip
 ├── forum_logs.txt
 ├── pubkeys.asc
 └── users.csv
-
+```
 
 ran stegseek over drop.jpg, Got nothing. 
 
@@ -45,7 +46,7 @@ Using ```ZipUp``` as password to flag.zip did unzipped it.
 
 flag.txt did gave the content of the flag ```0001111time_capsule_of_lies```
 
-Flag - SPL{0001111time_capsule_of_lies}
+```Flag - SPL{0001111time_capsule_of_lies}```
 
 
 I do feel a little bit wrong/sorry that it might not be the intended solution as I didn't used any of the files that were there to aid and aperisolve just gave off due to some other member's mistake. 
