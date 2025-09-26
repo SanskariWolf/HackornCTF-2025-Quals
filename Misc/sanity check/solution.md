@@ -3,4 +3,4 @@ Annocement tab literally directly points towards the Discord Annoucement and the
 <img src="../../assets/Misc_SanityCheck_01.png">
 <img src="../../assets/Misc_SanityCheck_02.png">
 
- SPL{3L337_H4cKeR_25}  
+Flag - SPL{3L337_H4cKeR_25}  
