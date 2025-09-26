@@ -1,0 +1,10 @@
+Challenge Name - mal medium
+Points - 100
+
+Description
+A suspicious phishing email claimed to come from support-hackorn.secpen.org - as reported. Goal: Identify the suspicious subdomain that briefly existed.
+
+Sample: SPL{sone_random_text}
+
+
+Attachments - dns_sluth.zip
